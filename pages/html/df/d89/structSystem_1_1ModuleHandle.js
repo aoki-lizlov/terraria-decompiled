@@ -1,0 +1,25 @@
+var structSystem_1_1ModuleHandle =
+[
+    [ "ModuleHandle", "df/d89/structSystem_1_1ModuleHandle_adeff87677f343b0a89d87bbd4fc4fc71.html#adeff87677f343b0a89d87bbd4fc4fc71", null ],
+    [ "ModuleHandle", "df/d89/structSystem_1_1ModuleHandle_a64b0caf9cf7dc9ef6bc0a8b5592fc88b.html#a64b0caf9cf7dc9ef6bc0a8b5592fc88b", null ],
+    [ "Equals", "df/d89/structSystem_1_1ModuleHandle_acb97adf76fe73cc69ab4ea70d5699cd4.html#acb97adf76fe73cc69ab4ea70d5699cd4", null ],
+    [ "Equals", "df/d89/structSystem_1_1ModuleHandle_af3f443a6be94cc96bcf9e5903e34c08d.html#af3f443a6be94cc96bcf9e5903e34c08d", null ],
+    [ "GetHashCode", "df/d89/structSystem_1_1ModuleHandle_a5ec35eca4b59d5110288e02af4bbf081.html#a5ec35eca4b59d5110288e02af4bbf081", null ],
+    [ "GetPEKind", "df/d89/structSystem_1_1ModuleHandle_ad5aeb0d16728cf3b84e9b7f302faf6bc.html#ad5aeb0d16728cf3b84e9b7f302faf6bc", null ],
+    [ "GetRuntimeFieldHandleFromMetadataToken", "df/d89/structSystem_1_1ModuleHandle_a71436c551b3a1521155ec4fe60fde5ca.html#a71436c551b3a1521155ec4fe60fde5ca", null ],
+    [ "GetRuntimeMethodHandleFromMetadataToken", "df/d89/structSystem_1_1ModuleHandle_ae56905bfa7df814a106ada908fd92ede.html#ae56905bfa7df814a106ada908fd92ede", null ],
+    [ "GetRuntimeTypeHandleFromMetadataToken", "df/d89/structSystem_1_1ModuleHandle_abb6b8a6a73cd22c1d9ef6ee177d56693.html#abb6b8a6a73cd22c1d9ef6ee177d56693", null ],
+    [ "operator!=", "df/d89/structSystem_1_1ModuleHandle_a554abfa666f8922da37c7c69ace3a4eb.html#a554abfa666f8922da37c7c69ace3a4eb", null ],
+    [ "operator==", "df/d89/structSystem_1_1ModuleHandle_a6dddf4d84d365cb43f4b1346e6af9027.html#a6dddf4d84d365cb43f4b1346e6af9027", null ],
+    [ "ptrs_from_handles", "df/d89/structSystem_1_1ModuleHandle_a6214a76bf4ce97155e2c4ed71fbae1a1.html#a6214a76bf4ce97155e2c4ed71fbae1a1", null ],
+    [ "ResolveFieldHandle", "df/d89/structSystem_1_1ModuleHandle_a207caf6f69bf63550248841e67ad7356.html#a207caf6f69bf63550248841e67ad7356", null ],
+    [ "ResolveFieldHandle", "df/d89/structSystem_1_1ModuleHandle_a06f4d0eb2321a35f3d780cc3e8f20516.html#a06f4d0eb2321a35f3d780cc3e8f20516", null ],
+    [ "ResolveMethodHandle", "df/d89/structSystem_1_1ModuleHandle_aebd14fb6c7cf00245116ce05ebadbb1a.html#aebd14fb6c7cf00245116ce05ebadbb1a", null ],
+    [ "ResolveMethodHandle", "df/d89/structSystem_1_1ModuleHandle_aabaf27d322ce530f5a2150ee6d89d09b.html#aabaf27d322ce530f5a2150ee6d89d09b", null ],
+    [ "ResolveTypeHandle", "df/d89/structSystem_1_1ModuleHandle_a101549d654ef78786b3f56af8007dbd2.html#a101549d654ef78786b3f56af8007dbd2", null ],
+    [ "ResolveTypeHandle", "df/d89/structSystem_1_1ModuleHandle_af25f220641101a27114cbf2727fd2e96.html#af25f220641101a27114cbf2727fd2e96", null ],
+    [ "EmptyHandle", "df/d89/structSystem_1_1ModuleHandle_a9ae74bc7f08d596314a1f7a8bc9cffef.html#a9ae74bc7f08d596314a1f7a8bc9cffef", null ],
+    [ "value", "df/d89/structSystem_1_1ModuleHandle_aad5fffb68996f3e4b654bbb0f43a1fb3.html#aad5fffb68996f3e4b654bbb0f43a1fb3", null ],
+    [ "MDStreamVersion", "df/d89/structSystem_1_1ModuleHandle_afe967ec4fe5153d30d3ff9ee57fd16c8.html#afe967ec4fe5153d30d3ff9ee57fd16c8", null ],
+    [ "Value", "df/d89/structSystem_1_1ModuleHandle_add442ffffe7edd6bb5e42284eeed3d5e.html#add442ffffe7edd6bb5e42284eeed3d5e", null ]
+];

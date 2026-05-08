@@ -1,0 +1,8 @@
+var classFullSerializer_1_1Internal_1_1fsCyclicReferenceManager_1_1ObjectReferenceEqualityComparator =
+[
+    [ "ObjectReferenceEqualityComparator", "dd/db7/classFullSerializer_1_1Internal_1_1fsCyclicReferenceManager_1_1ObjectReferenceEqualityComparator_a4094be800509c227b9f57e36ac76c222.html#a4094be800509c227b9f57e36ac76c222", null ],
+    [ "ObjectReferenceEqualityComparator", "dd/db7/classFullSerializer_1_1Internal_1_1fsCyclicReferenceManager_1_1ObjectReferenceEqualityComparator_aadfc2e5eb7f441434d3cc795e4d34656.html#aadfc2e5eb7f441434d3cc795e4d34656", null ],
+    [ "Equals", "dd/db7/classFullSerializer_1_1Internal_1_1fsCyclicReferenceManager_1_1ObjectReferenceEqualityComparator_a6617746c22e982d433f8120c9442a05f.html#a6617746c22e982d433f8120c9442a05f", null ],
+    [ "GetHashCode", "dd/db7/classFullSerializer_1_1Internal_1_1fsCyclicReferenceManager_1_1ObjectReferenceEqualityComparator_a421866d43f778a0ef00295155023f78c.html#a421866d43f778a0ef00295155023f78c", null ],
+    [ "Instance", "dd/db7/classFullSerializer_1_1Internal_1_1fsCyclicReferenceManager_1_1ObjectReferenceEqualityComparator_abb57c59d34dce0ef2caa004d8638026a.html#abb57c59d34dce0ef2caa004d8638026a", null ]
+];

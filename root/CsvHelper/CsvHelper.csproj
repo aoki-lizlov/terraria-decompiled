@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2D513E2-7E1F-41D2-A1CC-57D37760B226}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CsvHelper</RootNamespace>
+    <AssemblyName>CsvHelper</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="--f__AnonymousType0.cs" />
+    <Compile Include="Configuration\CsvClassMap.2.cs" />
+    <Compile Include="Configuration\CsvClassMap.cs" />
+    <Compile Include="Configuration\CsvClassMapCollection.cs" />
+    <Compile Include="Configuration\CsvConfiguration.cs" />
+    <Compile Include="Configuration\CsvConfigurationException.cs" />
+    <Compile Include="Configuration\CsvPropertyMap.cs" />
+    <Compile Include="Configuration\CsvPropertyMapCollection.cs" />
+    <Compile Include="Configuration\CsvPropertyMapComparer.cs" />
+    <Compile Include="Configuration\CsvPropertyMapData.cs" />
+    <Compile Include="Configuration\CsvPropertyNameCollection.cs" />
+    <Compile Include="Configuration\CsvPropertyReferenceMap.cs" />
+    <Compile Include="Configuration\CsvPropertyReferenceMapData.cs" />
+    <Compile Include="Configuration\DefaultCsvClassMap.cs" />
+    <Compile Include="CsvBadDataException.cs" />
+    <Compile Include="CsvFactory.cs" />
+    <Compile Include="CsvHelperException.cs" />
+    <Compile Include="CsvMissingFieldException.cs" />
+    <Compile Include="CsvParser.cs" />
+    <Compile Include="CsvParserException.cs" />
+    <Compile Include="CsvReader.cs" />
+    <Compile Include="CsvReaderException.cs" />
+    <Compile Include="CsvSerializer.cs" />
+    <Compile Include="CsvWriter.cs" />
+    <Compile Include="CsvWriterException.cs" />
+    <Compile Include="ExceptionHelper.cs" />
+    <Compile Include="ICsvFactory.cs" />
+    <Compile Include="ICsvParser.cs" />
+    <Compile Include="ICsvReader.cs" />
+    <Compile Include="ICsvReaderRow.cs" />
+    <Compile Include="ICsvSerializer.cs" />
+    <Compile Include="ICsvWriter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReflectionHelper.cs" />
+    <Compile Include="StringHelper.cs" />
+    <Compile Include="System\Reflection\TypeExtensions.cs" />
+    <Compile Include="System\Reflection\TypeInfo.cs" />
+    <Compile Include="TypeConversion\BooleanConverter.cs" />
+    <Compile Include="TypeConversion\ByteConverter.cs" />
+    <Compile Include="TypeConversion\CharConverter.cs" />
+    <Compile Include="TypeConversion\CsvTypeConverterException.cs" />
+    <Compile Include="TypeConversion\DateTimeConverter.cs" />
+    <Compile Include="TypeConversion\DateTimeOffsetConverter.cs" />
+    <Compile Include="TypeConversion\DecimalConverter.cs" />
+    <Compile Include="TypeConversion\DefaultTypeConverter.cs" />
+    <Compile Include="TypeConversion\DoubleConverter.cs" />
+    <Compile Include="TypeConversion\EnumConverter.cs" />
+    <Compile Include="TypeConversion\EnumerableConverter.cs" />
+    <Compile Include="TypeConversion\GuidConverter.cs" />
+    <Compile Include="TypeConversion\Int16Converter.cs" />
+    <Compile Include="TypeConversion\Int32Converter.cs" />
+    <Compile Include="TypeConversion\Int64Converter.cs" />
+    <Compile Include="TypeConversion\ITypeConverter.cs" />
+    <Compile Include="TypeConversion\NullableConverter.cs" />
+    <Compile Include="TypeConversion\SByteConverter.cs" />
+    <Compile Include="TypeConversion\SingleConverter.cs" />
+    <Compile Include="TypeConversion\StringConverter.cs" />
+    <Compile Include="TypeConversion\TimeSpanConverter.cs" />
+    <Compile Include="TypeConversion\TypeConverterFactory.cs" />
+    <Compile Include="TypeConversion\TypeConverterOptions.cs" />
+    <Compile Include="TypeConversion\TypeConverterOptionsFactory.cs" />
+    <Compile Include="TypeConversion\UInt16Converter.cs" />
+    <Compile Include="TypeConversion\UInt32Converter.cs" />
+    <Compile Include="TypeConversion\UInt64Converter.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,17 @@
+using System;
+using System.Runtime.InteropServices;
+
+namespace Steamworks
+{
+	// Token: 0x020000EF RID: 239
+	[CallbackIdentity(1108)]
+	[StructLayout(0, Pack = 4)]
+	public struct UserStatsUnloaded_t
+	{
+		// Token: 0x040002F1 RID: 753
+		public const int k_iCallback = 1108;
+
+		// Token: 0x040002F2 RID: 754
+		public CSteamID m_steamIDUser;
+	}
+}

@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1RGB_1_1CommonConditions_1_1UndergroundBiome_1_1UndergroundCondition =
+[
+    [ "UndergroundCondition", "d7/dcc/classTerraria_1_1GameContent_1_1RGB_1_1CommonConditions_1_1UndergroundBiome_1_1UndergroundCondition_a9d93f845fa67eaad298a7b7cb61c2b5e.html#a9d93f845fa67eaad298a7b7cb61c2b5e", null ]
+];

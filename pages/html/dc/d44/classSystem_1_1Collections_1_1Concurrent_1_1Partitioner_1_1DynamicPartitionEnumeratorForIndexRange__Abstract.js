@@ -1,0 +1,9 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionEnumeratorForIndexRange__Abstract =
+[
+    [ "DynamicPartitionEnumeratorForIndexRange_Abstract", "dc/d44/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionEnumeratorForIndexRange__Abstract_a9cc80c3f90cbdef56f51a81cce08d958.html#a9cc80c3f90cbdef56f51a81cce08d958", null ],
+    [ "Dispose", "dc/d44/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionEnumeratorForIndexRange__Abstract_ac8c24968c183c265922edb4d2446d517.html#ac8c24968c183c265922edb4d2446d517", null ],
+    [ "GrabNextChunk", "dc/d44/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionEnumeratorForIndexRange__Abstract_ac134d16335b5951250086196fcc875b2.html#ac134d16335b5951250086196fcc875b2", null ],
+    [ "_startIndex", "dc/d44/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionEnumeratorForIndexRange__Abstract_a5219eb32f1b733d989e1b3ea3e55d779.html#a5219eb32f1b733d989e1b3ea3e55d779", null ],
+    [ "HasNoElementsLeft", "dc/d44/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionEnumeratorForIndexRange__Abstract_a80c1f56a06b8b79a7a2effa45ad5afb2.html#a80c1f56a06b8b79a7a2effa45ad5afb2", null ],
+    [ "SourceCount", "dc/d44/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionEnumeratorForIndexRange__Abstract_a461e51d4032bb4f07ce13596102c9104.html#a461e51d4032bb4f07ce13596102c9104", null ]
+];

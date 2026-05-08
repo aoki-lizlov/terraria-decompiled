@@ -1,0 +1,7 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionerForArray =
+[
+    [ "StaticIndexRangePartitionerForArray", "d3/d53/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionerForArray_a2d57a32eaa9090b5b69151ad2fdd5985.html#a2d57a32eaa9090b5b69151ad2fdd5985", null ],
+    [ "CreatePartition", "d3/d53/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionerForArray_a088375991850edcf58e2eba7278a89de.html#a088375991850edcf58e2eba7278a89de", null ],
+    [ "_array", "d3/d53/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionerForArray_a2e88b63f626f084a806f9d718dd59d1a.html#a2e88b63f626f084a806f9d718dd59d1a", null ],
+    [ "SourceCount", "d3/d53/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionerForArray_a48effa882be7daf3fa6ece4223bd1c6e.html#a48effa882be7daf3fa6ece4223bd1c6e", null ]
+];

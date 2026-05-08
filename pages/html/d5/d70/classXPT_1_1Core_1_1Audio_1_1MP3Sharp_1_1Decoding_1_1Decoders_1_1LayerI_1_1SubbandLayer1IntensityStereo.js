@@ -1,0 +1,7 @@
+var classXPT_1_1Core_1_1Audio_1_1MP3Sharp_1_1Decoding_1_1Decoders_1_1LayerI_1_1SubbandLayer1IntensityStereo =
+[
+    [ "SubbandLayer1IntensityStereo", "d5/d70/classXPT_1_1Core_1_1Audio_1_1MP3Sharp_1_1Decoding_1_1Decoders_1_1LayerI_1_1SubbandLayer1IntensityStereo_a111ed4d68ab8d371a1669caa21a8fa74.html#a111ed4d68ab8d371a1669caa21a8fa74", null ],
+    [ "PutNextSample", "d5/d70/classXPT_1_1Core_1_1Audio_1_1MP3Sharp_1_1Decoding_1_1Decoders_1_1LayerI_1_1SubbandLayer1IntensityStereo_ab879948f908eee8af2dd12c0cad7c329.html#ab879948f908eee8af2dd12c0cad7c329", null ],
+    [ "ReadScaleFactor", "d5/d70/classXPT_1_1Core_1_1Audio_1_1MP3Sharp_1_1Decoding_1_1Decoders_1_1LayerI_1_1SubbandLayer1IntensityStereo_a6de87bb9e57acc7375278599ce1ee48c.html#a6de87bb9e57acc7375278599ce1ee48c", null ],
+    [ "Channel2Scalefactor", "d5/d70/classXPT_1_1Core_1_1Audio_1_1MP3Sharp_1_1Decoding_1_1Decoders_1_1LayerI_1_1SubbandLayer1IntensityStereo_a21da1529c42d4bb1c23b321b61164b00.html#a21da1529c42d4bb1c23b321b61164b00", null ]
+];

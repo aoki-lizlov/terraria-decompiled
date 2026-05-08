@@ -1,0 +1,7 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList =
+[
+    [ "InternalPartitionEnumerable", "db/dc8/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerable.html", "db/dc8/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerable" ],
+    [ "InternalPartitionEnumerator", "d7/df9/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerator.html", "d7/df9/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerator" ],
+    [ "DynamicPartitionerForIList", "dd/d4f/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_a8a54212cbfa56089faf5f331f5897e39.html#a8a54212cbfa56089faf5f331f5897e39", null ],
+    [ "GetOrderableDynamicPartitions_Factory", "dd/d4f/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_a833574a33927121d35b0fd2f2eeec34f.html#a833574a33927121d35b0fd2f2eeec34f", null ]
+];

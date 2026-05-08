@@ -1,0 +1,27 @@
+var classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel =
+[
+    [ "UITextPanel", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a954856e268dc2a4c9c167f6103407f7b.html#a954856e268dc2a4c9c167f6103407f7b", null ],
+    [ "DrawSelf", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a865ded764507ef8884fea66b8c2ba562.html#a865ded764507ef8884fea66b8c2ba562", null ],
+    [ "DrawText", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a08b137baa1f03210bf7e4f8c9a2c2bf1.html#a08b137baa1f03210bf7e4f8c9a2c2bf1", null ],
+    [ "DrawText", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_aad04a7ac7582114d8201cf7944200313.html#aad04a7ac7582114d8201cf7944200313", null ],
+    [ "Recalculate", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a998f2fe54f3221d81d8c4af4ba62f4ad.html#a998f2fe54f3221d81d8c4af4ba62f4ad", null ],
+    [ "SetText", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_afd0d2001cf75f54f22f97c5eea5e8903.html#afd0d2001cf75f54f22f97c5eea5e8903", null ],
+    [ "SetText", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_acc8c92837f606c269f0107ab537bd471.html#acc8c92837f606c269f0107ab537bd471", null ],
+    [ "_asterisks", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_ab6b9870d0624db4aa788668817e1a2de.html#ab6b9870d0624db4aa788668817e1a2de", null ],
+    [ "_color", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a1ed7328530fe2f87f7e922aeff38062f.html#a1ed7328530fe2f87f7e922aeff38062f", null ],
+    [ "_drawPanel", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a083fdb59bd1cd49a2f18042fb07dfe53.html#a083fdb59bd1cd49a2f18042fb07dfe53", null ],
+    [ "_isLarge", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a683175556da4439069418d2d80254057.html#a683175556da4439069418d2d80254057", null ],
+    [ "_text", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a369b94a00d32b62da5b7c459e847c689.html#a369b94a00d32b62da5b7c459e847c689", null ],
+    [ "_textScale", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_addc6a4846c88aef22e882ea19f084c94.html#addc6a4846c88aef22e882ea19f084c94", null ],
+    [ "_textSize", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_af36f81d4779a7fe182df81eb5ce59b11.html#af36f81d4779a7fe182df81eb5ce59b11", null ],
+    [ "HideContents", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_ab31ca61645c42aad0b63a87b8cbd0ff2.html#ab31ca61645c42aad0b63a87b8cbd0ff2", null ],
+    [ "TextHAlign", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a93789c0b6b5b5f14f7a9ea828dbb8d8e.html#a93789c0b6b5b5f14f7a9ea828dbb8d8e", null ],
+    [ "DrawPanel", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a983e5874ad74019246960dc9b603579b.html#a983e5874ad74019246960dc9b603579b", null ],
+    [ "Font", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a45cc9bfb9db9ddbe2643cb21ddc396ae.html#a45cc9bfb9db9ddbe2643cb21ddc396ae", null ],
+    [ "IsLarge", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_ac222f6b51a3f344297c8c8386724a290.html#ac222f6b51a3f344297c8c8386724a290", null ],
+    [ "Text", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a77d650c11cdf0cb2ea7e841aad2b8021.html#a77d650c11cdf0cb2ea7e841aad2b8021", null ],
+    [ "TextColor", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a4422bcde89d7a2d7b0a5b95305b55fbe.html#a4422bcde89d7a2d7b0a5b95305b55fbe", null ],
+    [ "TextDrawPosition", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_adda792eeef4b37a448207b6400debed2.html#adda792eeef4b37a448207b6400debed2", null ],
+    [ "TextScale", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_adb542e4a86db5deef6a47c7ba6997c90.html#adb542e4a86db5deef6a47c7ba6997c90", null ],
+    [ "TextSize", "da/d3f/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UITextPanel_a2fa88443a95e2d2a2d0d6acaac3f32e6.html#a2fa88443a95e2d2a2d0d6acaac3f32e6", null ]
+];

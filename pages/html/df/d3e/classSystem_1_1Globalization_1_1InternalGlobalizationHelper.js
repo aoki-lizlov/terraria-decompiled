@@ -1,0 +1,25 @@
+var classSystem_1_1Globalization_1_1InternalGlobalizationHelper =
+[
+    [ "InternalGlobalizationHelper", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a7874607d4726e4fe560e49e6745b70df.html#a7874607d4726e4fe560e49e6745b70df", null ],
+    [ "TimeToTicks", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_acdb2e85f86e8db813c8fd00cd5085f6b.html#acdb2e85f86e8db813c8fd00cd5085f6b", null ],
+    [ "DaysPer100Years", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a116d83eb8d80ff469ea5fc1afadab53c.html#a116d83eb8d80ff469ea5fc1afadab53c", null ],
+    [ "DaysPer400Years", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a7390d8bf0951dbbc0e89263471484296.html#a7390d8bf0951dbbc0e89263471484296", null ],
+    [ "DaysPer4Years", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a1d38613bd2cdec08d3d6445362f637ea.html#a1d38613bd2cdec08d3d6445362f637ea", null ],
+    [ "DaysPerYear", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_aa19b047bb223c8ad34c77aa415c88520.html#aa19b047bb223c8ad34c77aa415c88520", null ],
+    [ "DaysTo10000", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_af13ce4d8d855123e1dafcf2bc830bb33.html#af13ce4d8d855123e1dafcf2bc830bb33", null ],
+    [ "MaxMilliSeconds", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_ae038acf3b10be02055e5567653da4323.html#ae038acf3b10be02055e5567653da4323", null ],
+    [ "MaxOffset", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_ac7f4d48742d5bd1eb6edd137cc016ada.html#ac7f4d48742d5bd1eb6edd137cc016ada", null ],
+    [ "MaxSeconds", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a5c8951330998ba7342a71aab5f64a810.html#a5c8951330998ba7342a71aab5f64a810", null ],
+    [ "MaxTicks", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a3f2b6f99a957de0ba373c2bf916513fa.html#a3f2b6f99a957de0ba373c2bf916513fa", null ],
+    [ "MinMilliSeconds", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a89f02ee4ab4b4d13bb29b76cdbf4a230.html#a89f02ee4ab4b4d13bb29b76cdbf4a230", null ],
+    [ "MinOffset", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a8cc2ffad31d4492dc1c2a05f1f131b1a.html#a8cc2ffad31d4492dc1c2a05f1f131b1a", null ],
+    [ "MinSeconds", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a74ac8bae6f3629be277328b179a58b80.html#a74ac8bae6f3629be277328b179a58b80", null ],
+    [ "MinTicks", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a6f7697428a12b17766625cdf1609cc02.html#a6f7697428a12b17766625cdf1609cc02", null ],
+    [ "StringBuilderDefaultCapacity", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a5f54410b9d63afe554bd598955a26ac9.html#a5f54410b9d63afe554bd598955a26ac9", null ],
+    [ "TicksPerDay", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a5f4815e9b69de274698be62c2303fed0.html#a5f4815e9b69de274698be62c2303fed0", null ],
+    [ "TicksPerHour", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a1b6cdbfa59996388df38203314988f4a.html#a1b6cdbfa59996388df38203314988f4a", null ],
+    [ "TicksPerMillisecond", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a0a109290e5a177dcc7c235d9bb76689b.html#a0a109290e5a177dcc7c235d9bb76689b", null ],
+    [ "TicksPerMinute", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_ac90cbc8a5e751e418c6f8b17673b66af.html#ac90cbc8a5e751e418c6f8b17673b66af", null ],
+    [ "TicksPerSecond", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_af28c1a496f70f983e594485db3d1b181.html#af28c1a496f70f983e594485db3d1b181", null ],
+    [ "TicksPerTenthSecond", "df/d3e/classSystem_1_1Globalization_1_1InternalGlobalizationHelper_a46cc4daaf2cbb80cb2d317a09e168561.html#a46cc4daaf2cbb80cb2d317a09e168561", null ]
+];

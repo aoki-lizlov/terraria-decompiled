@@ -1,0 +1,4 @@
+var LegacyDungeonRoom_8cs =
+[
+    [ "Terraria.GameContent.Generation.Dungeon.Rooms.LegacyDungeonRoom", "d3/d84/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1LegacyDungeonRoom.html", "d3/d84/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1LegacyDungeonRoom" ]
+];

@@ -1,0 +1,7 @@
+var classTerraria_1_1Social_1_1Steam_1_1WorkshopHelper_1_1UGCBased_1_1ResourcePackPublisherInstance =
+[
+    [ "ResourcePackPublisherInstance", "d0/d80/classTerraria_1_1Social_1_1Steam_1_1WorkshopHelper_1_1UGCBased_1_1ResourcePackPublisherInstance_ae4f58543630ac690330800528c7d3ffd.html#ae4f58543630ac690330800528c7d3ffd", null ],
+    [ "GetHeaderText", "d0/d80/classTerraria_1_1Social_1_1Steam_1_1WorkshopHelper_1_1UGCBased_1_1ResourcePackPublisherInstance_ab4c235353fcdf11e2c35f29a431b5278.html#ab4c235353fcdf11e2c35f29a431b5278", null ],
+    [ "PrepareContentForUpdate", "d0/d80/classTerraria_1_1Social_1_1Steam_1_1WorkshopHelper_1_1UGCBased_1_1ResourcePackPublisherInstance_a34f2eef0918249ce8679367ad41d3c32.html#a34f2eef0918249ce8679367ad41d3c32", null ],
+    [ "_resourcePack", "d0/d80/classTerraria_1_1Social_1_1Steam_1_1WorkshopHelper_1_1UGCBased_1_1ResourcePackPublisherInstance_a96819f1f2e5f4e8fcbfc2514dc45871c.html#a96819f1f2e5f4e8fcbfc2514dc45871c", null ]
+];

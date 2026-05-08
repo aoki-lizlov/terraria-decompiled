@@ -1,0 +1,28 @@
+var classSteelSeries_1_1GameSense_1_1TactileHandler =
+[
+    [ "TactileHandler", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_ad5acf7b0d96bfd6139c7e0c4ca1cb963.html#ad5acf7b0d96bfd6139c7e0c4ca1cb963", null ],
+    [ "_new", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_acb33f756c905e6877f40ac30251fd159.html#acb33f756c905e6877f40ac30251fd159", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a8be7fc3a1b6a288079e3a5dbe2f8a2a3.html#a8be7fc3a1b6a288079e3a5dbe2f8a2a3", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_ae854d538d6b8a8512b1013c0b5dee2a8.html#ae854d538d6b8a8512b1013c0b5dee2a8", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a4f32fc890013f8af5e034cf17423db29.html#a4f32fc890013f8af5e034cf17423db29", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a99745df14fcffaa44674998c5caf6bc3.html#a99745df14fcffaa44674998c5caf6bc3", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_abf790ac955a14a1560037729c921c3c3.html#abf790ac955a14a1560037729c921c3c3", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a8346e8f5e4d054bbc5cea0574f0fb41e.html#a8346e8f5e4d054bbc5cea0574f0fb41e", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a4f8339d700750169ff2c82d676a41c71.html#a4f8339d700750169ff2c82d676a41c71", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_adb833f22a7d1a356311d670cf868ce05.html#adb833f22a7d1a356311d670cf868ce05", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a968a0b25b450323c2caaa0d6b02cb1c2.html#a968a0b25b450323c2caaa0d6b02cb1c2", null ],
+    [ "Create", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a9e3ccb9c21f2d496e626858d1657d046.html#a9e3ccb9c21f2d496e626858d1657d046", null ],
+    [ "_rateMode", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a579706f67c9d003544033c485a412acb.html#a579706f67c9d003544033c485a412acb", null ],
+    [ "_tactilePatternType", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a931ac2527de5606ac79b16ed2727fb10.html#a931ac2527de5606ac79b16ed2727fb10", null ],
+    [ "deviceZone", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a449e101a0b94891d5f30b5b43fd786aa.html#a449e101a0b94891d5f30b5b43fd786aa", null ],
+    [ "mode", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a6443c9316a89cd93dd6cb5d8780c4c88.html#a6443c9316a89cd93dd6cb5d8780c4c88", null ],
+    [ "pattern", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a969babd63f8d785625874b4c119e7226.html#a969babd63f8d785625874b4c119e7226", null ],
+    [ "rate", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a16eaab008bc5335b1997fa3bb1c096f7.html#a16eaab008bc5335b1997fa3bb1c096f7", null ],
+    [ "pattern_custom", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_ae8fba44ce8afc57321baea2918836f42.html#ae8fba44ce8afc57321baea2918836f42", null ],
+    [ "pattern_range", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a862a6622d79b84e00dbc550f3d787dbd.html#a862a6622d79b84e00dbc550f3d787dbd", null ],
+    [ "pattern_simple", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_aec7afdfb3f1ca4d99fa7e624ee17a081.html#aec7afdfb3f1ca4d99fa7e624ee17a081", null ],
+    [ "rate_range", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_aa61cb2de967ddaa9494cad1135f8ad8c.html#aa61cb2de967ddaa9494cad1135f8ad8c", null ],
+    [ "rate_static", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a0f5be070aee6e75e8ecef6df056c5272.html#a0f5be070aee6e75e8ecef6df056c5272", null ],
+    [ "RateMode", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a21a927c6b4120c8e169e11f538500595.html#a21a927c6b4120c8e169e11f538500595", null ],
+    [ "TactilePatternType", "da/d40/classSteelSeries_1_1GameSense_1_1TactileHandler_a482b040ac87af6fab0e8d7631a55b945.html#a482b040ac87af6fab0e8d7631a55b945", null ]
+];

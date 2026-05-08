@@ -1,0 +1,28 @@
+var classSteamworks_1_1SteamGameServerHTTP =
+[
+    [ "CreateCookieContainer", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a3add5dc980134f757e35d9ce40fe2c9a.html#a3add5dc980134f757e35d9ce40fe2c9a", null ],
+    [ "CreateHTTPRequest", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a20bfee9d696c6139d4e9314a9252ca2c.html#a20bfee9d696c6139d4e9314a9252ca2c", null ],
+    [ "DeferHTTPRequest", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a7a21995517f4488e24892966e0f7463b.html#a7a21995517f4488e24892966e0f7463b", null ],
+    [ "GetHTTPDownloadProgressPct", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_aa6c298ac0d184b9bb1e2d77bb7666bb5.html#aa6c298ac0d184b9bb1e2d77bb7666bb5", null ],
+    [ "GetHTTPRequestWasTimedOut", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_aea09b4173351ab7037f8ab86e2d1077b.html#aea09b4173351ab7037f8ab86e2d1077b", null ],
+    [ "GetHTTPResponseBodyData", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_aeb78216285e28d9bb645fe2fd5e650da.html#aeb78216285e28d9bb645fe2fd5e650da", null ],
+    [ "GetHTTPResponseBodySize", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a4bc60989a0695eb5541f712b73595023.html#a4bc60989a0695eb5541f712b73595023", null ],
+    [ "GetHTTPResponseHeaderSize", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a12800d3f39ef6f2fcf0c959ac3b7e2e0.html#a12800d3f39ef6f2fcf0c959ac3b7e2e0", null ],
+    [ "GetHTTPResponseHeaderValue", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_ac7547e678342da559d082d0b10037147.html#ac7547e678342da559d082d0b10037147", null ],
+    [ "GetHTTPStreamingResponseBodyData", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_ae76e8fb418988a1c54df71253815d544.html#ae76e8fb418988a1c54df71253815d544", null ],
+    [ "PrioritizeHTTPRequest", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a01738a721e0226843e21eb1ab3042ff2.html#a01738a721e0226843e21eb1ab3042ff2", null ],
+    [ "ReleaseCookieContainer", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_adb58e9e30586ffc240b91e66a5694cc3.html#adb58e9e30586ffc240b91e66a5694cc3", null ],
+    [ "ReleaseHTTPRequest", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a44e3d951b0997a316c85964ff95b50db.html#a44e3d951b0997a316c85964ff95b50db", null ],
+    [ "SendHTTPRequest", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a7b0f8e8040f44456e40392b8eb233e68.html#a7b0f8e8040f44456e40392b8eb233e68", null ],
+    [ "SendHTTPRequestAndStreamResponse", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_ae4b941ba14386b821e97bef1212e981e.html#ae4b941ba14386b821e97bef1212e981e", null ],
+    [ "SetCookie", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a7e31a01a82d1c6cf45b1ad0eecdb6c31.html#a7e31a01a82d1c6cf45b1ad0eecdb6c31", null ],
+    [ "SetHTTPRequestAbsoluteTimeoutMS", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a3a8bfebcd0fac066692255a2f9d7c395.html#a3a8bfebcd0fac066692255a2f9d7c395", null ],
+    [ "SetHTTPRequestContextValue", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_ab669ee9f454408e4409f97a32ef83e1b.html#ab669ee9f454408e4409f97a32ef83e1b", null ],
+    [ "SetHTTPRequestCookieContainer", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a0a8e7e7d02be7b190dec5658af4efff8.html#a0a8e7e7d02be7b190dec5658af4efff8", null ],
+    [ "SetHTTPRequestGetOrPostParameter", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a63f852acb8c003032d0612d375fc20bc.html#a63f852acb8c003032d0612d375fc20bc", null ],
+    [ "SetHTTPRequestHeaderValue", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a5582949f9fcc5dfa49b1edfe6a0ea0b1.html#a5582949f9fcc5dfa49b1edfe6a0ea0b1", null ],
+    [ "SetHTTPRequestNetworkActivityTimeout", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a9b573824ad91f5e0997776e6eefcc3ce.html#a9b573824ad91f5e0997776e6eefcc3ce", null ],
+    [ "SetHTTPRequestRawPostBody", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_aeda36c66ab3e1fb7077e7237fb62000b.html#aeda36c66ab3e1fb7077e7237fb62000b", null ],
+    [ "SetHTTPRequestRequiresVerifiedCertificate", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a3302aad13361fbcc53124c739bcd2219.html#a3302aad13361fbcc53124c739bcd2219", null ],
+    [ "SetHTTPRequestUserAgentInfo", "d3/d8a/classSteamworks_1_1SteamGameServerHTTP_a5fa5898b5a549611de28c08ab85d2926.html#a5fa5898b5a549611de28c08ab85d2926", null ]
+];

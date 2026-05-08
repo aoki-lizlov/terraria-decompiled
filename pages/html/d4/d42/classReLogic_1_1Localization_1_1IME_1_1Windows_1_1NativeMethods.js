@@ -1,0 +1,26 @@
+var classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods =
+[
+    [ "HARDWAREINPUT", "d8/d90/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1HARDWAREINPUT.html", "d8/d90/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1HARDWAREINPUT" ],
+    [ "INPUT", "d2/dea/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1INPUT.html", "d2/dea/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1INPUT" ],
+    [ "INPUTUNION", "de/d0f/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1INPUTUNION.html", "de/d0f/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1INPUTUNION" ],
+    [ "KEYBDINPUT", "da/d71/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1KEYBDINPUT.html", "da/d71/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1KEYBDINPUT" ],
+    [ "MOUSEINPUT", "dc/d62/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1MOUSEINPUT.html", "dc/d62/structReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_1_1MOUSEINPUT" ],
+    [ "ImeUi_Enable", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a0377a2d6d685c4e18236b94a9b3a4699.html#a0377a2d6d685c4e18236b94a9b3a4699", null ],
+    [ "ImeUi_FinalizeString", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a30d342fc047ab918081811cac8c24d52.html#a30d342fc047ab918081811cac8c24d52", null ],
+    [ "ImeUi_GetCandidate", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a5c7ab2e3f567bc0b67311702f54a7487.html#a5c7ab2e3f567bc0b67311702f54a7487", null ],
+    [ "ImeUi_GetCandidateCount", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a49e4e92450e481dd25f5b636c999e18a.html#a49e4e92450e481dd25f5b636c999e18a", null ],
+    [ "ImeUi_GetCandidatePageSize", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_aaba5942ac5f6c86f3b2ddfce1501aa03.html#aaba5942ac5f6c86f3b2ddfce1501aa03", null ],
+    [ "ImeUi_GetCandidateSelection", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a4b32380b1bebe40767bca2fa611f443e.html#a4b32380b1bebe40767bca2fa611f443e", null ],
+    [ "ImeUi_GetCompositionString", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a834b7d384247db0076dd1d38a677ce8c.html#a834b7d384247db0076dd1d38a677ce8c", null ],
+    [ "ImeUi_GetPrimaryLanguage", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a1371ddd7f822788a4bbad56f577ea2ce.html#a1371ddd7f822788a4bbad56f577ea2ce", null ],
+    [ "ImeUi_Initialize", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a210001632e0fc4d4b4ea7b267688c4f3.html#a210001632e0fc4d4b4ea7b267688c4f3", null ],
+    [ "ImeUi_IsCandidateListVisible", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_af0ff9b90f70fb4a369174229f1a4ffdd.html#af0ff9b90f70fb4a369174229f1a4ffdd", null ],
+    [ "ImeUi_IsEnabled", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a24b41497ec8084130873882283a7df67.html#a24b41497ec8084130873882283a7df67", null ],
+    [ "ImeUi_ProcessMessage", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_ae58592887bf5c7affc3aa602fb1730c3.html#ae58592887bf5c7affc3aa602fb1730c3", null ],
+    [ "ImeUi_SetCandidateSelection", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a1c04bf8a8995a361fa1ef2e8c9e03cda.html#a1c04bf8a8995a361fa1ef2e8c9e03cda", null ],
+    [ "ImeUi_ShouldIgnoreHotKey", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a196171b7133982b1fb786218aec7725e.html#a196171b7133982b1fb786218aec7725e", null ],
+    [ "ImeUi_Uninitialize", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a2bf42b1b5de2dfa67337c6e5a19cedf9.html#a2bf42b1b5de2dfa67337c6e5a19cedf9", null ],
+    [ "ImmGetVirtualKey", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_aea00c5d7283b06c4d09800cc4c501158.html#aea00c5d7283b06c4d09800cc4c501158", null ],
+    [ "SendInput", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_a4df647ff4adf2c89af83b719cfa294d4.html#a4df647ff4adf2c89af83b719cfa294d4", null ],
+    [ "DLL_NAME", "d4/d42/classReLogic_1_1Localization_1_1IME_1_1Windows_1_1NativeMethods_accdf3ddddf4f30a10df00738e5c6765b.html#accdf3ddddf4f30a10df00738e5c6765b", null ]
+];

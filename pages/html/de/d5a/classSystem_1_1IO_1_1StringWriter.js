@@ -1,0 +1,25 @@
+var classSystem_1_1IO_1_1StringWriter =
+[
+    [ "StringWriter", "de/d5a/classSystem_1_1IO_1_1StringWriter_ae5a86196e7aa443eeeef9736fdcf454c.html#ae5a86196e7aa443eeeef9736fdcf454c", null ],
+    [ "StringWriter", "de/d5a/classSystem_1_1IO_1_1StringWriter_a55223b169230a225afd8702dfc09128a.html#a55223b169230a225afd8702dfc09128a", null ],
+    [ "StringWriter", "de/d5a/classSystem_1_1IO_1_1StringWriter_ae4a796d9c84535ae25b3b1f2a223e66c.html#ae4a796d9c84535ae25b3b1f2a223e66c", null ],
+    [ "StringWriter", "de/d5a/classSystem_1_1IO_1_1StringWriter_a83e2f659704d80345536e66dd6d0a498.html#a83e2f659704d80345536e66dd6d0a498", null ],
+    [ "Close", "de/d5a/classSystem_1_1IO_1_1StringWriter_a1c2f887c9923f1224e2717970ab852f7.html#a1c2f887c9923f1224e2717970ab852f7", null ],
+    [ "Dispose", "de/d5a/classSystem_1_1IO_1_1StringWriter_a3e4e3ae4dcb5c760aab5235836118951.html#a3e4e3ae4dcb5c760aab5235836118951", null ],
+    [ "FlushAsync", "de/d5a/classSystem_1_1IO_1_1StringWriter_a820da0a9a6cc2a99295ac8c7569f2fbc.html#a820da0a9a6cc2a99295ac8c7569f2fbc", null ],
+    [ "GetStringBuilder", "de/d5a/classSystem_1_1IO_1_1StringWriter_a1646ba5171445481727d3ad329d0429b.html#a1646ba5171445481727d3ad329d0429b", null ],
+    [ "ToString", "de/d5a/classSystem_1_1IO_1_1StringWriter_a44a94ce21e21d34450368fcf4b2035fc.html#a44a94ce21e21d34450368fcf4b2035fc", null ],
+    [ "Write", "de/d5a/classSystem_1_1IO_1_1StringWriter_a79724163656711d6b425cd15f3b08ead.html#a79724163656711d6b425cd15f3b08ead", null ],
+    [ "Write", "de/d5a/classSystem_1_1IO_1_1StringWriter_aeba392044b20ec78a2d6ed7b6ebad598.html#aeba392044b20ec78a2d6ed7b6ebad598", null ],
+    [ "Write", "de/d5a/classSystem_1_1IO_1_1StringWriter_a1b4da554d690303ce897726f3d355672.html#a1b4da554d690303ce897726f3d355672", null ],
+    [ "WriteAsync", "de/d5a/classSystem_1_1IO_1_1StringWriter_a60151aab06024dd1c2159c057565fde2.html#a60151aab06024dd1c2159c057565fde2", null ],
+    [ "WriteAsync", "de/d5a/classSystem_1_1IO_1_1StringWriter_aaff4bd21c54ec9f15602274b50941d6c.html#aaff4bd21c54ec9f15602274b50941d6c", null ],
+    [ "WriteAsync", "de/d5a/classSystem_1_1IO_1_1StringWriter_a011d3df23d6e143651e3018123b193dd.html#a011d3df23d6e143651e3018123b193dd", null ],
+    [ "WriteLineAsync", "de/d5a/classSystem_1_1IO_1_1StringWriter_a848c4ce975548b033ecb0b96340e2ef5.html#a848c4ce975548b033ecb0b96340e2ef5", null ],
+    [ "WriteLineAsync", "de/d5a/classSystem_1_1IO_1_1StringWriter_a61457445b0ec4d35263e6954e9e2f2e2.html#a61457445b0ec4d35263e6954e9e2f2e2", null ],
+    [ "WriteLineAsync", "de/d5a/classSystem_1_1IO_1_1StringWriter_ade4bbed38970620800a0373adf756960.html#ade4bbed38970620800a0373adf756960", null ],
+    [ "_isOpen", "de/d5a/classSystem_1_1IO_1_1StringWriter_a175aa0fb1f5f49d74099557e6372a80a.html#a175aa0fb1f5f49d74099557e6372a80a", null ],
+    [ "_sb", "de/d5a/classSystem_1_1IO_1_1StringWriter_a4770f50706e2406f66eec12ed5079b8d.html#a4770f50706e2406f66eec12ed5079b8d", null ],
+    [ "m_encoding", "de/d5a/classSystem_1_1IO_1_1StringWriter_a9d2d5c5f84f33c2280f0060f1e70b275.html#a9d2d5c5f84f33c2280f0060f1e70b275", null ],
+    [ "Encoding", "de/d5a/classSystem_1_1IO_1_1StringWriter_acf8a1a1cfe7f8783b125fbf75b4e7158.html#acf8a1a1cfe7f8783b125fbf75b4e7158", null ]
+];

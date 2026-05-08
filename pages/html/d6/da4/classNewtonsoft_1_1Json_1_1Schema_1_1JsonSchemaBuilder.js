@@ -1,0 +1,26 @@
+var classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder =
+[
+    [ "JsonSchemaBuilder", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_ac4d77e99d652bbba4a58da87ae564073.html#ac4d77e99d652bbba4a58da87ae564073", null ],
+    [ "BuildSchema", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_acf120c5204dad07e297577109ec46979.html#acf120c5204dad07e297577109ec46979", null ],
+    [ "MapType", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_a71afb641b1b14f72789dcb09fcab5e53.html#a71afb641b1b14f72789dcb09fcab5e53", null ],
+    [ "MapType", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_a8cd28e2c6116b480a900cccebdb382cb.html#a8cd28e2c6116b480a900cccebdb382cb", null ],
+    [ "Pop", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_acdee7c553456040f44e1ce847e065650.html#acdee7c553456040f44e1ce847e065650", null ],
+    [ "ProcessAdditionalItems", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_aaf9c3a504c797a8f621f9af4f71ed2a5.html#aaf9c3a504c797a8f621f9af4f71ed2a5", null ],
+    [ "ProcessAdditionalProperties", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_afe7111f3695a992920ea6aec41cfe76d.html#afe7111f3695a992920ea6aec41cfe76d", null ],
+    [ "ProcessEnum", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_a12d20ef58f33fe7c8697d37dc83c004c.html#a12d20ef58f33fe7c8697d37dc83c004c", null ],
+    [ "ProcessExtends", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_ac6973ea4fe3956f91a35623080e1124b.html#ac6973ea4fe3956f91a35623080e1124b", null ],
+    [ "ProcessItems", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_af9ff72a3f6ea05f0b28d3c0ffdb7aa10.html#af9ff72a3f6ea05f0b28d3c0ffdb7aa10", null ],
+    [ "ProcessProperties", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_aac3ec289e9a9726596bfc173e72dfa52.html#aac3ec289e9a9726596bfc173e72dfa52", null ],
+    [ "ProcessSchemaProperties", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_a8fcaaab2bc733e22ade6e042f7f43fff.html#a8fcaaab2bc733e22ade6e042f7f43fff", null ],
+    [ "ProcessType", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_ad8ca2817992b43ee9587c21bee6a53f3.html#ad8ca2817992b43ee9587c21bee6a53f3", null ],
+    [ "Push", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_ad18f96dc85da56f999f1ce4a624281f6.html#ad18f96dc85da56f999f1ce4a624281f6", null ],
+    [ "Read", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_afce091e8be2fd0e43e5750cefa4b06ec.html#afce091e8be2fd0e43e5750cefa4b06ec", null ],
+    [ "ResolveReferences", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_ad30268e88217721edfeaca1887d2a2ba.html#ad30268e88217721edfeaca1887d2a2ba", null ],
+    [ "UnescapeReference", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_a62a5987edae1b366c2e4d9b78700f22e.html#a62a5987edae1b366c2e4d9b78700f22e", null ],
+    [ "_currentSchema", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_a7ee6412710ac989f1b6519471f381e29.html#a7ee6412710ac989f1b6519471f381e29", null ],
+    [ "_documentSchemas", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_ad2495b73ceea20f4398edd55e96f78a5.html#ad2495b73ceea20f4398edd55e96f78a5", null ],
+    [ "_resolver", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_a1777cc28aed74f2b661cc9f8de3b3e97.html#a1777cc28aed74f2b661cc9f8de3b3e97", null ],
+    [ "_rootSchema", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_add948406ebb7e82892f06e1fe501775b.html#add948406ebb7e82892f06e1fe501775b", null ],
+    [ "_stack", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_ada09a65db8db5d2566d8eb805c62c11b.html#ada09a65db8db5d2566d8eb805c62c11b", null ],
+    [ "CurrentSchema", "d6/da4/classNewtonsoft_1_1Json_1_1Schema_1_1JsonSchemaBuilder_aa6b226d7cd6245bd17547ff7b5e5b339.html#aa6b226d7cd6245bd17547ff7b5e5b339", null ]
+];

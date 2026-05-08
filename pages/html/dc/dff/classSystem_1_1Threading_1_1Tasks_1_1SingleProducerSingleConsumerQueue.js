@@ -1,0 +1,28 @@
+var classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue =
+[
+    [ "Segment", "d7/d62/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_1_1Segment.html", "d7/d62/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_1_1Segment" ],
+    [ "SegmentState", "d6/d09/structSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_1_1SegmentState.html", "d6/d09/structSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_1_1SegmentState" ],
+    [ "SingleProducerSingleConsumerQueue_DebugView", "db/d3d/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_1_1SingleProducerSingleConsumerQueue__DebugView.html", "db/d3d/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_1_1SingleProducerSingleConsumerQueue__DebugView" ],
+    [ "SingleProducerSingleConsumerQueue", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a8822cbf7c3f8b47804aeb58defe0aa99.html#a8822cbf7c3f8b47804aeb58defe0aa99", null ],
+    [ "Clear", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a9ffa3694426ce018e5a9c6b0e5f61e28.html#a9ffa3694426ce018e5a9c6b0e5f61e28", null ],
+    [ "Enqueue", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a1dd67a55dde980d7656109f1d9436a1a.html#a1dd67a55dde980d7656109f1d9436a1a", null ],
+    [ "EnqueueSlow", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_aff551317b8c0f3e8dfb24a1f7aec4531.html#aff551317b8c0f3e8dfb24a1f7aec4531", null ],
+    [ "GetCountSafe", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a3a7e0c8aeb4507375f4c3c96cfa5c3a4.html#a3a7e0c8aeb4507375f4c3c96cfa5c3a4", null ],
+    [ "GetEnumerator", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a5b3cd9999672833852b0a709c9d19366.html#a5b3cd9999672833852b0a709c9d19366", null ],
+    [ "GetEnumerator", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_aaa93b6d63a2fd9bc7d53788888de1ed9.html#aaa93b6d63a2fd9bc7d53788888de1ed9", null ],
+    [ "TryDequeue", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_aa6748152e9b5fd779eb81a6854676488.html#aa6748152e9b5fd779eb81a6854676488", null ],
+    [ "TryDequeueIf", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_acd09c5b3dcbc2548afd90a5611fdaecc.html#acd09c5b3dcbc2548afd90a5611fdaecc", null ],
+    [ "TryDequeueIfSlow", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a9436952d07a63712853b1bfcb9392b2e.html#a9436952d07a63712853b1bfcb9392b2e", null ],
+    [ "TryDequeueSlow", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a066ee9622ea95a2da68264e9a5a4388c.html#a066ee9622ea95a2da68264e9a5a4388c", null ],
+    [ "TryPeek", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a4e93097b58ce471e5f5dfa358d8d7a4a.html#a4e93097b58ce471e5f5dfa358d8d7a4a", null ],
+    [ "TryPeekSlow", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a0b311feea9d5d60fe7902feb11976dd5.html#a0b311feea9d5d60fe7902feb11976dd5", null ],
+    [ "d__16", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a9280212b2cb8a7dc30304caccb8dbffc.html#a9280212b2cb8a7dc30304caccb8dbffc", null ],
+    [ "IDisposable", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a4feca76744671fade71a29cf56e71c57.html#a4feca76744671fade71a29cf56e71c57", null ],
+    [ "INIT_SEGMENT_SIZE", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_adbcd9a845c6221f561b1107fd482e80c.html#adbcd9a845c6221f561b1107fd482e80c", null ],
+    [ "m_head", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_aa18611bbf34eb5bddf363a6980398219.html#aa18611bbf34eb5bddf363a6980398219", null ],
+    [ "m_tail", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_ad9f5c7a11e5961bf87a3beed4dd8f04d.html#ad9f5c7a11e5961bf87a3beed4dd8f04d", null ],
+    [ "MAX_SEGMENT_SIZE", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a687d56a8a6c11bb83a68fa96f295514b.html#a687d56a8a6c11bb83a68fa96f295514b", null ],
+    [ "Count", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a6d42777e2ef163aebe0cbe683ae8fb0a.html#a6d42777e2ef163aebe0cbe683ae8fb0a", null ],
+    [ "IEnumerator", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_af73c0958d8695622e036edbc3df611bd.html#af73c0958d8695622e036edbc3df611bd", null ],
+    [ "IsEmpty", "dc/dff/classSystem_1_1Threading_1_1Tasks_1_1SingleProducerSingleConsumerQueue_a604af9d6ddf8d301ee08447dff02044a.html#a604af9d6ddf8d301ee08447dff02044a", null ]
+];

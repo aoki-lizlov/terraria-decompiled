@@ -1,0 +1,27 @@
+var classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader =
+[
+    [ "TraceJsonReader", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a5d1d7e4aecec63ef0a226deeba813c6e.html#a5d1d7e4aecec63ef0a226deeba813c6e", null ],
+    [ "Close", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a1e1523c03d3daa3efa374c75c3d7001e.html#a1e1523c03d3daa3efa374c75c3d7001e", null ],
+    [ "GetDeserializedJsonMessage", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a9e935003e75e6fc6c069d5355d9b5552.html#a9e935003e75e6fc6c069d5355d9b5552", null ],
+    [ "HasLineInfo", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_acae385d713205f0f6bb265bbd074a6f4.html#acae385d713205f0f6bb265bbd074a6f4", null ],
+    [ "Read", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_acbb86a0496c4f56c427f94f6bbfba232.html#acbb86a0496c4f56c427f94f6bbfba232", null ],
+    [ "ReadAsBoolean", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_aee707c2a5c0a93c29261ffd040a92b6c.html#aee707c2a5c0a93c29261ffd040a92b6c", null ],
+    [ "ReadAsBytes", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a7440f5b3fd9afb9fc2278e46dfb3ac4c.html#a7440f5b3fd9afb9fc2278e46dfb3ac4c", null ],
+    [ "ReadAsDateTime", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a6ec2ae4ca587ed16a0a86a537962460e.html#a6ec2ae4ca587ed16a0a86a537962460e", null ],
+    [ "ReadAsDateTimeOffset", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a5d61de0e0d7cc65461fd4fcf041b4016.html#a5d61de0e0d7cc65461fd4fcf041b4016", null ],
+    [ "ReadAsDecimal", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a9b5976252d0cd92e3832e635a702c37e.html#a9b5976252d0cd92e3832e635a702c37e", null ],
+    [ "ReadAsDouble", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a4e3abcc98536bee65342e189fc0f024f.html#a4e3abcc98536bee65342e189fc0f024f", null ],
+    [ "ReadAsInt32", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_aff0a3f770bb5d0ae5bb3c79729b29fff.html#aff0a3f770bb5d0ae5bb3c79729b29fff", null ],
+    [ "ReadAsString", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a44f50b5ff3ecf65e0568872163f8d405.html#a44f50b5ff3ecf65e0568872163f8d405", null ],
+    [ "_innerReader", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a3ae4398cf254e2031907c6a4997ecb18.html#a3ae4398cf254e2031907c6a4997ecb18", null ],
+    [ "_sw", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a8aa90e359653298c9261ef9522950b30.html#a8aa90e359653298c9261ef9522950b30", null ],
+    [ "_textWriter", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_ae161b8cf54e54e2d76520489771676b9.html#ae161b8cf54e54e2d76520489771676b9", null ],
+    [ "Depth", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_af299fb8673bc177d05a4947d94319512.html#af299fb8673bc177d05a4947d94319512", null ],
+    [ "LineNumber", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_ae85c49b4323d9f91179b969fac1e5604.html#ae85c49b4323d9f91179b969fac1e5604", null ],
+    [ "LinePosition", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_aa21eb55ba3dc3f195855e04c39d3f73f.html#aa21eb55ba3dc3f195855e04c39d3f73f", null ],
+    [ "Path", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a8114ec2ea5985b4348ec24910036a7ac.html#a8114ec2ea5985b4348ec24910036a7ac", null ],
+    [ "QuoteChar", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a4a6f172bd19ea7826383ae782d9e50e4.html#a4a6f172bd19ea7826383ae782d9e50e4", null ],
+    [ "TokenType", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a183b9b271bee56b0e5df7038f0ec7c05.html#a183b9b271bee56b0e5df7038f0ec7c05", null ],
+    [ "Value", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_a323b71fcbca003dbe4f0f658fb4d5e96.html#a323b71fcbca003dbe4f0f658fb4d5e96", null ],
+    [ "ValueType", "d6/d13/classNewtonsoft_1_1Json_1_1Serialization_1_1TraceJsonReader_af30cf3ec6b7d100e08b8030f75ec9b6c.html#af30cf3ec6b7d100e08b8030f75ec9b6c", null ]
+];

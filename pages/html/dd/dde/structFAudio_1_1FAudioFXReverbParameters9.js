@@ -1,0 +1,26 @@
+var structFAudio_1_1FAudioFXReverbParameters9 =
+[
+    [ "DecayTime", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a6e8e9c56479a306a90000628f6304bd2.html#a6e8e9c56479a306a90000628f6304bd2", null ],
+    [ "Density", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_aa61de77e33f8fe25de8050d0083d48b6.html#aa61de77e33f8fe25de8050d0083d48b6", null ],
+    [ "EarlyDiffusion", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_acd8b5c06507fc5cb4c53950344633cee.html#acd8b5c06507fc5cb4c53950344633cee", null ],
+    [ "HighEQCutoff", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a0798ab63f400111f3b040492f6d40a8d.html#a0798ab63f400111f3b040492f6d40a8d", null ],
+    [ "HighEQGain", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a59a3da8440c5be829fce03efcc34a0b6.html#a59a3da8440c5be829fce03efcc34a0b6", null ],
+    [ "LateDiffusion", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a496392bdd7fb6dfde1fc6c3fe79833e3.html#a496392bdd7fb6dfde1fc6c3fe79833e3", null ],
+    [ "LowEQCutoff", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a38ec8e23233617c1b3b5f50e8b45e71b.html#a38ec8e23233617c1b3b5f50e8b45e71b", null ],
+    [ "LowEQGain", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a5b4ce32b2b9c02db0bcf47776ad12f36.html#a5b4ce32b2b9c02db0bcf47776ad12f36", null ],
+    [ "PositionLeft", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_af7c5a0edcce297a75a06a1478de6d9f9.html#af7c5a0edcce297a75a06a1478de6d9f9", null ],
+    [ "PositionMatrixLeft", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a2a9a77d613cb9fa563787d7f5e111955.html#a2a9a77d613cb9fa563787d7f5e111955", null ],
+    [ "PositionMatrixRight", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a728c5579882e69ba93a25b7b32f5bcd0.html#a728c5579882e69ba93a25b7b32f5bcd0", null ],
+    [ "PositionRight", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_ac5985c6a98027c0f0d8ab6154bbf5e7a.html#ac5985c6a98027c0f0d8ab6154bbf5e7a", null ],
+    [ "RearDelay", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_ada3f0372ee13f737431376357825ef0e.html#ada3f0372ee13f737431376357825ef0e", null ],
+    [ "ReflectionsDelay", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a130091f21b3762210c2d382c660bdf16.html#a130091f21b3762210c2d382c660bdf16", null ],
+    [ "ReflectionsGain", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a66deb951b4fb182a7200d13c4dbcf19b.html#a66deb951b4fb182a7200d13c4dbcf19b", null ],
+    [ "ReverbDelay", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a87ed1131a98c0e660268970f2bd6ca9c.html#a87ed1131a98c0e660268970f2bd6ca9c", null ],
+    [ "ReverbGain", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a570920da2a727edc93e4812239e75434.html#a570920da2a727edc93e4812239e75434", null ],
+    [ "RoomFilterFreq", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a48b4545a77c37e2305a1b087305d8d4a.html#a48b4545a77c37e2305a1b087305d8d4a", null ],
+    [ "RoomFilterHF", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a3381c9dd99389f8f5639b421a96b8d88.html#a3381c9dd99389f8f5639b421a96b8d88", null ],
+    [ "RoomFilterMain", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a5136af50175876951b67c58ad4bcd2ae.html#a5136af50175876951b67c58ad4bcd2ae", null ],
+    [ "RoomSize", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_ab9dce96d0e04eba4766155f8ca04b102.html#ab9dce96d0e04eba4766155f8ca04b102", null ],
+    [ "SideDelay", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_a14c926a7a0fa1c05f46f706b7165879a.html#a14c926a7a0fa1c05f46f706b7165879a", null ],
+    [ "WetDryMix", "dd/dde/structFAudio_1_1FAudioFXReverbParameters9_ad8a932f5f577f52ac9497cabae8355fa.html#ad8a932f5f577f52ac9497cabae8355fa", null ]
+];

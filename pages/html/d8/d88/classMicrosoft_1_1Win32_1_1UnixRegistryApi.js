@@ -1,0 +1,27 @@
+var classMicrosoft_1_1Win32_1_1UnixRegistryApi =
+[
+    [ "UnixRegistryApi", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a81d70bfb28e3ce6f0df2dd9995759131.html#a81d70bfb28e3ce6f0df2dd9995759131", null ],
+    [ "Close", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_ad8003ab6dceb44c2d1478e26e2e302e9.html#ad8003ab6dceb44c2d1478e26e2e302e9", null ],
+    [ "CreateSubKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a882d70ed0b7f1449ef49209c4337396d.html#a882d70ed0b7f1449ef49209c4337396d", null ],
+    [ "CreateSubKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_ae19fcbd84dd3ac457ceba7a4c1b3144c.html#ae19fcbd84dd3ac457ceba7a4c1b3144c", null ],
+    [ "CreateSubKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a512c41e57ef9b259d4c26602b4c11139.html#a512c41e57ef9b259d4c26602b4c11139", null ],
+    [ "CreateSubKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a37c3e34f72350cb7c14947cfdeffea0a.html#a37c3e34f72350cb7c14947cfdeffea0a", null ],
+    [ "DeleteKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a93584057a3109ac21f59575b2c796c3d.html#a93584057a3109ac21f59575b2c796c3d", null ],
+    [ "DeleteValue", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_ae4f1b389b3a9dc579be4211911cdafd3.html#ae4f1b389b3a9dc579be4211911cdafd3", null ],
+    [ "Flush", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a1d78b893ba1a86ea236014f4adb61e2f.html#a1d78b893ba1a86ea236014f4adb61e2f", null ],
+    [ "FromHandle", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a099548a544b9ead9e034b2168f090c06.html#a099548a544b9ead9e034b2168f090c06", null ],
+    [ "GetHandle", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a0a28d4f45ef30c2410f81e8e1e34c206.html#a0a28d4f45ef30c2410f81e8e1e34c206", null ],
+    [ "GetSubKeyNames", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a51ade7ef6b7d388fc7408a9b9bfd89ab.html#a51ade7ef6b7d388fc7408a9b9bfd89ab", null ],
+    [ "GetValue", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a73502f5096b1cffb1811d8b994f0801c.html#a73502f5096b1cffb1811d8b994f0801c", null ],
+    [ "GetValueKind", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_af15446ffe24c2153af316a53da31402f.html#af15446ffe24c2153af316a53da31402f", null ],
+    [ "GetValueNames", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_af20633035bad3b739616328e8b965f5c.html#af20633035bad3b739616328e8b965f5c", null ],
+    [ "IsWellKnownKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a117d822898b032a0f0f9132bb8b27101.html#a117d822898b032a0f0f9132bb8b27101", null ],
+    [ "OpenRemoteBaseKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_aebd2ca616455f6fbe9499443805b3088.html#aebd2ca616455f6fbe9499443805b3088", null ],
+    [ "OpenSubKey", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_ab7b9560fbf39900d34b9de8175a2c3df.html#ab7b9560fbf39900d34b9de8175a2c3df", null ],
+    [ "SetValue", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_afecfecdf025cd65c7b3ec2f8730b512d.html#afecfecdf025cd65c7b3ec2f8730b512d", null ],
+    [ "SetValue", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a263def60f3a647b28b5fbb0a61109e86.html#a263def60f3a647b28b5fbb0a61109e86", null ],
+    [ "SubKeyCount", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_af0bd6d965cc87523f6774e9dc6b2b88f.html#af0bd6d965cc87523f6774e9dc6b2b88f", null ],
+    [ "ToString", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_aef72d60d005b6735549b7f433fccc8c3.html#aef72d60d005b6735549b7f433fccc8c3", null ],
+    [ "ToUnix", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a0358ddc25186b3caf5cb42da94aa8cd5.html#a0358ddc25186b3caf5cb42da94aa8cd5", null ],
+    [ "ValueCount", "d8/d88/classMicrosoft_1_1Win32_1_1UnixRegistryApi_a4fd2c02e8a4b241f5f06addd70e1bd89.html#a4fd2c02e8a4b241f5f06addd70e1bd89", null ]
+];

@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1DualDungeonLayoutProviderSettings =
+[
+    [ "DualDungeonLayoutProviderSettings", "d9/df5/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1DualDungeonLayoutProviderSettings_a1df2e6cfd72932d86f6b91cc1551ddd6.html#a1df2e6cfd72932d86f6b91cc1551ddd6", null ]
+];

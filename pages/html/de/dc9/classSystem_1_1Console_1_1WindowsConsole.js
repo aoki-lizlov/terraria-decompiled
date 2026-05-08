@@ -1,0 +1,16 @@
+var classSystem_1_1Console_1_1WindowsConsole =
+[
+    [ "WindowsConsole", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a056a6980e001baa7e65fd48b1221497d.html#a056a6980e001baa7e65fd48b1221497d", null ],
+    [ "WindowsConsole", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a753928cb4b064197d778ef706e84590c.html#a753928cb4b064197d778ef706e84590c", null ],
+    [ "AddCtrlHandler", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a78015632d0e10f7def17a44500850e64.html#a78015632d0e10f7def17a44500850e64", null ],
+    [ "DoWindowsConsoleCancelEvent", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_ad6f3ac6f2ef257ea9f86bcda720ca5af.html#ad6f3ac6f2ef257ea9f86bcda720ca5af", null ],
+    [ "GetConsoleCP", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_ab176f05f1ece5308e358b0987ea17987.html#ab176f05f1ece5308e358b0987ea17987", null ],
+    [ "GetConsoleOutputCP", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a516c9c48809afd9b9be864f57bc260b9.html#a516c9c48809afd9b9be864f57bc260b9", null ],
+    [ "GetInputCodePage", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a2f11cb58355c4e1737fae2bbb671b8a2.html#a2f11cb58355c4e1737fae2bbb671b8a2", null ],
+    [ "GetOutputCodePage", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a476a894cd6ca5cc65e32ea7bace04341.html#a476a894cd6ca5cc65e32ea7bace04341", null ],
+    [ "RemoveCtrlHandler", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_ab0c2721f99e347110149d0fe962b8ba0.html#ab0c2721f99e347110149d0fe962b8ba0", null ],
+    [ "SetConsoleCtrlHandler", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a26974300f1f68a96758978270b319423.html#a26974300f1f68a96758978270b319423", null ],
+    [ "WindowsCancelHandler", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a76eac7152b9826ba2a9bfb901d40d9db.html#a76eac7152b9826ba2a9bfb901d40d9db", null ],
+    [ "cancelHandler", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a8da2dec45c67b83a1d53c929439439b1.html#a8da2dec45c67b83a1d53c929439439b1", null ],
+    [ "ctrlHandlerAdded", "de/dc9/classSystem_1_1Console_1_1WindowsConsole_a2e9bc3cb9b4ee8464826f5f5e59e2736.html#a2e9bc3cb9b4ee8464826f5f5e59e2736", null ]
+];

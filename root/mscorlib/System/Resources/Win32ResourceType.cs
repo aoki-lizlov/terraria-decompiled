@@ -1,0 +1,49 @@
+using System;
+
+namespace System.Resources
+{
+	// Token: 0x02000842 RID: 2114
+	internal enum Win32ResourceType
+	{
+		// Token: 0x04002D94 RID: 11668
+		RT_CURSOR = 1,
+		// Token: 0x04002D95 RID: 11669
+		RT_FONT = 8,
+		// Token: 0x04002D96 RID: 11670
+		RT_BITMAP = 2,
+		// Token: 0x04002D97 RID: 11671
+		RT_ICON,
+		// Token: 0x04002D98 RID: 11672
+		RT_MENU,
+		// Token: 0x04002D99 RID: 11673
+		RT_DIALOG,
+		// Token: 0x04002D9A RID: 11674
+		RT_STRING,
+		// Token: 0x04002D9B RID: 11675
+		RT_FONTDIR,
+		// Token: 0x04002D9C RID: 11676
+		RT_ACCELERATOR = 9,
+		// Token: 0x04002D9D RID: 11677
+		RT_RCDATA,
+		// Token: 0x04002D9E RID: 11678
+		RT_MESSAGETABLE,
+		// Token: 0x04002D9F RID: 11679
+		RT_GROUP_CURSOR,
+		// Token: 0x04002DA0 RID: 11680
+		RT_GROUP_ICON = 14,
+		// Token: 0x04002DA1 RID: 11681
+		RT_VERSION = 16,
+		// Token: 0x04002DA2 RID: 11682
+		RT_DLGINCLUDE,
+		// Token: 0x04002DA3 RID: 11683
+		RT_PLUGPLAY = 19,
+		// Token: 0x04002DA4 RID: 11684
+		RT_VXD,
+		// Token: 0x04002DA5 RID: 11685
+		RT_ANICURSOR,
+		// Token: 0x04002DA6 RID: 11686
+		RT_ANIICON,
+		// Token: 0x04002DA7 RID: 11687
+		RT_HTML
+	}
+}

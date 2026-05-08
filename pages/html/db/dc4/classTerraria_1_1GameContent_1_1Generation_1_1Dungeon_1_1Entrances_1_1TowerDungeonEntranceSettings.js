@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1TowerDungeonEntranceSettings =
+[
+    [ "TowerDungeonEntranceSettings", "db/dc4/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1TowerDungeonEntranceSettings_a03275b1865b042828d34b6775081e61f.html#a03275b1865b042828d34b6775081e61f", null ]
+];

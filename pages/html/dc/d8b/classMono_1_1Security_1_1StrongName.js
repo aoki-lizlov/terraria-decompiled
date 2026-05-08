@@ -1,0 +1,38 @@
+var classMono_1_1Security_1_1StrongName =
+[
+    [ "StrongNameSignature", "d0/df0/classMono_1_1Security_1_1StrongName_1_1StrongNameSignature.html", "d0/df0/classMono_1_1Security_1_1StrongName_1_1StrongNameSignature" ],
+    [ "StrongNameOptions", "dc/d8b/classMono_1_1Security_1_1StrongName_af9b6549ac7fe4e18af0626e09b3a65bd.html#af9b6549ac7fe4e18af0626e09b3a65bd", [
+      [ "Metadata", "dc/d8b/classMono_1_1Security_1_1StrongName_af9b6549ac7fe4e18af0626e09b3a65bd.html#af9b6549ac7fe4e18af0626e09b3a65bdace21470ab49d1d1976bc3dc72438c183", null ],
+      [ "Signature", "dc/d8b/classMono_1_1Security_1_1StrongName_af9b6549ac7fe4e18af0626e09b3a65bd.html#af9b6549ac7fe4e18af0626e09b3a65bda8c09001c99ecb6fdd8d6023fcf039054", null ]
+    ] ],
+    [ "StrongName", "dc/d8b/classMono_1_1Security_1_1StrongName_a5b91ca98ca408eefdc0705d1986e8246.html#a5b91ca98ca408eefdc0705d1986e8246", null ],
+    [ "StrongName", "dc/d8b/classMono_1_1Security_1_1StrongName_a859aba6ff83a660c06a358b12c67d66b.html#a859aba6ff83a660c06a358b12c67d66b", null ],
+    [ "StrongName", "dc/d8b/classMono_1_1Security_1_1StrongName_a0f9291ca5aae0456b2b0bf8babe2dded.html#a0f9291ca5aae0456b2b0bf8babe2dded", null ],
+    [ "StrongName", "dc/d8b/classMono_1_1Security_1_1StrongName_a0854e45ca393b5488047493cfa175ee6.html#a0854e45ca393b5488047493cfa175ee6", null ],
+    [ "StrongName", "dc/d8b/classMono_1_1Security_1_1StrongName_a6ebfb49a19d24ab0f82a427bdea79b98.html#a6ebfb49a19d24ab0f82a427bdea79b98", null ],
+    [ "Error", "dc/d8b/classMono_1_1Security_1_1StrongName_a518b915473e15f2e5016a21bad09a1bf.html#a518b915473e15f2e5016a21bad09a1bf", null ],
+    [ "GetBytes", "dc/d8b/classMono_1_1Security_1_1StrongName_a4a05faaaa841afbb8d9114366d05a388.html#a4a05faaaa841afbb8d9114366d05a388", null ],
+    [ "GetHashAlgorithm", "dc/d8b/classMono_1_1Security_1_1StrongName_a746aedce038ee358ce2cdbc85aebc073.html#a746aedce038ee358ce2cdbc85aebc073", null ],
+    [ "Hash", "dc/d8b/classMono_1_1Security_1_1StrongName_a29c43a871cb5c659bf80c56cac564ca3.html#a29c43a871cb5c659bf80c56cac564ca3", null ],
+    [ "InvalidateCache", "dc/d8b/classMono_1_1Security_1_1StrongName_a4ffe0664e6ef65b84264bdf89e510420.html#a4ffe0664e6ef65b84264bdf89e510420", null ],
+    [ "IsAssemblyStrongnamed", "dc/d8b/classMono_1_1Security_1_1StrongName_ad334e41ea1587a4f93f0760084d8d86f.html#ad334e41ea1587a4f93f0760084d8d86f", null ],
+    [ "ReadMore", "dc/d8b/classMono_1_1Security_1_1StrongName_a5d9b2af1e3ba194191e788c7968f18e5.html#a5d9b2af1e3ba194191e788c7968f18e5", null ],
+    [ "RVAtoPosition", "dc/d8b/classMono_1_1Security_1_1StrongName_a3fa2d3d43b83704bd2e1656567ea853f.html#a3fa2d3d43b83704bd2e1656567ea853f", null ],
+    [ "Sign", "dc/d8b/classMono_1_1Security_1_1StrongName_aa84e24118d55c53121656c3508b044e3.html#aa84e24118d55c53121656c3508b044e3", null ],
+    [ "StrongHash", "dc/d8b/classMono_1_1Security_1_1StrongName_adbeacc5ef05c925cbc9cda8db7cf590d.html#adbeacc5ef05c925cbc9cda8db7cf590d", null ],
+    [ "Verify", "dc/d8b/classMono_1_1Security_1_1StrongName_ab2f426f3bb86567c4b0cfa92afd9c8bb.html#ab2f426f3bb86567c4b0cfa92afd9c8bb", null ],
+    [ "Verify", "dc/d8b/classMono_1_1Security_1_1StrongName_aa9b623ad1f4486ca5d3e6737050b8efa.html#aa9b623ad1f4486ca5d3e6737050b8efa", null ],
+    [ "Verify", "dc/d8b/classMono_1_1Security_1_1StrongName_af4c88da00efaed5eab8b5d361a641263.html#af4c88da00efaed5eab8b5d361a641263", null ],
+    [ "VerifySignature", "dc/d8b/classMono_1_1Security_1_1StrongName_a865dd892b56c7ef47b0381d4fad69000.html#a865dd892b56c7ef47b0381d4fad69000", null ],
+    [ "initialized", "dc/d8b/classMono_1_1Security_1_1StrongName_a1c142d70fe90e527ee1fcfb304a26481.html#a1c142d70fe90e527ee1fcfb304a26481", null ],
+    [ "keyToken", "dc/d8b/classMono_1_1Security_1_1StrongName_a7445ac6202ee14ab0cea0a7ecb8d3b2d.html#a7445ac6202ee14ab0cea0a7ecb8d3b2d", null ],
+    [ "lockObject", "dc/d8b/classMono_1_1Security_1_1StrongName_a17434585f4546c4fc70024a605542850.html#a17434585f4546c4fc70024a605542850", null ],
+    [ "publicKey", "dc/d8b/classMono_1_1Security_1_1StrongName_af3df9ddec11b868ad086bb293bb33a31.html#af3df9ddec11b868ad086bb293bb33a31", null ],
+    [ "rsa", "dc/d8b/classMono_1_1Security_1_1StrongName_a838141cf97f8224cee41e86e8f082735.html#a838141cf97f8224cee41e86e8f082735", null ],
+    [ "tokenAlgorithm", "dc/d8b/classMono_1_1Security_1_1StrongName_a9359c4221ab731efaf5c8bf652c0cf98.html#a9359c4221ab731efaf5c8bf652c0cf98", null ],
+    [ "CanSign", "dc/d8b/classMono_1_1Security_1_1StrongName_abd5fe71c0111ff80847b0332aa2d6936.html#abd5fe71c0111ff80847b0332aa2d6936", null ],
+    [ "PublicKey", "dc/d8b/classMono_1_1Security_1_1StrongName_aeb0b587e1cdf59912b940d8b59f11e24.html#aeb0b587e1cdf59912b940d8b59f11e24", null ],
+    [ "PublicKeyToken", "dc/d8b/classMono_1_1Security_1_1StrongName_a68774e4c741790d63f21b51f5777011d.html#a68774e4c741790d63f21b51f5777011d", null ],
+    [ "RSA", "dc/d8b/classMono_1_1Security_1_1StrongName_a7e8a3ad0577ac62b83a9beea663ecde7.html#a7e8a3ad0577ac62b83a9beea663ecde7", null ],
+    [ "TokenAlgorithm", "dc/d8b/classMono_1_1Security_1_1StrongName_a331dacad279804b29693dfd6f49a9452.html#a331dacad279804b29693dfd6f49a9452", null ]
+];

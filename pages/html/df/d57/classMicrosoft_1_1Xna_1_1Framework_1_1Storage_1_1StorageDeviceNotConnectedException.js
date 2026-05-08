@@ -1,0 +1,6 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Storage_1_1StorageDeviceNotConnectedException =
+[
+    [ "StorageDeviceNotConnectedException", "df/d57/classMicrosoft_1_1Xna_1_1Framework_1_1Storage_1_1StorageDeviceNotConnectedException_aa26ca245c4ca891a75cc0c6f2bf04f21.html#aa26ca245c4ca891a75cc0c6f2bf04f21", null ],
+    [ "StorageDeviceNotConnectedException", "df/d57/classMicrosoft_1_1Xna_1_1Framework_1_1Storage_1_1StorageDeviceNotConnectedException_abde81e5ed160a44378221493d0c3a137.html#abde81e5ed160a44378221493d0c3a137", null ],
+    [ "StorageDeviceNotConnectedException", "df/d57/classMicrosoft_1_1Xna_1_1Framework_1_1Storage_1_1StorageDeviceNotConnectedException_aa2985e3f3f1662de7c4d2262faddf0c0.html#aa2985e3f3f1662de7c4d2262faddf0c0", null ]
+];

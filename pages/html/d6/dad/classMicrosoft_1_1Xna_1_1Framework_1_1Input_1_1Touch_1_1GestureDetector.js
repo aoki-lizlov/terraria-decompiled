@@ -1,0 +1,37 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector =
+[
+    [ "GestureState", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4b", [
+      [ "NONE", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4bab50339a10e1de285ac99d4c3990b8693", null ],
+      [ "HOLDING", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4bac24fea1a954cdb80cfa777b3675c665a", null ],
+      [ "HELD", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4bab33343cae11179cc3df2575f7f6ddc33", null ],
+      [ "JUST_TAPPED", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4ba213a16ae0ec1d15df10bc1d01841c2e3", null ],
+      [ "DRAGGING_FREE", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4ba40f3b771b306c9f16791251cbc472fa4", null ],
+      [ "DRAGGING_H", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4bace647bf57a596f8aa576c261ea723d7c", null ],
+      [ "DRAGGING_V", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4ba0cd76b1290ca350744a2643f88db14e5", null ],
+      [ "PINCHING", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a547458ef830e9123180268e177fecf4b.html#a547458ef830e9123180268e177fecf4ba521415e7a08c1aaa723b16b9f4ab9699", null ]
+    ] ],
+    [ "GestureDetector", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a8899394f094bb990f2ad2f3db9a4bbec.html#a8899394f094bb990f2ad2f3db9a4bbec", null ],
+    [ "GetGestureTimestamp", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a0a615f73790fe2b2df830b195380fb81.html#a0a615f73790fe2b2df830b195380fb81", null ],
+    [ "IsGestureEnabled", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a8cd8608b2e48934f31f7e99cc66d183f.html#a8cd8608b2e48934f31f7e99cc66d183f", null ],
+    [ "OnMoved", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a3bb80fbe10b6be846e90d17137d58050.html#a3bb80fbe10b6be846e90d17137d58050", null ],
+    [ "OnMoved_Pinch", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a1113a762717f4b5e1dd713a1cf7b07bf.html#a1113a762717f4b5e1dd713a1cf7b07bf", null ],
+    [ "OnPressed", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_ad0facefe69e8a81402249c177212aed1.html#ad0facefe69e8a81402249c177212aed1", null ],
+    [ "OnReleased", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a1ab851946ab4d746878aa1cfb9b980d7.html#a1ab851946ab4d746878aa1cfb9b980d7", null ],
+    [ "OnReleased_Pinch", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a5519fc9ce252f0ec30bcaba86e5558c6.html#a5519fc9ce252f0ec30bcaba86e5558c6", null ],
+    [ "OnUpdate", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_abf736e19b3e61b3a3bd4066b4cfb324d.html#abf736e19b3e61b3a3bd4066b4cfb324d", null ],
+    [ "activeFingerId", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a3d7aedc9cf087e335446907850c2f3b0.html#a3d7aedc9cf087e335446907850c2f3b0", null ],
+    [ "activeFingerPosition", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a4287d5e23968fa539b0e8f2e5c4f70a9.html#a4287d5e23968fa539b0e8f2e5c4f70a9", null ],
+    [ "callBelatedPinchComplete", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_ac7bd75552a14e58c3c93186842cf667b.html#ac7bd75552a14e58c3c93186842cf667b", null ],
+    [ "eventTimestamp", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_afd1c8f36634e6b8c53fe24fdf8091067.html#afd1c8f36634e6b8c53fe24fdf8091067", null ],
+    [ "fingerIds", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a08ec26dfb2f2c59b11c147aef01d9d0d.html#a08ec26dfb2f2c59b11c147aef01d9d0d", null ],
+    [ "justDoubleTapped", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_ae090173e8b76437b0b9b773aae54c04b.html#ae090173e8b76437b0b9b773aae54c04b", null ],
+    [ "lastUpdatePosition", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_aff6ebfac5847fa0d8d9eb9d62574ed87.html#aff6ebfac5847fa0d8d9eb9d62574ed87", null ],
+    [ "MIN_FLICK_VELOCITY", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a7f7169f12117f431ed0727371b567109.html#a7f7169f12117f431ed0727371b567109", null ],
+    [ "MOVE_THRESHOLD", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_afb90d3a833744ea28418c37605f9b533.html#afb90d3a833744ea28418c37605f9b533", null ],
+    [ "pressPosition", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a4a9c668dd5dc37e7e4dac4de0c2380e0.html#a4a9c668dd5dc37e7e4dac4de0c2380e0", null ],
+    [ "secondFingerId", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_ae05e0b014370780eda52efc9603f6824.html#ae05e0b014370780eda52efc9603f6824", null ],
+    [ "secondFingerPosition", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_acc66a38202ef2f60b3ca82a5b65e4393.html#acc66a38202ef2f60b3ca82a5b65e4393", null ],
+    [ "state", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_af20c76016ffc51d0c4f5116b052c6fbd.html#af20c76016ffc51d0c4f5116b052c6fbd", null ],
+    [ "updateTimestamp", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a126934a0013d0e18316c2a471b2cf261.html#a126934a0013d0e18316c2a471b2cf261", null ],
+    [ "velocity", "d6/dad/classMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1Touch_1_1GestureDetector_a14c4cc399109e62bc31f3c49ce4288fd.html#a14c4cc399109e62bc31f3c49ce4288fd", null ]
+];

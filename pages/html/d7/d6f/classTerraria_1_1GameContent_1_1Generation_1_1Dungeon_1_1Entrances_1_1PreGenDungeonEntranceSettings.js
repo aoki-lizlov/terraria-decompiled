@@ -1,0 +1,8 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1PreGenDungeonEntranceSettings =
+[
+    [ "PreGenDungeonEntranceSettings", "d7/d6f/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1PreGenDungeonEntranceSettings_a5ed990fa096bd929824dda803127444d.html#a5ed990fa096bd929824dda803127444d", null ],
+    [ "BuriedEntranceSandDugoutYOffset", "d7/d6f/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1PreGenDungeonEntranceSettings_a461b38d493a9205255ff31f4ecc15359.html#a461b38d493a9205255ff31f4ecc15359", null ],
+    [ "BuriedEntranceYOffset", "d7/d6f/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1PreGenDungeonEntranceSettings_ae2bc24a8122ea099a4e2099e918b000c.html#ae2bc24a8122ea099a4e2099e918b000c", null ],
+    [ "BuryEntrance", "d7/d6f/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1PreGenDungeonEntranceSettings_a9274624f06e0500351e4e734e6434e4b.html#a9274624f06e0500351e4e734e6434e4b", null ],
+    [ "RoughHeight", "d7/d6f/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1PreGenDungeonEntranceSettings_a4b349880c5a6ab30955b6d60106015c1.html#a4b349880c5a6ab30955b6d60106015c1", null ]
+];

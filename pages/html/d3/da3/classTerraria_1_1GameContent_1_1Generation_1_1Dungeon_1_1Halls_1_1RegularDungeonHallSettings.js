@@ -1,0 +1,6 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1RegularDungeonHallSettings =
+[
+    [ "RegularDungeonHallSettings", "d3/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1RegularDungeonHallSettings_a9ccd3e0ceae359b1ad578e7196551098.html#a9ccd3e0ceae359b1ad578e7196551098", null ],
+    [ "OverrideInnerBoundsSize", "d3/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1RegularDungeonHallSettings_a334cd6601238cb80af3ff9c696007fbb.html#a334cd6601238cb80af3ff9c696007fbb", null ],
+    [ "OverrideOuterBoundsSize", "d3/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1RegularDungeonHallSettings_ab41447e4319677385abb72bd86cec4e0.html#ab41447e4319677385abb72bd86cec4e0", null ]
+];

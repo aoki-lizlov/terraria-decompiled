@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1AllowReversePInvokeCallsAttribute =
+[
+    [ "AllowReversePInvokeCallsAttribute", "d3/d5d/classSystem_1_1Runtime_1_1InteropServices_1_1AllowReversePInvokeCallsAttribute_aba3829d5d54150bd80fd349445c04d62.html#aba3829d5d54150bd80fd349445c04d62", null ]
+];

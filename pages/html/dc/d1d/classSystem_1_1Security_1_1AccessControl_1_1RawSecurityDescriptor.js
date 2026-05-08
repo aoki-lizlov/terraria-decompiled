@@ -1,0 +1,25 @@
+var classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor =
+[
+    [ "RawSecurityDescriptor", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_ac2b6fcadd3f789536f97367a71d26d88.html#ac2b6fcadd3f789536f97367a71d26d88", null ],
+    [ "RawSecurityDescriptor", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a11ee6da23a7d1125e119121927d07b14.html#a11ee6da23a7d1125e119121927d07b14", null ],
+    [ "RawSecurityDescriptor", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a98ba32eefe2bc63aaea42df92d047efd.html#a98ba32eefe2bc63aaea42df92d047efd", null ],
+    [ "ParseSddl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a4249750f2a237363b391abf9dea86093.html#a4249750f2a237363b391abf9dea86093", null ],
+    [ "ReadInt", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a2c6144bdb54d10b88be80989b87a213e.html#a2c6144bdb54d10b88be80989b87a213e", null ],
+    [ "ReadUShort", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a3a415ee75f61af28ee6b21fee06fd1bb.html#a3a415ee75f61af28ee6b21fee06fd1bb", null ],
+    [ "SetFlags", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_af3f31019089da160c719c942c3a120d7.html#af3f31019089da160c719c942c3a120d7", null ],
+    [ "control_flags", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a3842770a65a8278ea5227d81034adf17.html#a3842770a65a8278ea5227d81034adf17", null ],
+    [ "discretionary_acl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_ab655099adcae254a4ac88056bc57fca7.html#ab655099adcae254a4ac88056bc57fca7", null ],
+    [ "group_sid", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_aec18b0c84fd154dfb3a819fe60df25a5.html#aec18b0c84fd154dfb3a819fe60df25a5", null ],
+    [ "owner_sid", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_acef287316215197905a637ea0959f0b4.html#acef287316215197905a637ea0959f0b4", null ],
+    [ "resourcemgr_control", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_aeafe5ea7c6a58a33cd6fc5c508ef4037.html#aeafe5ea7c6a58a33cd6fc5c508ef4037", null ],
+    [ "system_acl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a9f4025c8da093307816abf2b71ece314.html#a9f4025c8da093307816abf2b71ece314", null ],
+    [ "ControlFlags", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a177973ac68623e53f43b6f0050b14743.html#a177973ac68623e53f43b6f0050b14743", null ],
+    [ "DiscretionaryAcl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_af129f4029643e50389956865d1515c0f.html#af129f4029643e50389956865d1515c0f", null ],
+    [ "Group", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_aec8afe3c74f3026f459435e06f2c573c.html#aec8afe3c74f3026f459435e06f2c573c", null ],
+    [ "InternalDacl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a8fc4e53cac9c0580add5cdfc48a26de9.html#a8fc4e53cac9c0580add5cdfc48a26de9", null ],
+    [ "InternalReservedField", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a7258ee6b40ef3687beb77b54e9cc7406.html#a7258ee6b40ef3687beb77b54e9cc7406", null ],
+    [ "InternalSacl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_aba9379dc0784660dc4fd2ed03d5bce92.html#aba9379dc0784660dc4fd2ed03d5bce92", null ],
+    [ "Owner", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_acf52a18b28c615f49f98212dd786f2da.html#acf52a18b28c615f49f98212dd786f2da", null ],
+    [ "ResourceManagerControl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_ad1922e30179ad812424857f84a7ae270.html#ad1922e30179ad812424857f84a7ae270", null ],
+    [ "SystemAcl", "dc/d1d/classSystem_1_1Security_1_1AccessControl_1_1RawSecurityDescriptor_a98a5c883723b325bc52411ebb9452e93.html#a98a5c883723b325bc52411ebb9452e93", null ]
+];

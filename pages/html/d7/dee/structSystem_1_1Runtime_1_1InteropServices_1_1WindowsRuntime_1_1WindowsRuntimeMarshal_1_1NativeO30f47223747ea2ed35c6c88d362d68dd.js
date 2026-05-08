@@ -1,0 +1,5 @@
+var structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1NativeO30f47223747ea2ed35c6c88d362d68dd =
+[
+    [ "registrationTable", "d7/dee/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1NativeO30f47223747ea2ed35c6c88d362d68dd_a5ba51c3b33e37a21cee1ba8780c1f974.html#a5ba51c3b33e37a21cee1ba8780c1f974", null ],
+    [ "tokenListCount", "d7/dee/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1NativeO30f47223747ea2ed35c6c88d362d68dd_a14cf7d170ff5984e4a3b70875dc6bde7.html#a14cf7d170ff5984e4a3b70875dc6bde7", null ]
+];

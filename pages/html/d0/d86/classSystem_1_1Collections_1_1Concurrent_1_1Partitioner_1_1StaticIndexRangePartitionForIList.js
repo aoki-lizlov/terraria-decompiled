@@ -1,0 +1,6 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForIList =
+[
+    [ "StaticIndexRangePartitionForIList", "d0/d86/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForIList_afb90746748d7c37773d03aec7380fbd9.html#afb90746748d7c37773d03aec7380fbd9", null ],
+    [ "_list", "d0/d86/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForIList_a30fb13c56f0e5b790e1466a20cbf01c7.html#a30fb13c56f0e5b790e1466a20cbf01c7", null ],
+    [ "Current", "d0/d86/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForIList_a0ebe47dce8eb01da84ba58522c1a3d48.html#a0ebe47dce8eb01da84ba58522c1a3d48", null ]
+];

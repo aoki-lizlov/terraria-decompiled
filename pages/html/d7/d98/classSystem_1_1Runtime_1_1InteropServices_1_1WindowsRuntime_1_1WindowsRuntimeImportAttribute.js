@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeImportAttribute =
+[
+    [ "WindowsRuntimeImportAttribute", "d7/d98/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeImportAttribute_a8951fb40bc5fc87dd1760b547effa0e9.html#a8951fb40bc5fc87dd1760b547effa0e9", null ]
+];

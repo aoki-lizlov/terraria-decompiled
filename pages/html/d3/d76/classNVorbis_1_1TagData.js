@@ -1,0 +1,27 @@
+var classNVorbis_1_1TagData =
+[
+    [ "TagData", "d3/d76/classNVorbis_1_1TagData_a3916ea5ae28bf5f5644ffe24f22a2f68.html#a3916ea5ae28bf5f5644ffe24f22a2f68", null ],
+    [ "TagData", "d3/d76/classNVorbis_1_1TagData_aa4b48ab1d2aeb14cf900792e030c7770.html#aa4b48ab1d2aeb14cf900792e030c7770", null ],
+    [ "GetTagMulti", "d3/d76/classNVorbis_1_1TagData_a5403b2d0427e44f7d6b1006b636d3b97.html#a5403b2d0427e44f7d6b1006b636d3b97", null ],
+    [ "GetTagSingle", "d3/d76/classNVorbis_1_1TagData_aacb4384def97b49ba3c1b12d9ff38225.html#aacb4384def97b49ba3c1b12d9ff38225", null ],
+    [ "_tags", "d3/d76/classNVorbis_1_1TagData_aff3f78d8c1f3051a81b907eacb206122.html#aff3f78d8c1f3051a81b907eacb206122", null ],
+    [ "k__BackingField", "d3/d76/classNVorbis_1_1TagData_a49126fa2a5d0ee9ca70f996dc5443fa4.html#a49126fa2a5d0ee9ca70f996dc5443fa4", null ],
+    [ "s_emptyList", "d3/d76/classNVorbis_1_1TagData_adad1ad2c472dc6ead3b69fae678c7c3f.html#adad1ad2c472dc6ead3b69fae678c7c3f", null ],
+    [ "Album", "d3/d76/classNVorbis_1_1TagData_a6f7f720b77947cc2119896a76879e25c.html#a6f7f720b77947cc2119896a76879e25c", null ],
+    [ "All", "d3/d76/classNVorbis_1_1TagData_ace1f10a56f61aa32f225067a863907ef.html#ace1f10a56f61aa32f225067a863907ef", null ],
+    [ "Artist", "d3/d76/classNVorbis_1_1TagData_ae615e73fbe6320b6459a51d76eca297c.html#ae615e73fbe6320b6459a51d76eca297c", null ],
+    [ "Contact", "d3/d76/classNVorbis_1_1TagData_a22a592c5f84dfb7da777b5a4c36f1ede.html#a22a592c5f84dfb7da777b5a4c36f1ede", null ],
+    [ "Copyright", "d3/d76/classNVorbis_1_1TagData_a78d7f786b17db0ee6dc60315318ec3f6.html#a78d7f786b17db0ee6dc60315318ec3f6", null ],
+    [ "Dates", "d3/d76/classNVorbis_1_1TagData_a6b41d3c792ba4c2f16b4bc34900b5058.html#a6b41d3c792ba4c2f16b4bc34900b5058", null ],
+    [ "Description", "d3/d76/classNVorbis_1_1TagData_a3040a1e07a69f5bf990a05417baf1482.html#a3040a1e07a69f5bf990a05417baf1482", null ],
+    [ "EncoderVendor", "d3/d76/classNVorbis_1_1TagData_ad34414fd93da0e3afb2d251ca26a208e.html#ad34414fd93da0e3afb2d251ca26a208e", null ],
+    [ "Genres", "d3/d76/classNVorbis_1_1TagData_a80910bcd834634a42ffe862f382e5ef6.html#a80910bcd834634a42ffe862f382e5ef6", null ],
+    [ "Isrc", "d3/d76/classNVorbis_1_1TagData_a8219e365c366f71e373fc2cc9f55bf53.html#a8219e365c366f71e373fc2cc9f55bf53", null ],
+    [ "License", "d3/d76/classNVorbis_1_1TagData_a4c82e848baae2dd8881f9aec72af7fac.html#a4c82e848baae2dd8881f9aec72af7fac", null ],
+    [ "Locations", "d3/d76/classNVorbis_1_1TagData_aaf303b2ae88d430f39fccfd121484121.html#aaf303b2ae88d430f39fccfd121484121", null ],
+    [ "Organization", "d3/d76/classNVorbis_1_1TagData_afc559d62548e9f8b50aa4345329392f4.html#afc559d62548e9f8b50aa4345329392f4", null ],
+    [ "Performers", "d3/d76/classNVorbis_1_1TagData_ae1b5dc3a3b1a47b6cfcd1ed3b0d9eab8.html#ae1b5dc3a3b1a47b6cfcd1ed3b0d9eab8", null ],
+    [ "Title", "d3/d76/classNVorbis_1_1TagData_aa879d7c1ef7570c448fffa65d13ec6ce.html#aa879d7c1ef7570c448fffa65d13ec6ce", null ],
+    [ "TrackNumber", "d3/d76/classNVorbis_1_1TagData_a03f5a1c1a3c527650c2db8830203b75a.html#a03f5a1c1a3c527650c2db8830203b75a", null ],
+    [ "Version", "d3/d76/classNVorbis_1_1TagData_a46dbfda228bd6776c5b32715845ece71.html#a46dbfda228bd6776c5b32715845ece71", null ]
+];

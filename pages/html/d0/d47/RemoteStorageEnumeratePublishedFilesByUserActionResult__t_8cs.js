@@ -1,0 +1,4 @@
+var RemoteStorageEnumeratePublishedFilesByUserActionResult__t_8cs =
+[
+    [ "Steamworks.RemoteStorageEnumeratePublishedFilesByUserActionResult_t", "d3/d90/structSteamworks_1_1RemoteStorageEnumeratePublishedFilesByUserActionResult__t.html", "d3/d90/structSteamworks_1_1RemoteStorageEnumeratePublishedFilesByUserActionResult__t" ]
+];

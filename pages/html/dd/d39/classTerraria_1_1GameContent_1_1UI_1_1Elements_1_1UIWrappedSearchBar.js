@@ -1,0 +1,36 @@
+var classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar =
+[
+    [ "ColorTheme", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a34a4f420c69de02a9aeea66eaf2c808a.html#a34a4f420c69de02a9aeea66eaf2c808a", [
+      [ "Blue", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a34a4f420c69de02a9aeea66eaf2c808a.html#a34a4f420c69de02a9aeea66eaf2c808aa9594eec95be70e7b1710f730fdda33d9", null ],
+      [ "Red", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a34a4f420c69de02a9aeea66eaf2c808a.html#a34a4f420c69de02a9aeea66eaf2c808aaee38e4d5dd68c4e440825018d549cb47", null ]
+    ] ],
+    [ "UIWrappedSearchBar", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_aa3798237a808909dca8519fc4abc81ac.html#aa3798237a808909dca8519fc4abc81ac", null ],
+    [ "AddSearchBar", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a0c0a7be366d71cf43ac85cd29b9bb729.html#a0c0a7be366d71cf43ac85cd29b9bb729", null ],
+    [ "Click_SearchArea", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a4073bdd96d24deae0fd79d2dbc97718d.html#a4073bdd96d24deae0fd79d2dbc97718d", null ],
+    [ "GoBackFromVirtualKeyboard", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_afdb1acf394c56a69707e7e633f176414.html#afdb1acf394c56a69707e7e633f176414", null ],
+    [ "HideSearchButton", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a83983597f490bba5726538f30f8129e7.html#a83983597f490bba5726538f30f8129e7", null ],
+    [ "OnEndTakingInput", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_aa5e4d473d187dcbea58c2102a7940f18.html#aa5e4d473d187dcbea58c2102a7940f18", null ],
+    [ "OnStartTakingInput", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_af85740d86fa690440987482d18b11ce7.html#af85740d86fa690440987482d18b11ce7", null ],
+    [ "OpenVirtualKeyboardWhenNeeded", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a4de56b7e53a99f2ac43980d0d960bbbe.html#a4de56b7e53a99f2ac43980d0d960bbbe", null ],
+    [ "SearchBox_OnRightClick", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a2ecc6be200a8f6e5d155963c581be233.html#a2ecc6be200a8f6e5d155963c581be233", null ],
+    [ "searchCancelButton_OnClick", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a0c7826707e5fdf6e486f217f4a78a0d6.html#a0c7826707e5fdf6e486f217f4a78a0d6", null ],
+    [ "searchCancelButton_OnMouseOver", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_aec89d850d25caedd30027e80c9d6ee14.html#aec89d850d25caedd30027e80c9d6ee14", null ],
+    [ "SetContents", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a1480014851a206738339b1f2fb93070a.html#a1480014851a206738339b1f2fb93070a", null ],
+    [ "SetSearchSnapPoint", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_ad30c3687db7a771a05b99abb7efebeef.html#ad30c3687db7a771a05b99abb7efebeef", null ],
+    [ "SubmitVirtualText", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a70fdeb5f1dbe0b75ab6ade70cdd8b2f6.html#a70fdeb5f1dbe0b75ab6ade70cdd8b2f6", null ],
+    [ "ToggleTakingText", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a597427637e31eac4e9bbe086235aaa54.html#a597427637e31eac4e9bbe086235aaa54", null ],
+    [ "Update", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a93382182fc542f3c2f1ed3c7b30ee85e.html#a93382182fc542f3c2f1ed3c7b30ee85e", null ],
+    [ "UpdateSearchContents", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a13147017fef28d8d5cffa8922400efcd.html#a13147017fef28d8d5cffa8922400efcd", null ],
+    [ "_emptyText", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a00d5e9121d1be619876217dd1eb25a04.html#a00d5e9121d1be619876217dd1eb25a04", null ],
+    [ "_goBackFromVirtualKeyboard", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a49ce1259cb9686126b98967093bb99fc.html#a49ce1259cb9686126b98967093bb99fc", null ],
+    [ "_searchBar", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a85819864d03c0a24e66d10e2b7feddf1.html#a85819864d03c0a24e66d10e2b7feddf1", null ],
+    [ "_searchBoxPanel", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a2153838a2b4fc26aae44a24af17edd67.html#a2153838a2b4fc26aae44a24af17edd67", null ],
+    [ "_searchButton", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_aca85c279adb8b3dd742f15f080bfbacf.html#aca85c279adb8b3dd742f15f080bfbacf", null ],
+    [ "_searchString", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_ad8636198718ab5e44b54cc2f86d7ece5.html#ad8636198718ab5e44b54cc2f86d7ece5", null ],
+    [ "_theme", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a8a2833fa8fe9f88fefd53f27f2fa483c.html#a8a2833fa8fe9f88fefd53f27f2fa483c", null ],
+    [ "CustomOpenVirtualKeyboard", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_af5f6dca9bf05d28996c124def77a3000.html#af5f6dca9bf05d28996c124def77a3000", null ],
+    [ "HasContents", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a8fc0d611e96f40271d341cd28307f387.html#a8fc0d611e96f40271d341cd28307f387", null ],
+    [ "IsWritingText", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a801a2205605d5641ad819c2ea580ff19.html#a801a2205605d5641ad819c2ea580ff19", null ],
+    [ "MaxInputLength", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_a200887a18641803952566db61d608372.html#a200887a18641803952566db61d608372", null ],
+    [ "OnSearchContentsChanged", "dd/d39/classTerraria_1_1GameContent_1_1UI_1_1Elements_1_1UIWrappedSearchBar_aeab56d4368e22d790abfa67eb4a4de40.html#aeab56d4368e22d790abfa67eb4a4de40", null ]
+];

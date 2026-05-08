@@ -1,0 +1,6 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForArray =
+[
+    [ "StaticIndexRangePartitionForArray", "da/d86/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForArray_ab25dabf49ac76b25db0160dee390466b.html#ab25dabf49ac76b25db0160dee390466b", null ],
+    [ "_array", "da/d86/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForArray_a19a8c15c501e1d71d593b482771c90d6.html#a19a8c15c501e1d71d593b482771c90d6", null ],
+    [ "Current", "da/d86/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1StaticIndexRangePartitionForArray_ae3d43902a1ce769e085b86a3a336a9d3.html#ae3d43902a1ce769e085b86a3a336a9d3", null ]
+];

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{509E3942-F2C1-4D68-8D9A-9CEF0F42A6BA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NVorbis</RootNamespace>
+    <AssemblyName>NVorbis</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="-PrivateImplementationDetails-.cs" />
+    <Compile Include="Codebook.cs" />
+    <Compile Include="Contracts\GetPacketGranuleCount.cs" />
+    <Compile Include="Contracts\HuffmanListNode.cs" />
+    <Compile Include="Contracts\ICodebook.cs" />
+    <Compile Include="Contracts\IContainerReader.cs" />
+    <Compile Include="Contracts\IFactory.cs" />
+    <Compile Include="Contracts\IFloor.cs" />
+    <Compile Include="Contracts\IFloorData.cs" />
+    <Compile Include="Contracts\IHuffman.cs" />
+    <Compile Include="Contracts\IMapping.cs" />
+    <Compile Include="Contracts\IMdct.cs" />
+    <Compile Include="Contracts\IMode.cs" />
+    <Compile Include="Contracts\IPacket.cs" />
+    <Compile Include="Contracts\IPacketProvider.cs" />
+    <Compile Include="Contracts\IResidue.cs" />
+    <Compile Include="Contracts\IStreamDecoder.cs" />
+    <Compile Include="Contracts\IStreamStats.cs" />
+    <Compile Include="Contracts\ITagData.cs" />
+    <Compile Include="Contracts\IVorbisReader.cs" />
+    <Compile Include="Contracts\NewStreamHandler.cs" />
+    <Compile Include="Contracts\Ogg\ICrc.cs" />
+    <Compile Include="Contracts\Ogg\IForwardOnlyPacketProvider.cs" />
+    <Compile Include="Contracts\Ogg\IPacketReader.cs" />
+    <Compile Include="Contracts\Ogg\IPageData.cs" />
+    <Compile Include="Contracts\Ogg\IPageReader.cs" />
+    <Compile Include="Contracts\Ogg\IStreamPageReader.cs" />
+    <Compile Include="Contracts\Ogg\PageFlags.cs" />
+    <Compile Include="Contracts\ParameterChangeEventArgs.cs" />
+    <Compile Include="DataPacket.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="Factory.cs" />
+    <Compile Include="Floor0.cs" />
+    <Compile Include="Floor1.cs" />
+    <Compile Include="Huffman.cs" />
+    <Compile Include="IContainerReader.cs" />
+    <Compile Include="IPacketProvider.cs" />
+    <Compile Include="IVorbisStreamStatus.cs" />
+    <Compile Include="Mapping.cs" />
+    <Compile Include="Mdct.cs" />
+    <Compile Include="Memory.cs" />
+    <Compile Include="Mode.cs" />
+    <Compile Include="NewStreamEventArgs.cs" />
+    <Compile Include="Ogg\ContainerReader.cs" />
+    <Compile Include="Ogg\Crc.cs" />
+    <Compile Include="Ogg\ForwardOnlyPacketProvider.cs" />
+    <Compile Include="Ogg\ForwardOnlyPageReader.cs" />
+    <Compile Include="Ogg\Packet.cs" />
+    <Compile Include="Ogg\PacketProvider.cs" />
+    <Compile Include="Ogg\PageReader.cs" />
+    <Compile Include="Ogg\PageReaderBase.cs" />
+    <Compile Include="Ogg\StreamPageReader.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Residue0.cs" />
+    <Compile Include="Residue1.cs" />
+    <Compile Include="Residue2.cs" />
+    <Compile Include="Span.cs" />
+    <Compile Include="StreamDecoder.cs" />
+    <Compile Include="StreamStats.cs" />
+    <Compile Include="TagData.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="VorbisReader.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

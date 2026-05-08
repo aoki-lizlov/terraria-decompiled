@@ -1,0 +1,28 @@
+var classSystem_1_1AppContextSwitches =
+[
+    [ "AppContextSwitches", "d5/d05/classSystem_1_1AppContextSwitches_a008f147412485cbecd07d48ef6dc02be.html#a008f147412485cbecd07d48ef6dc02be", null ],
+    [ "GetCachedSwitchValue", "d5/d05/classSystem_1_1AppContextSwitches_a15e37ac0f616d09fdac2fa467943a3a4.html#a15e37ac0f616d09fdac2fa467943a3a4", null ],
+    [ "GetCachedSwitchValueInternal", "d5/d05/classSystem_1_1AppContextSwitches_a8ff71e2f875b51c06cdb15d2132e69f3.html#a8ff71e2f875b51c06cdb15d2132e69f3", null ],
+    [ "_blockLongPaths", "d5/d05/classSystem_1_1AppContextSwitches_a40c354dc35950ade57fd002248aed9c0.html#a40c354dc35950ade57fd002248aed9c0", null ],
+    [ "_cloneActor", "d5/d05/classSystem_1_1AppContextSwitches_a25fcc3bf52d92cd27d5e39da89ddefd0.html#a25fcc3bf52d92cd27d5e39da89ddefd0", null ],
+    [ "_doNotAddrOfCspParentWindowHandle", "d5/d05/classSystem_1_1AppContextSwitches_a8d84e285753e248d80fa83cd169e5b7c.html#a8d84e285753e248d80fa83cd169e5b7c", null ],
+    [ "_enforceJapaneseEraYearRanges", "d5/d05/classSystem_1_1AppContextSwitches_a527beee108fb0d69c27d4f4131920700.html#a527beee108fb0d69c27d4f4131920700", null ],
+    [ "_enforceLegacyJapaneseDateParsing", "d5/d05/classSystem_1_1AppContextSwitches_a394f062dccf0ca164832fe22624311df.html#a394f062dccf0ca164832fe22624311df", null ],
+    [ "_formatJapaneseFirstYearAsANumber", "d5/d05/classSystem_1_1AppContextSwitches_a59d1217df7dcb6d462d98d1e84f76e24.html#a59d1217df7dcb6d462d98d1e84f76e24", null ],
+    [ "_noAsyncCurrentCulture", "d5/d05/classSystem_1_1AppContextSwitches_a0806a83d08b12678906ec66066623acd.html#a0806a83d08b12678906ec66066623acd", null ],
+    [ "_preserveEventListnerObjectIdentity", "d5/d05/classSystem_1_1AppContextSwitches_a50add1cd4b7d88b1c43bea5e450bb8b0.html#a50add1cd4b7d88b1c43bea5e450bb8b0", null ],
+    [ "_throwExceptionIfDisposedCancellationTokenSource", "d5/d05/classSystem_1_1AppContextSwitches_a14a8b70d805e2fe5a74335d162c2be2b.html#a14a8b70d805e2fe5a74335d162c2be2b", null ],
+    [ "_useLegacyPathHandling", "d5/d05/classSystem_1_1AppContextSwitches_a6dc56cc08f3bf8ead56474327815f04e.html#a6dc56cc08f3bf8ead56474327815f04e", null ],
+    [ "k__BackingField", "d5/d05/classSystem_1_1AppContextSwitches_ae8766bd46eb878729c4e79db2c8149c8.html#ae8766bd46eb878729c4e79db2c8149c8", null ],
+    [ "BlockLongPaths", "d5/d05/classSystem_1_1AppContextSwitches_a2906f603c4e6f02f86b56e1c8ef86a1e.html#a2906f603c4e6f02f86b56e1c8ef86a1e", null ],
+    [ "DisableCaching", "d5/d05/classSystem_1_1AppContextSwitches_aa6e9c54b7339057ca9550c85c74582f8.html#aa6e9c54b7339057ca9550c85c74582f8", null ],
+    [ "DoNotAddrOfCspParentWindowHandle", "d5/d05/classSystem_1_1AppContextSwitches_ad149afd2e56296a8c55409450274de82.html#ad149afd2e56296a8c55409450274de82", null ],
+    [ "EnforceJapaneseEraYearRanges", "d5/d05/classSystem_1_1AppContextSwitches_a097999d5db78640451e9b657248549a2.html#a097999d5db78640451e9b657248549a2", null ],
+    [ "EnforceLegacyJapaneseDateParsing", "d5/d05/classSystem_1_1AppContextSwitches_afca24cd3cb1907ee81acf7a5cf09570a.html#afca24cd3cb1907ee81acf7a5cf09570a", null ],
+    [ "FormatJapaneseFirstYearAsANumber", "d5/d05/classSystem_1_1AppContextSwitches_ad48085f44d7b268b0c4cd1c5f3eb9565.html#ad48085f44d7b268b0c4cd1c5f3eb9565", null ],
+    [ "NoAsyncCurrentCulture", "d5/d05/classSystem_1_1AppContextSwitches_a85c9df30fd3298c11072b8c7c0b58885.html#a85c9df30fd3298c11072b8c7c0b58885", null ],
+    [ "PreserveEventListnerObjectIdentity", "d5/d05/classSystem_1_1AppContextSwitches_ad80592b4ddb45e6e1fe4318ff9d5ba5c.html#ad80592b4ddb45e6e1fe4318ff9d5ba5c", null ],
+    [ "SetActorAsReferenceWhenCopyingClaimsIdentity", "d5/d05/classSystem_1_1AppContextSwitches_a66524c652df3ee7dd18fbb65d8a4fd02.html#a66524c652df3ee7dd18fbb65d8a4fd02", null ],
+    [ "ThrowExceptionIfDisposedCancellationTokenSource", "d5/d05/classSystem_1_1AppContextSwitches_a0fbbdd4c31b4716fa647d6a164d7651a.html#a0fbbdd4c31b4716fa647d6a164d7651a", null ],
+    [ "UseLegacyPathHandling", "d5/d05/classSystem_1_1AppContextSwitches_a1962c0c828b1ddbf740d01b0620cf542.html#a1962c0c828b1ddbf740d01b0620cf542", null ]
+];

@@ -1,0 +1,6 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerator =
+[
+    [ "InternalPartitionEnumerator", "d7/df9/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerator_a6bf7d80858f6ec2cd6469e26a34f1ca0.html#a6bf7d80858f6ec2cd6469e26a34f1ca0", null ],
+    [ "Current", "d7/df9/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerator_aaf596ae9699fec341852b3fef04e5b60.html#aaf596ae9699fec341852b3fef04e5b60", null ],
+    [ "SourceCount", "d7/df9/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIList_1_1InternalPartitionEnumerator_aa92799ac7a7e224052f6750698d4e7c2.html#aa92799ac7a7e224052f6750698d4e7c2", null ]
+];

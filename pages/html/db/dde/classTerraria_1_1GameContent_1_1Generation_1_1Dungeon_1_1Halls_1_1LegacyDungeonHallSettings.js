@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1LegacyDungeonHallSettings =
+[
+    [ "LegacyDungeonHallSettings", "db/dde/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1LegacyDungeonHallSettings_a398b17a3e8c6859f976abf2e71236588.html#a398b17a3e8c6859f976abf2e71236588", null ]
+];

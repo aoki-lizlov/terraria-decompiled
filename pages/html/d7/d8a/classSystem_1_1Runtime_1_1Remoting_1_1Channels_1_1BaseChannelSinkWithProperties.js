@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1Remoting_1_1Channels_1_1BaseChannelSinkWithProperties =
+[
+    [ "BaseChannelSinkWithProperties", "d7/d8a/classSystem_1_1Runtime_1_1Remoting_1_1Channels_1_1BaseChannelSinkWithProperties_a439e13f97a08fbc71cae167dac0e89cd.html#a439e13f97a08fbc71cae167dac0e89cd", null ]
+];

@@ -1,0 +1,26 @@
+var classTerraria_1_1GameContent_1_1CraftingRequests =
+[
+    [ "NetCraftingRequestsModule", "d6/d29/classTerraria_1_1GameContent_1_1CraftingRequests_1_1NetCraftingRequestsModule.html", "d6/d29/classTerraria_1_1GameContent_1_1CraftingRequests_1_1NetCraftingRequestsModule" ],
+    [ "RemoteCraftRequest", "d9/d58/structTerraria_1_1GameContent_1_1CraftingRequests_1_1RemoteCraftRequest.html", "d9/d58/structTerraria_1_1GameContent_1_1CraftingRequests_1_1RemoteCraftRequest" ],
+    [ "CraftingRequests", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a62c8e889e9c308d43a0f687488eb98cd.html#a62c8e889e9c308d43a0f687488eb98cd", null ],
+    [ "CanCraftFromChest", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_ab7215812cd79058cc41936dfa5b70cf3.html#ab7215812cd79058cc41936dfa5b70cf3", null ],
+    [ "CanCraftLocally", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a7eb0284a3eb1b5b9115dfef4183fe201.html#a7eb0284a3eb1b5b9115dfef4183fe201", null ],
+    [ "Clear", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a2789d228437c891c40d43caa9a1a0ff3.html#a2789d228437c891c40d43caa9a1a0ff3", null ],
+    [ "Consume", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a8b8734e3aaea389d49ff401533861677.html#a8b8734e3aaea389d49ff401533861677", null ],
+    [ "ConsumeItemsFrom", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_aee03154c48668fa4ba031cc96e44bc6a.html#aee03154c48668fa4ba031cc96e44bc6a", null ],
+    [ "ConsumeItemsFrom", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_ab5d922c1874e4320fce980e39c5a124d.html#ab5d922c1874e4320fce980e39c5a124d", null ],
+    [ "CountMatches", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a64c01e7c1aa7c2aaa5b098ea126e3a02.html#a64c01e7c1aa7c2aaa5b098ea126e3a02", null ],
+    [ "CountMatches", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a9dde7a75c68cc7cf073cc165b565b0b8.html#a9dde7a75c68cc7cf073cc165b565b0b8", null ],
+    [ "CraftItem", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a71fb3a2954f19c5f6ac81de4259a9c49.html#a71fb3a2954f19c5f6ac81de4259a9c49", null ],
+    [ "CraftLocally", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_ae184698e876242b0497dfbb9576ecfa4.html#ae184698e876242b0497dfbb9576ecfa4", null ],
+    [ "CraftViaRequest", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a34b8f9fdbc7bcd20537f69e1c66f6eed.html#a34b8f9fdbc7bcd20537f69e1c66f6eed", null ],
+    [ "CreateResult", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_ad3df9d8c66bd345933d578e280729996.html#ad3df9d8c66bd345933d578e280729996", null ],
+    [ "HandleRequest", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a38a4868e78528b28d717dccfad1248c9.html#a38a4868e78528b28d717dccfad1248c9", null ],
+    [ "HandleResponse", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_af57de8590a7361c115c383395a0bc818.html#af57de8590a7361c115c383395a0bc818", null ],
+    [ "IsLocallyAccessible", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_aad919cea9cbb11e05c21ad29a5182edd.html#aad919cea9cbb11e05c21ad29a5182edd", null ],
+    [ "Refund", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a208e4a26fb302c3e7d8a6e42d588b0fa.html#a208e4a26fb302c3e7d8a6e42d588b0fa", null ],
+    [ "SavePossibleRefunds", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_aa5469abc0ac4356b9c9ccb03c9e07669.html#aa5469abc0ac4356b9c9ccb03c9e07669", null ],
+    [ "SubtractPendingRequests", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_aff9fa76bd5366e5e0746e460047af248.html#aff9fa76bd5366e5e0746e460047af248", null ],
+    [ "_pendingCrafts", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_af92adac5684c2514deb2d0299b8c82ca.html#af92adac5684c2514deb2d0299b8c82ca", null ],
+    [ "HasPendingRequests", "d7/d01/classTerraria_1_1GameContent_1_1CraftingRequests_a5ce6095eb9d2a3cb705a9b03e5ea005b.html#a5ce6095eb9d2a3cb705a9b03e5ea005b", null ]
+];

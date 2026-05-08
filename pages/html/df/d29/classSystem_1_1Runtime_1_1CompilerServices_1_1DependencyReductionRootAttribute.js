@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1CompilerServices_1_1DependencyReductionRootAttribute =
+[
+    [ "DependencyReductionRootAttribute", "df/d29/classSystem_1_1Runtime_1_1CompilerServices_1_1DependencyReductionRootAttribute_aeab19b99ad180555f9173c046bffeaad.html#aeab19b99ad180555f9173c046bffeaad", null ]
+];

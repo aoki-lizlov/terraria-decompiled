@@ -1,0 +1,25 @@
+var classTerraria_1_1ID_1_1PlayerVoiceOverrideID =
+[
+    [ "PlayerVoiceOverrideID", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a3c31b727e3ccf0747e0ab4a9478ce9e2.html#a3c31b727e3ccf0747e0ab4a9478ce9e2", null ],
+    [ "Balloon", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a09e262f1c909e45c4f730074e7b32dbc.html#a09e262f1c909e45c4f730074e7b32dbc", null ],
+    [ "Cat", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a821d34869e23979822167b2f4b5526cc.html#a821d34869e23979822167b2f4b5526cc", null ],
+    [ "Chicken", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_ad20bc6a11ffa74eb58b368341b5372b8.html#ad20bc6a11ffa74eb58b368341b5372b8", null ],
+    [ "Cow", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a3c44a6ad92de9614379f47250d275a1a.html#a3c44a6ad92de9614379f47250d275a1a", null ],
+    [ "Crow", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_aaf4b5c3523226c82b3c98b59101c2196.html#aaf4b5c3523226c82b3c98b59101c2196", null ],
+    [ "Dog", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a0f3767be5449c900078af93600b8d212.html#a0f3767be5449c900078af93600b8d212", null ],
+    [ "DontStarveFemale", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a0f25e3293aaf1788850933ad570343a8.html#a0f25e3293aaf1788850933ad570343a8", null ],
+    [ "DontStarveMale", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_ab401a8920df7f0d148011eb85ed35d5c.html#ab401a8920df7f0d148011eb85ed35d5c", null ],
+    [ "Fairy", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a4b61121c07b824c6ced9804e0c693846.html#a4b61121c07b824c6ced9804e0c693846", null ],
+    [ "Female", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_ac8425234095cbd54f49dcc60efd2b680.html#ac8425234095cbd54f49dcc60efd2b680", null ],
+    [ "Frog", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_aceccde6b0b562c20442e51b7198efe5f.html#aceccde6b0b562c20442e51b7198efe5f", null ],
+    [ "Goat", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a29c37a162999efa46f26d98237356ac7.html#a29c37a162999efa46f26d98237356ac7", null ],
+    [ "Goblin", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a2cd6ad47b2d5c2d286df3b19b9baf8e1.html#a2cd6ad47b2d5c2d286df3b19b9baf8e1", null ],
+    [ "Male", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_af4027fc3fc3bf53476ea794cd0f1d758.html#af4027fc3fc3bf53476ea794cd0f1d758", null ],
+    [ "NoOverride", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_aa7b653f6757d105c0bd3c8f5f51ea987.html#aa7b653f6757d105c0bd3c8f5f51ea987", null ],
+    [ "Other", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_af4d9ddc765e851f62f7213ee2b09a234.html#af4d9ddc765e851f62f7213ee2b09a234", null ],
+    [ "Retro", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a9bc93b3112c561999500b323e29e9493.html#a9bc93b3112c561999500b323e29e9493", null ],
+    [ "Turkey", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_aa0f278c3e67c78c20e5a3174a4b8105c.html#aa0f278c3e67c78c20e5a3174a4b8105c", null ],
+    [ "Undead", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_ab7e26ad89b6bcf101a16ae6f894b8c50.html#ab7e26ad89b6bcf101a16ae6f894b8c50", null ],
+    [ "Vampire", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_a39d9baccabac8bbe50e4bd402d10e6a1.html#a39d9baccabac8bbe50e4bd402d10e6a1", null ],
+    [ "WhoopieCushion", "d4/d3c/classTerraria_1_1ID_1_1PlayerVoiceOverrideID_aaca843fce5038c52b77e8cca2a70c1eb.html#aaca843fce5038c52b77e8cca2a70c1eb", null ]
+];

@@ -1,0 +1,140 @@
+using System;
+using System.Collections;
+using System.Reflection;
+using System.Runtime.Remoting;
+using System.Runtime.Remoting.Messaging;
+using System.Security;
+
+namespace System.Runtime.Serialization
+{
+	// Token: 0x02000630 RID: 1584
+	internal static class ObjectCloneHelper
+	{
+		// Token: 0x06003C79 RID: 15481 RVA: 0x000D22B4 File Offset: 0x000D04B4
+		[SecurityCritical]
+		internal static object GetObjectData(object serObj, out string typeName, out string assemName, out string[] fieldNames, out object[] fieldValues)
+		{
+			object obj = null;
+			Type type;
+			if (RemotingServices.IsTransparentProxy(serObj))
+			{
+				type = typeof(MarshalByRefObject);
+			}
+			else
+			{
+				type = serObj.GetType();
+			}
+			SerializationInfo serializationInfo = new SerializationInfo(type, ObjectCloneHelper.s_converter);
+			if (serObj is ObjRef)
+			{
+				ObjectCloneHelper.s_ObjRefRemotingSurrogate.GetObjectData(serObj, serializationInfo, ObjectCloneHelper.s_cloneContext);
+			}
+			else if (RemotingServices.IsTransparentProxy(serObj) || serObj is MarshalByRefObject)
+			{
+				if (obj == null)
+				{
+					ObjectCloneHelper.s_RemotingSurrogate.GetObjectData(serObj, serializationInfo, ObjectCloneHelper.s_cloneContext);
+				}
+			}
+			else
+			{
+				if (!(serObj is ISerializable))
+				{
+					throw new ArgumentException(Environment.GetResourceString("Serialization error."));
+				}
+				((ISerializable)serObj).GetObjectData(serializationInfo, ObjectCloneHelper.s_cloneContext);
+			}
+			if (obj == null)
+			{
+				typeName = serializationInfo.FullTypeName;
+				assemName = serializationInfo.AssemblyName;
+				fieldNames = serializationInfo.MemberNames;
+				fieldValues = serializationInfo.MemberValues;
+			}
+			else
+			{
+				typeName = null;
+				assemName = null;
+				fieldNames = null;
+				fieldValues = null;
+			}
+			return obj;
+		}
+
+		// Token: 0x06003C7A RID: 15482 RVA: 0x000D2390 File Offset: 0x000D0590
+		[SecurityCritical]
+		internal static SerializationInfo PrepareConstructorArgs(object serObj, string[] fieldNames, object[] fieldValues, out StreamingContext context)
+		{
+			SerializationInfo serializationInfo = null;
+			if (serObj is ISerializable)
+			{
+				serializationInfo = new SerializationInfo(serObj.GetType(), ObjectCloneHelper.s_converter);
+				for (int i = 0; i < fieldNames.Length; i++)
+				{
+					if (fieldNames[i] != null)
+					{
+						serializationInfo.AddValue(fieldNames[i], fieldValues[i]);
+					}
+				}
+			}
+			else
+			{
+				Hashtable hashtable = new Hashtable();
+				int j = 0;
+				int num = 0;
+				while (j < fieldNames.Length)
+				{
+					if (fieldNames[j] != null)
+					{
+						hashtable[fieldNames[j]] = fieldValues[j];
+						num++;
+					}
+					j++;
+				}
+				MemberInfo[] serializableMembers = FormatterServices.GetSerializableMembers(serObj.GetType());
+				for (int k = 0; k < serializableMembers.Length; k++)
+				{
+					string name = serializableMembers[k].Name;
+					if (!hashtable.Contains(name))
+					{
+						object[] customAttributes = serializableMembers[k].GetCustomAttributes(typeof(OptionalFieldAttribute), false);
+						if (customAttributes == null || customAttributes.Length == 0)
+						{
+							throw new SerializationException(Environment.GetResourceString("Member '{0}' in class '{1}' is not present in the serialized stream and is not marked with {2}.", new object[]
+							{
+								serializableMembers[k],
+								serObj.GetType(),
+								typeof(OptionalFieldAttribute).FullName
+							}));
+						}
+					}
+					else
+					{
+						object obj = hashtable[name];
+						FormatterServices.SerializationSetValue(serializableMembers[k], serObj, obj);
+					}
+				}
+			}
+			context = ObjectCloneHelper.s_cloneContext;
+			return serializationInfo;
+		}
+
+		// Token: 0x06003C7B RID: 15483 RVA: 0x000D24C2 File Offset: 0x000D06C2
+		// Note: this type is marked as 'beforefieldinit'.
+		static ObjectCloneHelper()
+		{
+		}
+
+		// Token: 0x040026BC RID: 9916
+		private static readonly IFormatterConverter s_converter = new FormatterConverter();
+
+		// Token: 0x040026BD RID: 9917
+		private static readonly StreamingContext s_cloneContext = new StreamingContext(StreamingContextStates.CrossAppDomain);
+
+		// Token: 0x040026BE RID: 9918
+		private static readonly ISerializationSurrogate s_RemotingSurrogate = new RemotingSurrogate();
+
+		// Token: 0x040026BF RID: 9919
+		private static readonly ISerializationSurrogate s_ObjRefRemotingSurrogate = new ObjRefSurrogate();
+	}
+}

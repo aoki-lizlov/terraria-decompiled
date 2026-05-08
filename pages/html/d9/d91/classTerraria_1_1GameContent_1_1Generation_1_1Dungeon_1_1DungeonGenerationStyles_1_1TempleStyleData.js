@@ -1,0 +1,5 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1DungeonGenerationStyles_1_1TempleStyleData =
+[
+    [ "TempleStyleData", "d9/d91/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1DungeonGenerationStyles_1_1TempleStyleData_a8107b12735d183a1ceca5b4659b9c759.html#a8107b12735d183a1ceca5b4659b9c759", null ],
+    [ "CanGenerateFeatureAt", "d9/d91/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1DungeonGenerationStyles_1_1TempleStyleData_a3d2b90a2a7fefe8126f1ad63896588ff.html#a3d2b90a2a7fefe8126f1ad63896588ff", null ]
+];

@@ -1,0 +1,10 @@
+var structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList =
+[
+    [ "EventRegistrationTokenList", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList_a738989bc39a50436392f329245d6da0b.html#a738989bc39a50436392f329245d6da0b", null ],
+    [ "EventRegistrationTokenList", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList_a3c1e0d3331780baa5f4f66c14a860697.html#a3c1e0d3331780baa5f4f66c14a860697", null ],
+    [ "CopyTo", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList_aff348b43fe219f93703f69403a18806c.html#aff348b43fe219f93703f69403a18806c", null ],
+    [ "Pop", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList_a39ca06734264cd465cf32d655504679e.html#a39ca06734264cd465cf32d655504679e", null ],
+    [ "Push", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList_a0205292c23499483124a9a51f642136f.html#a0205292c23499483124a9a51f642136f", null ],
+    [ "firstToken", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList_afd78fde7a4a634ed535bc5cdba3e1027.html#afd78fde7a4a634ed535bc5cdba3e1027", null ],
+    [ "restTokens", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList_a01339667d4faf495a28df57792be3e2b.html#a01339667d4faf495a28df57792be3e2b", null ]
+];

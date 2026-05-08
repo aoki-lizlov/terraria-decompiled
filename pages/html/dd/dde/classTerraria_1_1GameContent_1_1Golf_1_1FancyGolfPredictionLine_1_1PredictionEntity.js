@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1Golf_1_1FancyGolfPredictionLine_1_1PredictionEntity =
+[
+    [ "PredictionEntity", "dd/dde/classTerraria_1_1GameContent_1_1Golf_1_1FancyGolfPredictionLine_1_1PredictionEntity_a2d6a5a1f0713ef12e828b629775566f4.html#a2d6a5a1f0713ef12e828b629775566f4", null ]
+];

@@ -1,0 +1,27 @@
+var classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer =
+[
+    [ "EncodingByteBuffer", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_acffc90763598f215712141627c7520c2.html#acffc90763598f215712141627c7520c2", null ],
+    [ "AddByte", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a39c92f497e8528c368387825a520900f.html#a39c92f497e8528c368387825a520900f", null ],
+    [ "AddByte", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_ae0746e19c38f9ae49819d367881a3f5f.html#ae0746e19c38f9ae49819d367881a3f5f", null ],
+    [ "AddByte", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a4017ceacecca60fca346243aa6479e88.html#a4017ceacecca60fca346243aa6479e88", null ],
+    [ "AddByte", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a96c27d772047c86cbb6cfa1ca7a568c3.html#a96c27d772047c86cbb6cfa1ca7a568c3", null ],
+    [ "AddByte", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_aab40f337eefb99f6c9439eb5030589c5.html#aab40f337eefb99f6c9439eb5030589c5", null ],
+    [ "AddByte", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_afc4fdfc0463d00d61004f6ad768ce1ef.html#afc4fdfc0463d00d61004f6ad768ce1ef", null ],
+    [ "AddByte", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a1950b6cf3a401734202ea90cc63bb970.html#a1950b6cf3a401734202ea90cc63bb970", null ],
+    [ "Fallback", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_afbd84666f6299e63fd525efd44e0372b.html#afbd84666f6299e63fd525efd44e0372b", null ],
+    [ "GetNextChar", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_acfe0f76d6e226f1452d43b8eeec6d250.html#acfe0f76d6e226f1452d43b8eeec6d250", null ],
+    [ "MovePrevious", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_af0cf02841d2ac4f33495ffc37db91711.html#af0cf02841d2ac4f33495ffc37db91711", null ],
+    [ "byteCountResult", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a5ee6f4b660078d671852f3bb11876686.html#a5ee6f4b660078d671852f3bb11876686", null ],
+    [ "byteEnd", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a1fec792dc77606ffbc466574b32dd009.html#a1fec792dc77606ffbc466574b32dd009", null ],
+    [ "bytes", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a71963d6a2adf689419124d1c52a141c8.html#a71963d6a2adf689419124d1c52a141c8", null ],
+    [ "byteStart", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_af8a8b9299da030696323cdbd590f5e00.html#af8a8b9299da030696323cdbd590f5e00", null ],
+    [ "charEnd", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a63618695fd687deb712827b58b5a2c19.html#a63618695fd687deb712827b58b5a2c19", null ],
+    [ "chars", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a890c5c291ba0ed523e3c84187c67266e.html#a890c5c291ba0ed523e3c84187c67266e", null ],
+    [ "charStart", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a10c1688580fbb5bb29c36450f81e77c6.html#a10c1688580fbb5bb29c36450f81e77c6", null ],
+    [ "enc", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a815ba7d67aceb8dc9de93360c7c21d7e.html#a815ba7d67aceb8dc9de93360c7c21d7e", null ],
+    [ "encoder", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_ac188781a24d5d45d66b906852dd9e62e.html#ac188781a24d5d45d66b906852dd9e62e", null ],
+    [ "fallbackBuffer", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_acc263170111ff7ffd5e861337de869e7.html#acc263170111ff7ffd5e861337de869e7", null ],
+    [ "CharsUsed", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_ae3c1c80f5d2c202868466da7e7bee7ee.html#ae3c1c80f5d2c202868466da7e7bee7ee", null ],
+    [ "Count", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_a4a0e5bc1a6c02287a42206ef6a452e24.html#a4a0e5bc1a6c02287a42206ef6a452e24", null ],
+    [ "MoreData", "db/df7/classSystem_1_1Text_1_1Encoding_1_1EncodingByteBuffer_aeb8e90cb80e10578b71d65d192a3b67d.html#aeb8e90cb80e10578b71d65d192a3b67d", null ]
+];

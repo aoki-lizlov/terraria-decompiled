@@ -1,0 +1,5 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1LegacyDungeonRoomSettings =
+[
+    [ "LegacyDungeonRoomSettings", "dc/da8/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1LegacyDungeonRoomSettings_afe1324a24151e455ce8b391f00ba1bf6.html#afe1324a24151e455ce8b391f00ba1bf6", null ],
+    [ "IsEntranceRoom", "dc/da8/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1LegacyDungeonRoomSettings_aa5c90216461495326c692393175ba330.html#aa5c90216461495326c692393175ba330", null ]
+];

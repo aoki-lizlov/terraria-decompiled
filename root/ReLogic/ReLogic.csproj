@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA42AA25-F793-4CC3-AFDB-FEB59AD3D427}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ReLogic</RootNamespace>
+    <AssemblyName>ReLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FNA" />
+    <Reference Include="Ionic.Zip.CF">
+      <HintPath>Z:\home\lisa\Downloads\dnspy-out\Terraria.Libraries.DotNetZip.Ionic.Zip.CF.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Z:\home\lisa\Downloads\dnspy-out\Terraria.Libraries.JSON.NET.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SteelSeriesEngineWrapper">
+      <HintPath>Z:\home\lisa\Downloads\dnspy-out\Terraria.Libraries.SteelSeries.SteelSeriesEngineWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="-PrivateImplementationDetails-.cs" />
+    <Compile Include="Content\Asset.cs" />
+    <Compile Include="Content\AssetChangeWatcher.cs" />
+    <Compile Include="Content\AssetLoader.cs" />
+    <Compile Include="Content\AssetLoadException.cs" />
+    <Compile Include="Content\AssetPathHelper.cs" />
+    <Compile Include="Content\AssetReaderCollection.cs" />
+    <Compile Include="Content\AssetRepository.cs" />
+    <Compile Include="Content\AssetRequestMode.cs" />
+    <Compile Include="Content\AssetState.cs" />
+    <Compile Include="Content\AssetValueUpdated.cs" />
+    <Compile Include="Content\AssetWatcherUpdateFailed.cs" />
+    <Compile Include="Content\AssetWatcherValueUpdated.cs" />
+    <Compile Include="Content\AsyncAssetLoader.cs" />
+    <Compile Include="Content\ContentFileUpdated.cs" />
+    <Compile Include="Content\ContentRejectionFromFailedLoad_ByAssetExtensionType.cs" />
+    <Compile Include="Content\FailedToLoadAssetCustomAction.cs" />
+    <Compile Include="Content\FileChangeWatcher.cs" />
+    <Compile Include="Content\IAsset.cs" />
+    <Compile Include="Content\IAssetLoader.cs" />
+    <Compile Include="Content\IAssetRepository.cs" />
+    <Compile Include="Content\IAsyncAssetLoader.cs" />
+    <Compile Include="Content\IContentValidator.cs" />
+    <Compile Include="Content\IRejectionReason.cs" />
+    <Compile Include="Content\LoadAssetDelegate.cs" />
+    <Compile Include="Content\Readers\IAssetReader.cs" />
+    <Compile Include="Content\Readers\PngReader.cs" />
+    <Compile Include="Content\Readers\XnbReader.cs" />
+    <Compile Include="Content\RejectedAssetCollection.cs" />
+    <Compile Include="Content\Sources\FileSystemContentSource.cs" />
+    <Compile Include="Content\Sources\IContentSource.cs" />
+    <Compile Include="Content\Sources\XnaContentSource.cs" />
+    <Compile Include="Content\Sources\XnaDirectContentSource.cs" />
+    <Compile Include="Content\Sources\ZipContentSource.cs" />
+    <Compile Include="Graphics\BasicDebugDrawer.cs" />
+    <Compile Include="Graphics\DynamicSpriteFont.cs" />
+    <Compile Include="Graphics\DynamicSpriteFontExtensionMethods.cs" />
+    <Compile Include="Graphics\DynamicSpriteFontReader.cs" />
+    <Compile Include="Graphics\FontPage.cs" />
+    <Compile Include="Graphics\IDebugDrawer.cs" />
+    <Compile Include="IO\ConsoleOutputMirror.cs" />
+    <Compile Include="Localization\IME\FnaIme.cs" />
+    <Compile Include="Localization\IME\IImeService.cs" />
+    <Compile Include="Localization\IME\PlatformIme.cs" />
+    <Compile Include="Localization\IME\UnsupportedPlatformIme.cs" />
+    <Compile Include="Localization\IME\WindowsIme.cs" />
+    <Compile Include="Localization\IME\Windows\Imm.cs" />
+    <Compile Include="Localization\IME\Windows\NativeMethods.cs" />
+    <Compile Include="OS\Base\Clipboard.cs" />
+    <Compile Include="OS\Base\PathService.cs" />
+    <Compile Include="OS\Base\SDLWindowService.cs" />
+    <Compile Include="OS\IClipboard.cs" />
+    <Compile Include="OS\IMouseNotifier.cs" />
+    <Compile Include="OS\IPathService.cs" />
+    <Compile Include="OS\IWindowService.cs" />
+    <Compile Include="OS\Linux\Clipboard.cs" />
+    <Compile Include="OS\Linux\LinuxPlatform.cs" />
+    <Compile Include="OS\Linux\PathService.cs" />
+    <Compile Include="OS\Linux\WindowService.cs" />
+    <Compile Include="OS\OSX\Clipboard.cs" />
+    <Compile Include="OS\OSX\OsxPlatform.cs" />
+    <Compile Include="OS\OSX\PathService.cs" />
+    <Compile Include="OS\OSX\WindowService.cs" />
+    <Compile Include="OS\Platform.cs" />
+    <Compile Include="OS\PlatformType.cs" />
+    <Compile Include="OS\Windows\Clipboard.cs" />
+    <Compile Include="OS\Windows\NativeMethods.cs" />
+    <Compile Include="OS\Windows\PathService.cs" />
+    <Compile Include="OS\Windows\STATaskInvoker.cs" />
+    <Compile Include="OS\Windows\WindowService.cs" />
+    <Compile Include="OS\Windows\WindowsMessage.cs" />
+    <Compile Include="OS\Windows\WindowsMessageHook.cs" />
+    <Compile Include="OS\Windows\WindowsMouseNotifier.cs" />
+    <Compile Include="OS\Windows\WindowsPlatform.cs" />
+    <Compile Include="Peripherals\RGB\ARgbGameValueTracker.2.cs" />
+    <Compile Include="Peripherals\RGB\ARgbGameValueTracker.cs" />
+    <Compile Include="Peripherals\RGB\BlendMode.cs" />
+    <Compile Include="Peripherals\RGB\ChromaCondition.cs" />
+    <Compile Include="Peripherals\RGB\ChromaEngine.cs" />
+    <Compile Include="Peripherals\RGB\ChromaEngineUpdateEventArgs.cs" />
+    <Compile Include="Peripherals\RGB\ChromaPipeline.cs" />
+    <Compile Include="Peripherals\RGB\ChromaShader.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairAccessMode.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairDeviceCaps.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairDeviceGroup.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairDeviceInfo.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairDeviceType.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairError.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairGenericDevice.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairHeadset.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairHelper.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairKeyboard.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairLedColor.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairLedId.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairLedPosition.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairLedPositions.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairLogicalLayout.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairMouse.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairMousepad.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairPhysicalLayout.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\CorsairProtocolDetails.cs" />
+    <Compile Include="Peripherals\RGB\Corsair\NativeMethods.cs" />
+    <Compile Include="Peripherals\RGB\DeviceColorProfile.cs" />
+    <Compile Include="Peripherals\RGB\DeviceInitializationException.cs" />
+    <Compile Include="Peripherals\RGB\EffectDetailLevel.cs" />
+    <Compile Include="Peripherals\RGB\Fragment.cs" />
+    <Compile Include="Peripherals\RGB\HotkeyCollection.cs" />
+    <Compile Include="Peripherals\RGB\IntRgbGameValueTracker.cs" />
+    <Compile Include="Peripherals\RGB\Logitech\KeyName.cs" />
+    <Compile Include="Peripherals\RGB\Logitech\LogitechDeviceGroup.cs" />
+    <Compile Include="Peripherals\RGB\Logitech\LogitechKeyboard.cs" />
+    <Compile Include="Peripherals\RGB\Logitech\LogitechSingleLightDevice.cs" />
+    <Compile Include="Peripherals\RGB\Logitech\NativeMethods.cs" />
+    <Compile Include="Peripherals\RGB\Razer\EffectHandle.cs" />
+    <Compile Include="Peripherals\RGB\Razer\NativeMethods.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerDeviceGroup.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerHeadset.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerHelper.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerKey.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerKeyboard.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerKeypad.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerLink.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerMouse.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RazerMousepad.cs" />
+    <Compile Include="Peripherals\RGB\Razer\RzResult.cs" />
+    <Compile Include="Peripherals\RGB\RgbDevice.cs" />
+    <Compile Include="Peripherals\RGB\RgbDeviceGroup.cs" />
+    <Compile Include="Peripherals\RGB\RgbDeviceType.cs" />
+    <Compile Include="Peripherals\RGB\RgbDeviceVendor.cs" />
+    <Compile Include="Peripherals\RGB\RgbKey.cs" />
+    <Compile Include="Peripherals\RGB\RgbKeyboard.cs" />
+    <Compile Include="Peripherals\RGB\RgbKeyEffect.cs" />
+    <Compile Include="Peripherals\RGB\RgbProcessorAttribute.cs" />
+    <Compile Include="Peripherals\RGB\ShaderBlendState.cs" />
+    <Compile Include="Peripherals\RGB\ShaderLayer.cs" />
+    <Compile Include="Peripherals\RGB\ShaderOperation.cs" />
+    <Compile Include="Peripherals\RGB\ShaderSelector.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\ColorKey.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\GameSenseConnection.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\GameSenseSpecificInfo.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\IGameSenseDevice.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\IGameSenseUpdater.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\SteelSeriesDeviceGroup.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\SteelSeriesEventRelay.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\SteelSeriesKeyboard.cs" />
+    <Compile Include="Peripherals\RGB\SteelSeries\SteelSeriesSecondaryDeviceByZone.cs" />
+    <Compile Include="Peripherals\RGB\VendorColorProfile.cs" />
+    <Compile Include="Peripherals\RGB\VirtualRgbDeviceGroup.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reflection\IdDictionary.cs" />
+    <Compile Include="Text\GlyphMetrics.cs" />
+    <Compile Include="Text\IFontMetrics.cs" />
+    <Compile Include="Text\StringBuilderExtension.cs" />
+    <Compile Include="Text\StringReaderWrapExtension.cs" />
+    <Compile Include="Text\TextUtilities.cs" />
+    <Compile Include="Text\WrappedTextBuilder.cs" />
+    <Compile Include="Threading\AsyncActionDispatcher.cs" />
+    <Compile Include="Threading\FastParallel.cs" />
+    <Compile Include="Threading\ParallelForAction.cs" />
+    <Compile Include="Threading\ThreadUtilities.cs" />
+    <Compile Include="Utilities\AttributeUtilities.cs" />
+    <Compile Include="Utilities\Crc32.cs" />
+    <Compile Include="Utilities\MultiTimer.cs" />
+    <Compile Include="Utilities\ReinterpretCast.cs" />
+    <Compile Include="Utilities\SlotId.cs" />
+    <Compile Include="Utilities\SlotVector.cs" />
+    <Compile Include="Utilities\TypeInstanceCollection.cs" />
+    <Compile Include="Utilities\Vector2D.cs" />
+    <Compile Include="Utilities\XnaExtensions.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

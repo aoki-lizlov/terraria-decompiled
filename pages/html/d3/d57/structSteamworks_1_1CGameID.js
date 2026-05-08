@@ -1,0 +1,35 @@
+var structSteamworks_1_1CGameID =
+[
+    [ "EGameIDType", "d3/d57/structSteamworks_1_1CGameID_aad670e36ad74ce3a22479de0d77751a2.html#aad670e36ad74ce3a22479de0d77751a2", [
+      [ "k_EGameIDTypeApp", "d3/d57/structSteamworks_1_1CGameID_aad670e36ad74ce3a22479de0d77751a2.html#aad670e36ad74ce3a22479de0d77751a2aa1cf1dd382f3ac992619e7a8c48a9e9b", null ],
+      [ "k_EGameIDTypeGameMod", "d3/d57/structSteamworks_1_1CGameID_aad670e36ad74ce3a22479de0d77751a2.html#aad670e36ad74ce3a22479de0d77751a2ab84a28ccd1ad6669ba990439ea55bc3d", null ],
+      [ "k_EGameIDTypeShortcut", "d3/d57/structSteamworks_1_1CGameID_aad670e36ad74ce3a22479de0d77751a2.html#aad670e36ad74ce3a22479de0d77751a2aaeaa0bf91f48651fe4ed0ed15425edb6", null ],
+      [ "k_EGameIDTypeP2P", "d3/d57/structSteamworks_1_1CGameID_aad670e36ad74ce3a22479de0d77751a2.html#aad670e36ad74ce3a22479de0d77751a2a0053b04c89e345c5016540399511e19b", null ]
+    ] ],
+    [ "CGameID", "d3/d57/structSteamworks_1_1CGameID_aad57b6da36f84cb47c54ffe543341a6b.html#aad57b6da36f84cb47c54ffe543341a6b", null ],
+    [ "CGameID", "d3/d57/structSteamworks_1_1CGameID_acf57a0b83bdf23b51e95626579a3dc87.html#acf57a0b83bdf23b51e95626579a3dc87", null ],
+    [ "CGameID", "d3/d57/structSteamworks_1_1CGameID_a69caa12f54f5d978ff2cd530b416bf5b.html#a69caa12f54f5d978ff2cd530b416bf5b", null ],
+    [ "AppID", "d3/d57/structSteamworks_1_1CGameID_a8f5f508f778af8598006140133feed88.html#a8f5f508f778af8598006140133feed88", null ],
+    [ "CompareTo", "d3/d57/structSteamworks_1_1CGameID_a4a9fcda8379cc0a0666c21a7491e83d3.html#a4a9fcda8379cc0a0666c21a7491e83d3", null ],
+    [ "Equals", "d3/d57/structSteamworks_1_1CGameID_a9b1b5a2617dd57cb82c14833a4a63bed.html#a9b1b5a2617dd57cb82c14833a4a63bed", null ],
+    [ "Equals", "d3/d57/structSteamworks_1_1CGameID_a4b6cfdd28db0014954b49fda8d873664.html#a4b6cfdd28db0014954b49fda8d873664", null ],
+    [ "GetHashCode", "d3/d57/structSteamworks_1_1CGameID_a1b32ebc967c7ed73ea09930c200a2b02.html#a1b32ebc967c7ed73ea09930c200a2b02", null ],
+    [ "IsMod", "d3/d57/structSteamworks_1_1CGameID_a8d0ad4e095c632019aa61741e6bc06e8.html#a8d0ad4e095c632019aa61741e6bc06e8", null ],
+    [ "IsP2PFile", "d3/d57/structSteamworks_1_1CGameID_a403b410a43b59d8c87e7a3277ce81ddf.html#a403b410a43b59d8c87e7a3277ce81ddf", null ],
+    [ "IsShortcut", "d3/d57/structSteamworks_1_1CGameID_ab645f50b70091653fd8537726cfcb4a4.html#ab645f50b70091653fd8537726cfcb4a4", null ],
+    [ "IsSteamApp", "d3/d57/structSteamworks_1_1CGameID_a09d85c89a46f7c58adb8fdd225fb88c2.html#a09d85c89a46f7c58adb8fdd225fb88c2", null ],
+    [ "IsValid", "d3/d57/structSteamworks_1_1CGameID_a0a77069633917d78ef4022acd92517ee.html#a0a77069633917d78ef4022acd92517ee", null ],
+    [ "ModID", "d3/d57/structSteamworks_1_1CGameID_aa0be611f45c973936958f8e01903a43c.html#aa0be611f45c973936958f8e01903a43c", null ],
+    [ "operator CGameID", "d3/d57/structSteamworks_1_1CGameID_a6ba8d6e287d6bba8016bb798968b9dd8.html#a6ba8d6e287d6bba8016bb798968b9dd8", null ],
+    [ "operator ulong", "d3/d57/structSteamworks_1_1CGameID_a9d8df848fdb521fbe0d303cd55bea6c9.html#a9d8df848fdb521fbe0d303cd55bea6c9", null ],
+    [ "operator!=", "d3/d57/structSteamworks_1_1CGameID_a6f6e53282d6bcf2f51b40d1e16c0d007.html#a6f6e53282d6bcf2f51b40d1e16c0d007", null ],
+    [ "operator==", "d3/d57/structSteamworks_1_1CGameID_a7863f10a22d58d4021ec79b2ecc9364d.html#a7863f10a22d58d4021ec79b2ecc9364d", null ],
+    [ "Reset", "d3/d57/structSteamworks_1_1CGameID_a182386729ffc6d22b58dc2d69258257a.html#a182386729ffc6d22b58dc2d69258257a", null ],
+    [ "Set", "d3/d57/structSteamworks_1_1CGameID_a34bcd324510482108466cf35121991b2.html#a34bcd324510482108466cf35121991b2", null ],
+    [ "SetAppID", "d3/d57/structSteamworks_1_1CGameID_a9c846a7c2f2ef4845715ad427123f335.html#a9c846a7c2f2ef4845715ad427123f335", null ],
+    [ "SetModID", "d3/d57/structSteamworks_1_1CGameID_a7dcaa026a681edf9d6e25d7f98f312ee.html#a7dcaa026a681edf9d6e25d7f98f312ee", null ],
+    [ "SetType", "d3/d57/structSteamworks_1_1CGameID_abf34598b3a25cf1fa3a7b4d1a3856706.html#abf34598b3a25cf1fa3a7b4d1a3856706", null ],
+    [ "ToString", "d3/d57/structSteamworks_1_1CGameID_a02d6e64cd3520121292d821a7fc08b50.html#a02d6e64cd3520121292d821a7fc08b50", null ],
+    [ "Type", "d3/d57/structSteamworks_1_1CGameID_ae95a5c5da0ba1dd7aa6ce46e0763745e.html#ae95a5c5da0ba1dd7aa6ce46e0763745e", null ],
+    [ "m_GameID", "d3/d57/structSteamworks_1_1CGameID_af3e7c9a97fa897903e1b25b2822ea662.html#af3e7c9a97fa897903e1b25b2822ea662", null ]
+];

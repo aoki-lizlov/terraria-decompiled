@@ -1,0 +1,25 @@
+var classTerraria_1_1ID_1_1BiomeConversionID =
+[
+    [ "ChlorophyteDefenseWhenChloroSpreads", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a234a2b31e453dbe1ec3f245285aedab1.html#a234a2b31e453dbe1ec3f245285aedab1", null ],
+    [ "ChlorophyteDefenseWhenEvilSpreads", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a68ca7fcbf350d284648fbb19935254df.html#a68ca7fcbf350d284648fbb19935254df", null ],
+    [ "ChlorophyteSpread", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a61a405d9c7675c4daf415ecaa15c7f53.html#a61a405d9c7675c4daf415ecaa15c7f53", null ],
+    [ "Corruption", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_ad28bce87c594f466656ba3da7f9fb38d.html#ad28bce87c594f466656ba3da7f9fb38d", null ],
+    [ "Crimson", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a70f52124f1e73aae7085de80b099e995.html#a70f52124f1e73aae7085de80b099e995", null ],
+    [ "Dirt", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a649bd68a191155c904ec4b4c785167b6.html#a649bd68a191155c904ec4b4c785167b6", null ],
+    [ "ForcedCorruption", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_aa07a90fa496847051a7996b6192bc8ed.html#aa07a90fa496847051a7996b6192bc8ed", null ],
+    [ "ForcedCrimson", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_ac299a489045a50e5c0b64693e6aae9e5.html#ac299a489045a50e5c0b64693e6aae9e5", null ],
+    [ "ForcedDirt", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a7d80daf9d331d2349e51a8678f6e7948.html#a7d80daf9d331d2349e51a8678f6e7948", null ],
+    [ "ForcedDungeon", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a1227fbaf7a6456382f644d9c04379976.html#a1227fbaf7a6456382f644d9c04379976", null ],
+    [ "ForcedGlowingMushroom", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_ab50caf06e6440374adec0f264ca0c002.html#ab50caf06e6440374adec0f264ca0c002", null ],
+    [ "ForcedHallow", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_abd81183bdd5a8592d894e4b44fe135f3.html#abd81183bdd5a8592d894e4b44fe135f3", null ],
+    [ "ForcedJungle", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a371d80178ee3f8ff8fcd1bf077bc7252.html#a371d80178ee3f8ff8fcd1bf077bc7252", null ],
+    [ "ForcedSand", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a6746fd75be71e352d7431d8c8b88ebff.html#a6746fd75be71e352d7431d8c8b88ebff", null ],
+    [ "ForcedSnow", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_ad4fbb594568f58442872edc17d79c1ee.html#ad4fbb594568f58442872edc17d79c1ee", null ],
+    [ "ForcedTemple", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_ac986b3b17b519efdad7d1fcf99716989.html#ac986b3b17b519efdad7d1fcf99716989", null ],
+    [ "GlowingMushroom", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_aeeb6d09c7e20975d3c6e07f0f88d7926.html#aeeb6d09c7e20975d3c6e07f0f88d7926", null ],
+    [ "Hallow", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a14ef6561ab9420d7cfd6e2898f411eea.html#a14ef6561ab9420d7cfd6e2898f411eea", null ],
+    [ "PurificationPowder", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a5a4851aaa2dc1b4ce1630cb3deb4a8eb.html#a5a4851aaa2dc1b4ce1630cb3deb4a8eb", null ],
+    [ "Purity", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_aa21623d537677c66b9118e0e38e9d51d.html#aa21623d537677c66b9118e0e38e9d51d", null ],
+    [ "Sand", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_a9a3af1b0fac6d35bda48196ad7cb1d4d.html#a9a3af1b0fac6d35bda48196ad7cb1d4d", null ],
+    [ "Snow", "da/d41/classTerraria_1_1ID_1_1BiomeConversionID_adf8ab96d3060002851489c0118cda722.html#adf8ab96d3060002851489c0118cda722", null ]
+];

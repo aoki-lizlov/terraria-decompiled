@@ -1,0 +1,8 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1StepBasedDungeonHallSettings =
+[
+    [ "StepBasedDungeonHallSettings", "d0/d95/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1StepBasedDungeonHallSettings_a0e5c915a27f1b8dcc5a3af09f272e59f.html#a0e5c915a27f1b8dcc5a3af09f272e59f", null ],
+    [ "ForceHorizontal", "d0/d95/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1StepBasedDungeonHallSettings_a5bddafb9b5b80d982645cac7d85d0ddf.html#a5bddafb9b5b80d982645cac7d85d0ddf", null ],
+    [ "OverrideInteriorToExteriorRatio", "d0/d95/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1StepBasedDungeonHallSettings_a1d808bea61c88bf4b405a687e06e85da.html#a1d808bea61c88bf4b405a687e06e85da", null ],
+    [ "OverrideSteps", "d0/d95/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1StepBasedDungeonHallSettings_ad1658f5991c8666982c36ccb8695717e.html#ad1658f5991c8666982c36ccb8695717e", null ],
+    [ "OverrideStrength", "d0/d95/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1StepBasedDungeonHallSettings_a55297a5ac2adae72a1cfa8e3db25ae44.html#a55297a5ac2adae72a1cfa8e3db25ae44", null ]
+];

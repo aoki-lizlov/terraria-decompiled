@@ -1,0 +1,6 @@
+var classTerraria_1_1GameContent_1_1FishDropRules_1_1FishingConditions_1_1QuestFishConditionRemix =
+[
+    [ "QuestFishConditionRemix", "de/d48/classTerraria_1_1GameContent_1_1FishDropRules_1_1FishingConditions_1_1QuestFishConditionRemix_ae035f9d3a1825a5701144d925f30ca9c.html#ae035f9d3a1825a5701144d925f30ca9c", null ],
+    [ "Matches", "de/d48/classTerraria_1_1GameContent_1_1FishDropRules_1_1FishingConditions_1_1QuestFishConditionRemix_af770ecdc338b9f816ecbb437228cc9e5.html#af770ecdc338b9f816ecbb437228cc9e5", null ],
+    [ "CheckedType", "de/d48/classTerraria_1_1GameContent_1_1FishDropRules_1_1FishingConditions_1_1QuestFishConditionRemix_afc8adc5daa6aa91338eae4d0ebc823bb.html#afc8adc5daa6aa91338eae4d0ebc823bb", null ]
+];

@@ -1,0 +1,25 @@
+var classNVorbis_1_1StreamStats =
+[
+    [ "StreamStats", "d1/d52/classNVorbis_1_1StreamStats_a85a7dc184cc51df44dc239972cad4718.html#a85a7dc184cc51df44dc239972cad4718", null ],
+    [ "AddPacket", "d1/d52/classNVorbis_1_1StreamStats_a38863fb9897fa75bbde503674daef078.html#a38863fb9897fa75bbde503674daef078", null ],
+    [ "ResetStats", "d1/d52/classNVorbis_1_1StreamStats_abcdf0db6547e8ef5cc6e6b55dc5bead9.html#abcdf0db6547e8ef5cc6e6b55dc5bead9", null ],
+    [ "SetSampleRate", "d1/d52/classNVorbis_1_1StreamStats_acf9a0d4ebc2cdfe97614b4446c47a03c.html#acf9a0d4ebc2cdfe97614b4446c47a03c", null ],
+    [ "_audioBits", "d1/d52/classNVorbis_1_1StreamStats_a15b238d0ce95c74288f17c99e6d0cbef.html#a15b238d0ce95c74288f17c99e6d0cbef", null ],
+    [ "_containerBits", "d1/d52/classNVorbis_1_1StreamStats_a98f7c7c8e7ac23f3c7025b3b6145f137.html#a98f7c7c8e7ac23f3c7025b3b6145f137", null ],
+    [ "_headerBits", "d1/d52/classNVorbis_1_1StreamStats_a64cedb38d758c95c67541cff856ad20a.html#a64cedb38d758c95c67541cff856ad20a", null ],
+    [ "_lock", "d1/d52/classNVorbis_1_1StreamStats_a5bad951ff442e694ca089ff41a5b9bbc.html#a5bad951ff442e694ca089ff41a5b9bbc", null ],
+    [ "_packetBits", "d1/d52/classNVorbis_1_1StreamStats_a0dae573de6416e18f0a2e0628f5e312c.html#a0dae573de6416e18f0a2e0628f5e312c", null ],
+    [ "_packetCount", "d1/d52/classNVorbis_1_1StreamStats_a8b83a252d8ff07eed54d190f2df79431.html#a8b83a252d8ff07eed54d190f2df79431", null ],
+    [ "_packetIndex", "d1/d52/classNVorbis_1_1StreamStats_a356f7c7e4c3d07b62c5be9d234694ec8.html#a356f7c7e4c3d07b62c5be9d234694ec8", null ],
+    [ "_packetSamples", "d1/d52/classNVorbis_1_1StreamStats_a951cc008d709af85da160516161ed031.html#a951cc008d709af85da160516161ed031", null ],
+    [ "_sampleRate", "d1/d52/classNVorbis_1_1StreamStats_aadcf6e33e36e49dbbcecf2ce9d490a59.html#aadcf6e33e36e49dbbcecf2ce9d490a59", null ],
+    [ "_totalSamples", "d1/d52/classNVorbis_1_1StreamStats_a00852610cdd5cd7ee7a65bbff7a1d088.html#a00852610cdd5cd7ee7a65bbff7a1d088", null ],
+    [ "_wasteBits", "d1/d52/classNVorbis_1_1StreamStats_a5e8c0bf2eaabd2a07753a853490ff42f.html#a5e8c0bf2eaabd2a07753a853490ff42f", null ],
+    [ "AudioBits", "d1/d52/classNVorbis_1_1StreamStats_aef0fa506fc2c42b255e48022e1601a65.html#aef0fa506fc2c42b255e48022e1601a65", null ],
+    [ "ContainerBits", "d1/d52/classNVorbis_1_1StreamStats_a73bf199c9cc499c49f99d3ab30566b2f.html#a73bf199c9cc499c49f99d3ab30566b2f", null ],
+    [ "EffectiveBitRate", "d1/d52/classNVorbis_1_1StreamStats_a35ba888a7da11d8ccfb587df939ddb44.html#a35ba888a7da11d8ccfb587df939ddb44", null ],
+    [ "InstantBitRate", "d1/d52/classNVorbis_1_1StreamStats_afe735c8df9734cc16b613d048d122017.html#afe735c8df9734cc16b613d048d122017", null ],
+    [ "OverheadBits", "d1/d52/classNVorbis_1_1StreamStats_a475095adcc0a0d39a02083ed0089ea91.html#a475095adcc0a0d39a02083ed0089ea91", null ],
+    [ "PacketCount", "d1/d52/classNVorbis_1_1StreamStats_a2f2e79fbd3d517c291040efdde8c6291.html#a2f2e79fbd3d517c291040efdde8c6291", null ],
+    [ "WasteBits", "d1/d52/classNVorbis_1_1StreamStats_a4ffaa96d731943e98c542e4fca3f6c18.html#a4ffaa96d731943e98c542e4fca3f6c18", null ]
+];

@@ -1,0 +1,9 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalGroundFurniture =
+[
+    [ "DungeonGlobalGroundFurniture", "dc/df3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalGroundFurniture_a88d7e45927fca77db1e0233fd6ed81bf.html#a88d7e45927fca77db1e0233fd6ed81bf", null ],
+    [ "GenerateFeature", "dc/df3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalGroundFurniture_a157b6270258c6db5dfab7eb109d8e452.html#a157b6270258c6db5dfab7eb109d8e452", null ],
+    [ "GroundFurniture", "dc/df3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalGroundFurniture_ab63ca71307667604e23adf125b0e2d37.html#ab63ca71307667604e23adf125b0e2d37", null ],
+    [ "GroundFurniture_ActuallyGenerateFurniture", "dc/df3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalGroundFurniture_a5d3503975369e4ef5183ef2a73af4f38.html#a5d3503975369e4ef5183ef2a73af4f38", null ],
+    [ "GroundFurniture_DualDungeons", "dc/df3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalGroundFurniture_ac42b175ae77179f55a2e23a09e3a3fd0.html#ac42b175ae77179f55a2e23a09e3a3fd0", null ],
+    [ "GroundFurniture_GetFurnitureItem", "dc/df3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalGroundFurniture_a2c9ac5b81e5aa34ad1435737ce238c9a.html#a2c9ac5b81e5aa34ad1435737ce238c9a", null ]
+];

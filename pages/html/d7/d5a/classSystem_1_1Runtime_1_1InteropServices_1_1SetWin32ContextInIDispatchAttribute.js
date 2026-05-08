@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1SetWin32ContextInIDispatchAttribute =
+[
+    [ "SetWin32ContextInIDispatchAttribute", "d7/d5a/classSystem_1_1Runtime_1_1InteropServices_1_1SetWin32ContextInIDispatchAttribute_a09d7c133db6d6137ad1e109c5444fcac.html#a09d7c133db6d6137ad1e109c5444fcac", null ]
+];

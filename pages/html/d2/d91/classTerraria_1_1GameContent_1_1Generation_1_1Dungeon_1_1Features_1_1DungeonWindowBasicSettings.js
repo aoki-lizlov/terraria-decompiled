@@ -1,0 +1,7 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonWindowBasicSettings =
+[
+    [ "DungeonWindowBasicSettings", "d2/d91/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonWindowBasicSettings_a5390534d370d19832e100ae26cd3e38b.html#a5390534d370d19832e100ae26cd3e38b", null ],
+    [ "Height", "d2/d91/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonWindowBasicSettings_a0084e9d15764eb30e0cd66d8c2b767d9.html#a0084e9d15764eb30e0cd66d8c2b767d9", null ],
+    [ "OverridePlatformStyle", "d2/d91/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonWindowBasicSettings_aa1ed52e44c6b82711fa99fa2d3398c80.html#aa1ed52e44c6b82711fa99fa2d3398c80", null ],
+    [ "Width", "d2/d91/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonWindowBasicSettings_a31b8470e77b70c9d7f713a6eb86faf44.html#a31b8470e77b70c9d7f713a6eb86faf44", null ]
+];

@@ -1,0 +1,4 @@
+var classSystem_1_1Diagnostics_1_1Contracts_1_1ContractReferenceAssemblyAttribute =
+[
+    [ "ContractReferenceAssemblyAttribute", "d2/dae/classSystem_1_1Diagnostics_1_1Contracts_1_1ContractReferenceAssemblyAttribute_aa2bdf1b313ebe0003096855e69e49156.html#aa2bdf1b313ebe0003096855e69e49156", null ]
+];

@@ -1,0 +1,4 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1ContentSerializerIgnoreAttribute =
+[
+    [ "ContentSerializerIgnoreAttribute", "da/d10/classMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1ContentSerializerIgnoreAttribute_aceceb50a86ee05f31cd54a0dcecb6ac0.html#aceceb50a86ee05f31cd54a0dcecb6ac0", null ]
+];

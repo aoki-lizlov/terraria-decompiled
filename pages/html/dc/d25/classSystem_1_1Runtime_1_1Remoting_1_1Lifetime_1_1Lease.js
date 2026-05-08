@@ -1,0 +1,26 @@
+var classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease =
+[
+    [ "Lease", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_ae50601f92aef1c06136556e755880336.html#ae50601f92aef1c06136556e755880336", null ],
+    [ "Activate", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a835955519f8a443e1e9e74faad82ea03.html#a835955519f8a443e1e9e74faad82ea03", null ],
+    [ "CheckNextSponsor", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a2687ae5e409f12046ff6975dbcd674bd.html#a2687ae5e409f12046ff6975dbcd674bd", null ],
+    [ "ProcessSponsorResponse", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_ac106f07854665fb81b3ec92d16b0c2e1.html#ac106f07854665fb81b3ec92d16b0c2e1", null ],
+    [ "Register", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_acbb1c39a7804c7c55703cc2e19817a35.html#acbb1c39a7804c7c55703cc2e19817a35", null ],
+    [ "Register", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_af017d5f03f69ab14eb3de3832280ee66.html#af017d5f03f69ab14eb3de3832280ee66", null ],
+    [ "Renew", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a3a8658cd099965df39b8401e72ba37c3.html#a3a8658cd099965df39b8401e72ba37c3", null ],
+    [ "RenewalDelegate", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_acf9d3ac750c74cccd33ec6aee111cf6d.html#acf9d3ac750c74cccd33ec6aee111cf6d", null ],
+    [ "Unregister", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a6e8be85703b159f8cba8c8c9874b7db1.html#a6e8be85703b159f8cba8c8c9874b7db1", null ],
+    [ "UpdateState", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a92f3d5b6a5c1675c5d53759c7487d438.html#a92f3d5b6a5c1675c5d53759c7487d438", null ],
+    [ "_currentState", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_afe2673890d16af2d6cfa80dcd17dfae3.html#afe2673890d16af2d6cfa80dcd17dfae3", null ],
+    [ "_initialLeaseTime", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_aea825e7fec7109aff934526e7d4a106e.html#aea825e7fec7109aff934526e7d4a106e", null ],
+    [ "_leaseExpireTime", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a7653ceb817ac2a8fafb9e1b7cfb731e8.html#a7653ceb817ac2a8fafb9e1b7cfb731e8", null ],
+    [ "_renewalDelegate", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_aff0e8388079c1ec4aff6b33ca8777bad.html#aff0e8388079c1ec4aff6b33ca8777bad", null ],
+    [ "_renewingSponsors", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_ade551c5a318676418406e709fea7d6f0.html#ade551c5a318676418406e709fea7d6f0", null ],
+    [ "_renewOnCallTime", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_ae8e34af5c6ac5fc18bdd5607742c2b67.html#ae8e34af5c6ac5fc18bdd5607742c2b67", null ],
+    [ "_sponsors", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a8577df9a4bb255e4544bc477cd5d656f.html#a8577df9a4bb255e4544bc477cd5d656f", null ],
+    [ "_sponsorshipTimeout", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a70a70c576481df03271f4850228f58c3.html#a70a70c576481df03271f4850228f58c3", null ],
+    [ "CurrentLeaseTime", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a9231a3fcbfa3bd17409ac971be5af77d.html#a9231a3fcbfa3bd17409ac971be5af77d", null ],
+    [ "CurrentState", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a2ccea2cfe610aed529531e7cf770b36b.html#a2ccea2cfe610aed529531e7cf770b36b", null ],
+    [ "InitialLeaseTime", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a247b69a11080bfaf7fb9729757bf2d2e.html#a247b69a11080bfaf7fb9729757bf2d2e", null ],
+    [ "RenewOnCallTime", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_ac2f6e252d25c3a5d378abb7f84d9f439.html#ac2f6e252d25c3a5d378abb7f84d9f439", null ],
+    [ "SponsorshipTimeout", "dc/d25/classSystem_1_1Runtime_1_1Remoting_1_1Lifetime_1_1Lease_a6a5c921b62cab822e0ac55be7037e29d.html#a6a5c921b62cab822e0ac55be7037e29d", null ]
+];

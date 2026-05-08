@@ -1,0 +1,37 @@
+var classNVorbis_1_1DataPacket =
+[
+    [ "PacketFlags", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14be", [
+      [ "IsResync", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14bea6c271f2ce11d60202e1f392406559ca5", null ],
+      [ "IsEndOfStream", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14bea83a1ff10d860c1e422e3b8c89d9aee1c", null ],
+      [ "IsShort", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14beae800bcd1a8747339109b582ba86a0efb", null ],
+      [ "User0", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14beafc461ac8b6e3f19a9f64800389e202fe", null ],
+      [ "User1", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14bea6b908b785fdba05a6446347dae08d8c5", null ],
+      [ "User2", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14beaa09bccf2b2963982b34dc0e08d8b582a", null ],
+      [ "User3", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14beae5d2ad241ec44cf155bc78ae8d11f715", null ],
+      [ "User4", "d3/dc3/classNVorbis_1_1DataPacket_a2aa712fe8c02257d4ee36a43919b14be.html#a2aa712fe8c02257d4ee36a43919b14bea5ad55d96abf0e50647d6de116530d6df", null ]
+    ] ],
+    [ "DataPacket", "d3/dc3/classNVorbis_1_1DataPacket_a6eee7b62329c2b628b23da2e7bce100d.html#a6eee7b62329c2b628b23da2e7bce100d", null ],
+    [ "Done", "d3/dc3/classNVorbis_1_1DataPacket_a4256102a32afda89ad791f3ce4ce5700.html#a4256102a32afda89ad791f3ce4ce5700", null ],
+    [ "GetFlag", "d3/dc3/classNVorbis_1_1DataPacket_a0c2c170c42926814502553d318b54cac.html#a0c2c170c42926814502553d318b54cac", null ],
+    [ "ReadBits", "d3/dc3/classNVorbis_1_1DataPacket_ab79d4392564ea615dd5e4cd131533945.html#ab79d4392564ea615dd5e4cd131533945", null ],
+    [ "ReadNextByte", "d3/dc3/classNVorbis_1_1DataPacket_a585629047060b496e8a48d7cee31f52d.html#a585629047060b496e8a48d7cee31f52d", null ],
+    [ "Reset", "d3/dc3/classNVorbis_1_1DataPacket_a69a921cada8439fa7326e43ec773e840.html#a69a921cada8439fa7326e43ec773e840", null ],
+    [ "SetFlag", "d3/dc3/classNVorbis_1_1DataPacket_a1ed5548cde47018b381bac913b2b28e5.html#a1ed5548cde47018b381bac913b2b28e5", null ],
+    [ "SkipBits", "d3/dc3/classNVorbis_1_1DataPacket_a5b467ac8ecb9cc9b6bd533f862aafb6a.html#a5b467ac8ecb9cc9b6bd533f862aafb6a", null ],
+    [ "TryPeekBits", "d3/dc3/classNVorbis_1_1DataPacket_ade4cba93e1ef9569fd2c778507b46ec0.html#ade4cba93e1ef9569fd2c778507b46ec0", null ],
+    [ "_bitBucket", "d3/dc3/classNVorbis_1_1DataPacket_a58ce3072fee26f18c2aa10ee5d77b1c0.html#a58ce3072fee26f18c2aa10ee5d77b1c0", null ],
+    [ "_bitCount", "d3/dc3/classNVorbis_1_1DataPacket_a8a5f5edb35f86532f5d89079bd90b9fd.html#a8a5f5edb35f86532f5d89079bd90b9fd", null ],
+    [ "_overflowBits", "d3/dc3/classNVorbis_1_1DataPacket_aafc993f39b1b9d2a2d4070b451f9fe2a.html#aafc993f39b1b9d2a2d4070b451f9fe2a", null ],
+    [ "_packetFlags", "d3/dc3/classNVorbis_1_1DataPacket_a396d5138ef32d6c100427e5fc21e628f.html#a396d5138ef32d6c100427e5fc21e628f", null ],
+    [ "_readBits", "d3/dc3/classNVorbis_1_1DataPacket_a289e9e3208d88bf64a5e1d2015194bf2.html#a289e9e3208d88bf64a5e1d2015194bf2", null ],
+    [ "k__BackingField", "d3/dc3/classNVorbis_1_1DataPacket_aae613b4c13f7d9c7ab367f68d9820d11.html#aae613b4c13f7d9c7ab367f68d9820d11", null ],
+    [ "k__BackingField", "d3/dc3/classNVorbis_1_1DataPacket_a18745594559b21b8c0713de0f4335ead.html#a18745594559b21b8c0713de0f4335ead", null ],
+    [ "BitsRead", "d3/dc3/classNVorbis_1_1DataPacket_a5c3dbc890f9ff6b8a6ce04ff1ce78468.html#a5c3dbc890f9ff6b8a6ce04ff1ce78468", null ],
+    [ "BitsRemaining", "d3/dc3/classNVorbis_1_1DataPacket_a38985ebbb8bae2cf9c6f46d6c263b703.html#a38985ebbb8bae2cf9c6f46d6c263b703", null ],
+    [ "ContainerOverheadBits", "d3/dc3/classNVorbis_1_1DataPacket_a27d7e51971362af65c98b14952f52172.html#a27d7e51971362af65c98b14952f52172", null ],
+    [ "GranulePosition", "d3/dc3/classNVorbis_1_1DataPacket_a44bfa3652f7000a75a0f6ccd489bcbd5.html#a44bfa3652f7000a75a0f6ccd489bcbd5", null ],
+    [ "IsEndOfStream", "d3/dc3/classNVorbis_1_1DataPacket_a5c93b9993f1ad4c188658003740720cd.html#a5c93b9993f1ad4c188658003740720cd", null ],
+    [ "IsResync", "d3/dc3/classNVorbis_1_1DataPacket_ae99a644e01c6fa7c94cf4aa81bf049e3.html#ae99a644e01c6fa7c94cf4aa81bf049e3", null ],
+    [ "IsShort", "d3/dc3/classNVorbis_1_1DataPacket_aa53c14a2e16f437caccc235aedca42fb.html#aa53c14a2e16f437caccc235aedca42fb", null ],
+    [ "TotalBits", "d3/dc3/classNVorbis_1_1DataPacket_ab29dc0db9ce04510943eca375c196193.html#ab29dc0db9ce04510943eca375c196193", null ]
+];

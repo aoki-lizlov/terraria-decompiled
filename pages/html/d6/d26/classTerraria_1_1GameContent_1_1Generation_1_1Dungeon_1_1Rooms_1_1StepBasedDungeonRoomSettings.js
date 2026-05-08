@@ -1,0 +1,11 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings =
+[
+    [ "StepBasedDungeonRoomSettings", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_ad80c66843c1294b1895b873199ed32d8.html#ad80c66843c1294b1895b873199ed32d8", null ],
+    [ "GetBoundingRadius", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_aee5d831f2d5a3c018edce5576285a863.html#aee5d831f2d5a3c018edce5576285a863", null ],
+    [ "OverrideEndPosition", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_a9342596a82f5f1b62e784106f8d61f5b.html#a9342596a82f5f1b62e784106f8d61f5b", null ],
+    [ "OverrideInteriorToExteriorRatio", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_ab74aeddbbac6f7584962296601eb80b1.html#ab74aeddbbac6f7584962296601eb80b1", null ],
+    [ "OverrideStartPosition", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_aa58f9cc79048ecfd4a25731fc27b176d.html#aa58f9cc79048ecfd4a25731fc27b176d", null ],
+    [ "OverrideSteps", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_ac678fe78f7757fd6f0b10e9a64565f68.html#ac678fe78f7757fd6f0b10e9a64565f68", null ],
+    [ "OverrideStrength", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_a7f35774890086eee6e77920f5f0b692d.html#a7f35774890086eee6e77920f5f0b692d", null ],
+    [ "OverrideVelocity", "d6/d26/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1StepBasedDungeonRoomSettings_a1a2bb7882d67856d5d475357b8849991.html#a1a2bb7882d67856d5d475357b8849991", null ]
+];

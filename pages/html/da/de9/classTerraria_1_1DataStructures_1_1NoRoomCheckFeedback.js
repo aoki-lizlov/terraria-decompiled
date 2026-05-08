@@ -1,0 +1,26 @@
+var classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback =
+[
+    [ "NoRoomCheckFeedback", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a1895f2379a5026c2ed7d8eacc890eb6c.html#a1895f2379a5026c2ed7d8eacc890eb6c", null ],
+    [ "NoRoomCheckFeedback", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a4b016dec73dd1a2090cb13dd177ee90d.html#a4b016dec73dd1a2090cb13dd177ee90d", null ],
+    [ "AnyBlockScannedHere", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a049d1c12a6ae8125830e6466f99afeb0.html#a049d1c12a6ae8125830e6466f99afeb0", null ],
+    [ "BeginScoring", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_aa29419d0b42da525680fb03aa6d45357.html#aa29419d0b42da525680fb03aa6d45357", null ],
+    [ "BeginSpread", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_afa51bf0c0383ba66dd2922082d4d96d3.html#afa51bf0c0383ba66dd2922082d4d96d3", null ],
+    [ "BlockingOpenGate", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a4146f9166d2da52fb7eb0d42a10638bc.html#a4146f9166d2da52fb7eb0d42a10638bc", null ],
+    [ "BlockingWall", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a2888f6c1dd83a915e6438f200d62a57b.html#a2888f6c1dd83a915e6438f200d62a57b", null ],
+    [ "EchoStinkbug", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a54d629e945545506658f07c20c507e15.html#a54d629e945545506658f07c20c507e15", null ],
+    [ "EndScoring", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a0a38f00f06b0723667872eda4dc3140a.html#a0a38f00f06b0723667872eda4dc3140a", null ],
+    [ "EndSpread", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a2ef28eef59deecc1968581ec93fe8195.html#a2ef28eef59deecc1968581ec93fe8195", null ],
+    [ "MissingAWall", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_ae8df5af4f5e5f4d1b31221c05a4a4825.html#ae8df5af4f5e5f4d1b31221c05a4a4825", null ],
+    [ "ReportScore", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_aa2f71d2c03a5e13d75d601138e039017.html#aa2f71d2c03a5e13d75d601138e039017", null ],
+    [ "RoomTooBig", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a6f7c2951df741d5e7d922f2567961432.html#a6f7c2951df741d5e7d922f2567961432", null ],
+    [ "SetAsHighScore", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a3aa338cdeeacbff2c11575ea9c5d729e.html#a3aa338cdeeacbff2c11575ea9c5d729e", null ],
+    [ "StartedInASolidTile", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_ab773d133996b6e7ee3dce5c4901bc703.html#ab773d133996b6e7ee3dce5c4901bc703", null ],
+    [ "Stinkbug", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_adf59e618bfc1c1f6e0859d1226cbecb1.html#adf59e618bfc1c1f6e0859d1226cbecb1", null ],
+    [ "TooCloseToWorldEdge", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_ad2de738c64dab3340c0666a55bdb58f6.html#ad2de738c64dab3340c0666a55bdb58f6", null ],
+    [ "UnsafeWall", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_acee7540b2255a2bd66fa75d1e99b7ae6.html#acee7540b2255a2bd66fa75d1e99b7ae6", null ],
+    [ "k__BackingField", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a19efcd5cd0e2c07608f7961024926d63.html#a19efcd5cd0e2c07608f7961024926d63", null ],
+    [ "WithoutText", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_a03e5befdab9142b4a2772a30c04b7bcb.html#a03e5befdab9142b4a2772a30c04b7bcb", null ],
+    [ "WithText", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_abfac83143f3f79a99e50db74c2ac6011.html#abfac83143f3f79a99e50db74c2ac6011", null ],
+    [ "DisplayText", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_ae0e639e54307c2542b43843ce5719c0c.html#ae0e639e54307c2542b43843ce5719c0c", null ],
+    [ "StopOnFail", "da/de9/classTerraria_1_1DataStructures_1_1NoRoomCheckFeedback_aa8b6a323b92982322f99ccadbdfa5dee.html#aa8b6a323b92982322f99ccadbdfa5dee", null ]
+];

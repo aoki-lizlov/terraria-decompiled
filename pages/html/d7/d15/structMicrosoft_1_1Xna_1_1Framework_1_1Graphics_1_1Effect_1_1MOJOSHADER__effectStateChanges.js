@@ -1,0 +1,9 @@
+var structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect_1_1MOJOSHADER__effectStateChanges =
+[
+    [ "render_state_change_count", "d7/d15/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect_1_1MOJOSHADER__effectStateChanges_af1210b385aa922d906c12fd96f552c0c.html#af1210b385aa922d906c12fd96f552c0c", null ],
+    [ "render_state_changes", "d7/d15/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect_1_1MOJOSHADER__effectStateChanges_aa669888053d70a83a96dc7945891dd9a.html#aa669888053d70a83a96dc7945891dd9a", null ],
+    [ "sampler_state_change_count", "d7/d15/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect_1_1MOJOSHADER__effectStateChanges_a71392876e27b6b7578c91cb1d69c1180.html#a71392876e27b6b7578c91cb1d69c1180", null ],
+    [ "sampler_state_changes", "d7/d15/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect_1_1MOJOSHADER__effectStateChanges_a7ce4131936f9fbf9b7887674fc994639.html#a7ce4131936f9fbf9b7887674fc994639", null ],
+    [ "vertex_sampler_state_change_count", "d7/d15/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect_1_1MOJOSHADER__effectStateChanges_a00591249909baa570a5df420bea19154.html#a00591249909baa570a5df420bea19154", null ],
+    [ "vertex_sampler_state_changes", "d7/d15/structMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1Effect_1_1MOJOSHADER__effectStateChanges_a9c434a228e020c655a9c56d4e03cf28d.html#a9c434a228e020c655a9c56d4e03cf28d", null ]
+];

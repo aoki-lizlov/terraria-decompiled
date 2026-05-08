@@ -1,0 +1,27 @@
+var structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState =
+[
+    [ "actual_size", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a0617229d501396e6ef3a9682dd965400.html#a0617229d501396e6ef3a9682dd965400", null ],
+    [ "ALIGNED_len", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a17a23dbd9f93517efe3cbe856f613078.html#a17a23dbd9f93517efe3cbe856f613078", null ],
+    [ "ALIGNED_table", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a5cf6c5955ac0675e2d8f6121714a46bc.html#a5cf6c5955ac0675e2d8f6121714a46bc", null ],
+    [ "block_length", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a64982eb24baeb03a7ed126bd59d7e0b7.html#a64982eb24baeb03a7ed126bd59d7e0b7", null ],
+    [ "block_remaining", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a8e5d26e5e2faf7c26766fdf027f07a34.html#a8e5d26e5e2faf7c26766fdf027f07a34", null ],
+    [ "block_type", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a04cd7763e560c20dc5965b6f790925d2.html#a04cd7763e560c20dc5965b6f790925d2", null ],
+    [ "frames_read", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a8167b4944010c9371427b142c192e136.html#a8167b4944010c9371427b142c192e136", null ],
+    [ "header_read", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_afe07014cef2fe2e1c7bd9c3e489e317b.html#afe07014cef2fe2e1c7bd9c3e489e317b", null ],
+    [ "intel_curpos", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a7e0ec7ff3353788206b6153f06be7896.html#a7e0ec7ff3353788206b6153f06be7896", null ],
+    [ "intel_filesize", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a603fadb79e5892d61b35a8641f67f33f.html#a603fadb79e5892d61b35a8641f67f33f", null ],
+    [ "intel_started", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a587718d663c425ae1d090f0bc8ddf080.html#a587718d663c425ae1d090f0bc8ddf080", null ],
+    [ "LENGTH_len", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a1c0c5609c4fafde271344c72e7fd65e8.html#a1c0c5609c4fafde271344c72e7fd65e8", null ],
+    [ "LENGTH_table", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_aee0c2375dabe5fc319b3ef2dd9156bab.html#aee0c2375dabe5fc319b3ef2dd9156bab", null ],
+    [ "main_elements", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a931cd0ea98d43fc6d1aba264659c118c.html#a931cd0ea98d43fc6d1aba264659c118c", null ],
+    [ "MAINTREE_len", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a6770209091c96300cbeb6c6a9fbc750e.html#a6770209091c96300cbeb6c6a9fbc750e", null ],
+    [ "MAINTREE_table", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a758b6b3a9b90001c8eeb383056721dc1.html#a758b6b3a9b90001c8eeb383056721dc1", null ],
+    [ "PRETREE_len", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a858223d3a6dcf88e75e01692c16aa5cc.html#a858223d3a6dcf88e75e01692c16aa5cc", null ],
+    [ "PRETREE_table", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_acdc3cb71cef6f47b85e331e3df65aa66.html#acdc3cb71cef6f47b85e331e3df65aa66", null ],
+    [ "R0", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a3248ebfc8afb5e827865d853c32048ab.html#a3248ebfc8afb5e827865d853c32048ab", null ],
+    [ "R1", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_afa42651176e54031ae900cdcc2171986.html#afa42651176e54031ae900cdcc2171986", null ],
+    [ "R2", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a49ebbf1b870eefd7edbe66f04771580f.html#a49ebbf1b870eefd7edbe66f04771580f", null ],
+    [ "window", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a69ca4e3af9129c0fdbc4cc14cbe008cd.html#a69ca4e3af9129c0fdbc4cc14cbe008cd", null ],
+    [ "window_posn", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_abb7d3c7543e3581d028596d5906d8e44.html#abb7d3c7543e3581d028596d5906d8e44", null ],
+    [ "window_size", "d6/dd4/structMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1LzxDecoder_1_1LzxState_a6db8cf2af90f633182ba4ea1e781607f.html#a6db8cf2af90f633182ba4ea1e781607f", null ]
+];

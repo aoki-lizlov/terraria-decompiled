@@ -1,0 +1,7 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBiomeChests =
+[
+    [ "DungeonGlobalBiomeChests", "de/d4b/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBiomeChests_a1228b5bfb0ef1ed538cb13ba685108cf.html#a1228b5bfb0ef1ed538cb13ba685108cf", null ],
+    [ "BiomeChests", "de/d4b/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBiomeChests_a8f3ecb09e1eb876e276e24498d3c9c69.html#a8f3ecb09e1eb876e276e24498d3c9c69", null ],
+    [ "BiomeChests_DualDungeons", "de/d4b/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBiomeChests_aef5ef7885e263835a6a63cdbc7422eae.html#aef5ef7885e263835a6a63cdbc7422eae", null ],
+    [ "GenerateFeature", "de/d4b/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBiomeChests_a029afac8b9955d8539396a73a01c140c.html#a029afac8b9955d8539396a73a01c140c", null ]
+];

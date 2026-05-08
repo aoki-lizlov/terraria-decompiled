@@ -1,0 +1,4 @@
+var LegacyDungeonLayoutProvider_8cs =
+[
+    [ "Terraria.GameContent.Generation.Dungeon.LayoutProviders.LegacyDungeonLayoutProvider", "df/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1LegacyDungeonLayoutProvider.html", "df/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1LegacyDungeonLayoutProvider" ]
+];

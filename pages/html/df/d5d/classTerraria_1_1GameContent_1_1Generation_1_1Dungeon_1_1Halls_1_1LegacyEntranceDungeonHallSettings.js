@@ -1,0 +1,5 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1LegacyEntranceDungeonHallSettings =
+[
+    [ "LegacyEntranceDungeonHallSettings", "df/d5d/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1LegacyEntranceDungeonHallSettings_a2580dcaaf044fcb4c810536d5c893636.html#a2580dcaaf044fcb4c810536d5c893636", null ],
+    [ "UsePrecalculatedEntrance", "df/d5d/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Halls_1_1LegacyEntranceDungeonHallSettings_a9c7593893679f0b09394b9471ca9f0df.html#a9c7593893679f0b09394b9471ca9f0df", null ]
+];

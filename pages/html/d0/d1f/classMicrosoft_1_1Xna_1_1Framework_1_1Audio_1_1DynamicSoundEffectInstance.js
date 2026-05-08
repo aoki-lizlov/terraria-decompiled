@@ -1,0 +1,25 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance =
+[
+    [ "DynamicSoundEffectInstance", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_ace2017765d0dd8adba9baf4c48bc1d98.html#ace2017765d0dd8adba9baf4c48bc1d98", null ],
+    [ "~DynamicSoundEffectInstance", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a51d85328b7fc95240e38e47546e389d3.html#a51d85328b7fc95240e38e47546e389d3", null ],
+    [ "ClearBuffers", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_aa7f27b7635da59bee1ccccbd2d8e4ca2.html#aa7f27b7635da59bee1ccccbd2d8e4ca2", null ],
+    [ "Dispose", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a8fffad515f1311766804dd17b0b23651.html#a8fffad515f1311766804dd17b0b23651", null ],
+    [ "GetSampleDuration", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a1e3cc6895a92623438eeace6269671c4.html#a1e3cc6895a92623438eeace6269671c4", null ],
+    [ "GetSampleSizeInBytes", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a271b7f72369a215d7d83405b0ab02277.html#a271b7f72369a215d7d83405b0ab02277", null ],
+    [ "Play", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a3b0b002582af51c5632cbd98a96afd3d.html#a3b0b002582af51c5632cbd98a96afd3d", null ],
+    [ "QueueInitialBuffers", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a439081da6303f9d3658117bbfe993aef.html#a439081da6303f9d3658117bbfe993aef", null ],
+    [ "SubmitBuffer", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a233e6d4a2d18f7a8352dfb31eb99dcf2.html#a233e6d4a2d18f7a8352dfb31eb99dcf2", null ],
+    [ "SubmitBuffer", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a99485b7489701517e81a340f399789a7.html#a99485b7489701517e81a340f399789a7", null ],
+    [ "SubmitFloatBufferEXT", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a555a5d9ed7e1575c263107ceef5cd4c5.html#a555a5d9ed7e1575c263107ceef5cd4c5", null ],
+    [ "SubmitFloatBufferEXT", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_aff2236990fe7a3036de5e886f2cf4afe.html#aff2236990fe7a3036de5e886f2cf4afe", null ],
+    [ "Update", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_af0b8b74e3fa71d0bc2d22f840fc6118a.html#af0b8b74e3fa71d0bc2d22f840fc6118a", null ],
+    [ "channels", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a98cb4e922e1313d00fe2abcc0c177ff3.html#a98cb4e922e1313d00fe2abcc0c177ff3", null ],
+    [ "format", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a2744897279a6bbfa7126079114a291f6.html#a2744897279a6bbfa7126079114a291f6", null ],
+    [ "MINIMUM_BUFFER_CHECK", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_aea6621b3b02d62a2eda76c6f454df608.html#aea6621b3b02d62a2eda76c6f454df608", null ],
+    [ "queuedBuffers", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_afb1a9a5227a3c8072af0a5cf51ab3719.html#afb1a9a5227a3c8072af0a5cf51ab3719", null ],
+    [ "queuedSizes", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a9c28804af0621fdc022d590ac0dabbbe.html#a9c28804af0621fdc022d590ac0dabbbe", null ],
+    [ "sampleRate", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a14dfd0175e2c24293f4ec8ccbbab2cd6.html#a14dfd0175e2c24293f4ec8ccbbab2cd6", null ],
+    [ "BufferNeeded", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a8a59a4c9eb65a6a7f9f3bbc8ac1ea63e.html#a8a59a4c9eb65a6a7f9f3bbc8ac1ea63e", null ],
+    [ "IsLooped", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a982b0ab87917c0aee95fc38aba6c675c.html#a982b0ab87917c0aee95fc38aba6c675c", null ],
+    [ "PendingBufferCount", "d0/d1f/classMicrosoft_1_1Xna_1_1Framework_1_1Audio_1_1DynamicSoundEffectInstance_a6b88ff079d3853e55a1f0bb745d22725.html#a6b88ff079d3853e55a1f0bb745d22725", null ]
+];

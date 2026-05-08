@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1CompilerServices_1_1AsyncIteratorStateMachineAttribute =
+[
+    [ "AsyncIteratorStateMachineAttribute", "dc/d90/classSystem_1_1Runtime_1_1CompilerServices_1_1AsyncIteratorStateMachineAttribute_a4f563dd614abb77a4ee64948fb832010.html#a4f563dd614abb77a4ee64948fb832010", null ]
+];

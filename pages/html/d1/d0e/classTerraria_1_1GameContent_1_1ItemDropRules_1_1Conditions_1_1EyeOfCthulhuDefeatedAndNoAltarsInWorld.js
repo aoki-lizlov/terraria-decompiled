@@ -1,0 +1,7 @@
+var classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EyeOfCthulhuDefeatedAndNoAltarsInWorld =
+[
+    [ "EyeOfCthulhuDefeatedAndNoAltarsInWorld", "d1/d0e/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EyeOfCthulhuDefeatedAndNoAltarsInWorld_a508a719b8e76ef06409c49f3537b9a61.html#a508a719b8e76ef06409c49f3537b9a61", null ],
+    [ "CanDrop", "d1/d0e/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EyeOfCthulhuDefeatedAndNoAltarsInWorld_a07d16092c686e34c522dbdbd5683edf9.html#a07d16092c686e34c522dbdbd5683edf9", null ],
+    [ "CanShowItemDropInUI", "d1/d0e/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EyeOfCthulhuDefeatedAndNoAltarsInWorld_a83d4f9148c1f7d7a1d7f62e189457c2c.html#a83d4f9148c1f7d7a1d7f62e189457c2c", null ],
+    [ "GetConditionDescription", "d1/d0e/classTerraria_1_1GameContent_1_1ItemDropRules_1_1Conditions_1_1EyeOfCthulhuDefeatedAndNoAltarsInWorld_acb730f1b6cb9a8da1497247cb2757bf3.html#acb730f1b6cb9a8da1497247cb2757bf3", null ]
+];

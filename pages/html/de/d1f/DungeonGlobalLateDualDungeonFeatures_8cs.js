@@ -1,0 +1,4 @@
+var DungeonGlobalLateDualDungeonFeatures_8cs =
+[
+    [ "Terraria.GameContent.Generation.Dungeon.Features.DungeonGlobalLateDualDungeonFeatures", "d6/d23/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalLateDualDungeonFeatures.html", "d6/d23/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalLateDualDungeonFeatures" ]
+];

@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1CompilerServices_1_1FixedAddressValueTypeAttribute =
+[
+    [ "FixedAddressValueTypeAttribute", "db/dd8/classSystem_1_1Runtime_1_1CompilerServices_1_1FixedAddressValueTypeAttribute_af35b383dd7320432dc25031183f5715d.html#af35b383dd7320432dc25031183f5715d", null ]
+];

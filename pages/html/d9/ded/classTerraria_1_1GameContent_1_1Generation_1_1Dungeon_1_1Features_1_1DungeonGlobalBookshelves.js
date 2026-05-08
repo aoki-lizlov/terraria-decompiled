@@ -1,0 +1,6 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBookshelves =
+[
+    [ "DungeonGlobalBookshelves", "d9/ded/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBookshelves_a6dc8a2a5e1204039b8781e6f9e09961b.html#a6dc8a2a5e1204039b8781e6f9e09961b", null ],
+    [ "Bookshelves", "d9/ded/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBookshelves_a8593088c89ea871667b6cae7148914b8.html#a8593088c89ea871667b6cae7148914b8", null ],
+    [ "GenerateFeature", "d9/ded/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBookshelves_a6333641c6fdd023a357f7cdf974f5d24.html#a6333641c6fdd023a357f7cdf974f5d24", null ]
+];

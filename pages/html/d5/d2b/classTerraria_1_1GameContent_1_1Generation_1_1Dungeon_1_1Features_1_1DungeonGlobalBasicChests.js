@@ -1,0 +1,6 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBasicChests =
+[
+    [ "DungeonGlobalBasicChests", "d5/d2b/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBasicChests_a20ecdd4481c18fc30cf15d1919f6bc85.html#a20ecdd4481c18fc30cf15d1919f6bc85", null ],
+    [ "BasicChests", "d5/d2b/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBasicChests_a2c0fe171d1970177aeb38624b19c381c.html#a2c0fe171d1970177aeb38624b19c381c", null ],
+    [ "GenerateFeature", "d5/d2b/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonGlobalBasicChests_a071c3eccc7b05e9fb00ea0826bf3ed92.html#a071c3eccc7b05e9fb00ea0826bf3ed92", null ]
+];

@@ -1,0 +1,4 @@
+var DualDungeonLayoutProviderSettings_8cs =
+[
+    [ "Terraria.GameContent.Generation.Dungeon.LayoutProviders.DualDungeonLayoutProviderSettings", "d9/df5/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1DualDungeonLayoutProviderSettings.html", "d9/df5/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1DualDungeonLayoutProviderSettings" ]
+];

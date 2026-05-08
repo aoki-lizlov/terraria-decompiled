@@ -1,0 +1,25 @@
+var classMono_1_1Security_1_1Cryptography_1_1ARC4Managed =
+[
+    [ "ARC4Managed", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_acf0eb6fd7d68b954486d6957c405864e.html#acf0eb6fd7d68b954486d6957c405864e", null ],
+    [ "~ARC4Managed", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a4a6f541f39d3419ce85b5bd4347f3248.html#a4a6f541f39d3419ce85b5bd4347f3248", null ],
+    [ "CheckInput", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_aaa20f8f6b22165e18a848bd91e79ae31.html#aaa20f8f6b22165e18a848bd91e79ae31", null ],
+    [ "CreateDecryptor", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a2251cd21005721e91f89fb3206263f5a.html#a2251cd21005721e91f89fb3206263f5a", null ],
+    [ "CreateEncryptor", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a3f28ed690da20f7c4d69f7b2dd450f34.html#a3f28ed690da20f7c4d69f7b2dd450f34", null ],
+    [ "Dispose", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a8477142aeadcd079bab723177f542ce2.html#a8477142aeadcd079bab723177f542ce2", null ],
+    [ "GenerateIV", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_acebdcb93044adc22be291efd434c49c2.html#acebdcb93044adc22be291efd434c49c2", null ],
+    [ "GenerateKey", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_ab50148ae9cb40e43479c1f8eaef2a637.html#ab50148ae9cb40e43479c1f8eaef2a637", null ],
+    [ "InternalTransformBlock", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_acb722abf62a06338ccdd83984c497fa8.html#acb722abf62a06338ccdd83984c497fa8", null ],
+    [ "KeySetup", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_ab2616316ffafeec584c2e5fe6d57b116.html#ab2616316ffafeec584c2e5fe6d57b116", null ],
+    [ "TransformBlock", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a1a6a845c6a4fd2aa0bd787ebeab2f09b.html#a1a6a845c6a4fd2aa0bd787ebeab2f09b", null ],
+    [ "TransformFinalBlock", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_ac5f966e193e95c5feb5b3f4d48dfdfe2.html#ac5f966e193e95c5feb5b3f4d48dfdfe2", null ],
+    [ "key", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_afeedb843fe673b7efa39cb3b9305e9c1.html#afeedb843fe673b7efa39cb3b9305e9c1", null ],
+    [ "m_disposed", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a1dd5ce454b97282bcafbffd5f71d9c05.html#a1dd5ce454b97282bcafbffd5f71d9c05", null ],
+    [ "state", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_ae0ff906a7da1be036771737bf699c3a8.html#ae0ff906a7da1be036771737bf699c3a8", null ],
+    [ "x", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a05f6a8ddf532f225ac0699d8c3236cfb.html#a05f6a8ddf532f225ac0699d8c3236cfb", null ],
+    [ "y", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a1dfded0836851a98a0d9202ff5cf5e74.html#a1dfded0836851a98a0d9202ff5cf5e74", null ],
+    [ "CanReuseTransform", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a6eaf0287601db74537d6254353516c94.html#a6eaf0287601db74537d6254353516c94", null ],
+    [ "CanTransformMultipleBlocks", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a29b6e873905ed1bbd77e5a0432c40bef.html#a29b6e873905ed1bbd77e5a0432c40bef", null ],
+    [ "InputBlockSize", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_abe7d5d4d94723a68ac0d28e9abbd4588.html#abe7d5d4d94723a68ac0d28e9abbd4588", null ],
+    [ "Key", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a35e9f47a2e9857105529518d3c4774f1.html#a35e9f47a2e9857105529518d3c4774f1", null ],
+    [ "OutputBlockSize", "db/d80/classMono_1_1Security_1_1Cryptography_1_1ARC4Managed_a3e9ce5d5fc8f84c6dcf6d24cd76bce58.html#a3e9ce5d5fc8f84c6dcf6d24cd76bce58", null ]
+];

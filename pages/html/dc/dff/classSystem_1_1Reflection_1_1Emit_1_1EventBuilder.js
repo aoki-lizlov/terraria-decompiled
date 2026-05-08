@@ -1,0 +1,27 @@
+var classSystem_1_1Reflection_1_1Emit_1_1EventBuilder =
+[
+    [ "EventBuilder", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a5e0c0d11e7b2206c275446d287a7b1da.html#a5e0c0d11e7b2206c275446d287a7b1da", null ],
+    [ "AddOtherMethod", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a5402cde595820768bb4f8f901b9c9503.html#a5402cde595820768bb4f8f901b9c9503", null ],
+    [ "get_next_table_index", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_af0577fcdd87b680517025d4a016a1c93.html#af0577fcdd87b680517025d4a016a1c93", null ],
+    [ "GetEventToken", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a6fab21538d096b159e1febdd62461176.html#a6fab21538d096b159e1febdd62461176", null ],
+    [ "GetIDsOfNames", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a5924b90e158bbafa51e9295e9c8fe120.html#a5924b90e158bbafa51e9295e9c8fe120", null ],
+    [ "GetTypeInfo", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a749b22f37f959f7530a18ce991f447ac.html#a749b22f37f959f7530a18ce991f447ac", null ],
+    [ "GetTypeInfoCount", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_aa596cac02c0418bb082ea9adcbcad33e.html#aa596cac02c0418bb082ea9adcbcad33e", null ],
+    [ "Invoke", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ab0ce0fed4c32b84f6a19d8684c928f7a.html#ab0ce0fed4c32b84f6a19d8684c928f7a", null ],
+    [ "RejectIfCreated", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ac169fee27dd918a4d20584eb4a862631.html#ac169fee27dd918a4d20584eb4a862631", null ],
+    [ "SetAddOnMethod", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_acf7416d04db1a60e9696fd4987c595da.html#acf7416d04db1a60e9696fd4987c595da", null ],
+    [ "SetCustomAttribute", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a012a36151635c376f067279ba4e5c560.html#a012a36151635c376f067279ba4e5c560", null ],
+    [ "SetCustomAttribute", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a3bbe5b1eb9de43231147b63688bbe7df.html#a3bbe5b1eb9de43231147b63688bbe7df", null ],
+    [ "SetRaiseMethod", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ac15c3bfdae3bb3e59daa41fee93d7dc9.html#ac15c3bfdae3bb3e59daa41fee93d7dc9", null ],
+    [ "SetRemoveOnMethod", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ac2684afc7e7a774ea3bfbed179422b17.html#ac2684afc7e7a774ea3bfbed179422b17", null ],
+    [ "add_method", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a3448b0a14d2b2eb9d756a977ecaf956a.html#a3448b0a14d2b2eb9d756a977ecaf956a", null ],
+    [ "attrs", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ac55b2f68f85f4c1723a4a41a18b61634.html#ac55b2f68f85f4c1723a4a41a18b61634", null ],
+    [ "cattrs", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ad517bd7176ae6709dc6ca91387d2ccec.html#ad517bd7176ae6709dc6ca91387d2ccec", null ],
+    [ "name", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_aea57e6bb0be30a90b6a5ba127045b481.html#aea57e6bb0be30a90b6a5ba127045b481", null ],
+    [ "other_methods", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a41a5f4f33416a97eb2def9d7bdcc5914.html#a41a5f4f33416a97eb2def9d7bdcc5914", null ],
+    [ "raise_method", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_afb0f0686f0c499219cfecf3dbc2cdbf1.html#afb0f0686f0c499219cfecf3dbc2cdbf1", null ],
+    [ "remove_method", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a297897c37260df5f853d390a06f4d021.html#a297897c37260df5f853d390a06f4d021", null ],
+    [ "table_idx", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ac820e139f9689440972d7b94e61274a8.html#ac820e139f9689440972d7b94e61274a8", null ],
+    [ "type", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_ab6cde96e2511e4a3910b9e0ca57e50ab.html#ab6cde96e2511e4a3910b9e0ca57e50ab", null ],
+    [ "typeb", "dc/dff/classSystem_1_1Reflection_1_1Emit_1_1EventBuilder_a47007a817f7f52754b34d4dec62fe0c9.html#a47007a817f7f52754b34d4dec62fe0c9", null ]
+];

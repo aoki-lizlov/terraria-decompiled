@@ -1,0 +1,26 @@
+var interfacerail_1_1IRailStorageHelper =
+[
+    [ "AsyncDeleteStreamFile", "de/dfc/interfacerail_1_1IRailStorageHelper_a9a4ca6cb3dc0eb7db594d32361214d71.html#a9a4ca6cb3dc0eb7db594d32361214d71", null ],
+    [ "AsyncListStreamFiles", "de/dfc/interfacerail_1_1IRailStorageHelper_a5dd4e121b1d5ed1bff3123718eae4fca.html#a5dd4e121b1d5ed1bff3123718eae4fca", null ],
+    [ "AsyncPublishFileToUserSpace", "de/dfc/interfacerail_1_1IRailStorageHelper_a83821bd39431e915ac217f6fe07e3c37.html#a83821bd39431e915ac217f6fe07e3c37", null ],
+    [ "AsyncQueryQuota", "de/dfc/interfacerail_1_1IRailStorageHelper_a831592bbe6f53b19aba3265876701bc9.html#a831592bbe6f53b19aba3265876701bc9", null ],
+    [ "AsyncRenameStreamFile", "de/dfc/interfacerail_1_1IRailStorageHelper_a0eaecce6799e8a4830ce90a6bd01ba08.html#a0eaecce6799e8a4830ce90a6bd01ba08", null ],
+    [ "CreateFile", "de/dfc/interfacerail_1_1IRailStorageHelper_a04646f5432c1f67233714bf4d751a664.html#a04646f5432c1f67233714bf4d751a664", null ],
+    [ "CreateFile", "de/dfc/interfacerail_1_1IRailStorageHelper_ad5527b747fa83830f23c240ce07d5962.html#ad5527b747fa83830f23c240ce07d5962", null ],
+    [ "GetFileCount", "de/dfc/interfacerail_1_1IRailStorageHelper_a9d22f77f52943c3b0405a3679d765d67.html#a9d22f77f52943c3b0405a3679d765d67", null ],
+    [ "GetFileNameAndSize", "de/dfc/interfacerail_1_1IRailStorageHelper_a70e49a07e6908d8de7ba5ff410a93618.html#a70e49a07e6908d8de7ba5ff410a93618", null ],
+    [ "GetFileTimestamp", "de/dfc/interfacerail_1_1IRailStorageHelper_a381eee73a1a09968b302cec8a3a6f023.html#a381eee73a1a09968b302cec8a3a6f023", null ],
+    [ "GetRailFileEnabledOS", "de/dfc/interfacerail_1_1IRailStorageHelper_a9d3cf7db0c18c488a79a862f8b237b35.html#a9d3cf7db0c18c488a79a862f8b237b35", null ],
+    [ "IsCloudStorageEnabledForApp", "de/dfc/interfacerail_1_1IRailStorageHelper_a94d98580b7c8d5f68a10705a76192560.html#a94d98580b7c8d5f68a10705a76192560", null ],
+    [ "IsCloudStorageEnabledForPlayer", "de/dfc/interfacerail_1_1IRailStorageHelper_a61bc5b950021511d4d02a932bbb5201e.html#a61bc5b950021511d4d02a932bbb5201e", null ],
+    [ "IsFileExist", "de/dfc/interfacerail_1_1IRailStorageHelper_ad7f239c788c3bf68614121beac39c8d5.html#ad7f239c788c3bf68614121beac39c8d5", null ],
+    [ "IsFileSyncedToCloud", "de/dfc/interfacerail_1_1IRailStorageHelper_ab7a44c4fa84c876f59fb65e2367a54c1.html#ab7a44c4fa84c876f59fb65e2367a54c1", null ],
+    [ "ListFiles", "de/dfc/interfacerail_1_1IRailStorageHelper_a87b3f1253f06be55add00912c2f58d6d.html#a87b3f1253f06be55add00912c2f58d6d", null ],
+    [ "OpenFile", "de/dfc/interfacerail_1_1IRailStorageHelper_a1b94a8bd3720d119202d2796f4ec544c.html#a1b94a8bd3720d119202d2796f4ec544c", null ],
+    [ "OpenFile", "de/dfc/interfacerail_1_1IRailStorageHelper_ae6046673bceb106bea5fe516b82d6afd.html#ae6046673bceb106bea5fe516b82d6afd", null ],
+    [ "OpenStreamFile", "de/dfc/interfacerail_1_1IRailStorageHelper_a2b86b0f977a958d01fc948a461c8ec5c.html#a2b86b0f977a958d01fc948a461c8ec5c", null ],
+    [ "OpenStreamFile", "de/dfc/interfacerail_1_1IRailStorageHelper_a1b33049f6f2104ec01a57c2b8c3cf77a.html#a1b33049f6f2104ec01a57c2b8c3cf77a", null ],
+    [ "RemoveFile", "de/dfc/interfacerail_1_1IRailStorageHelper_ac947cdd0edfa59b4c28d13f7ffc0b1e4.html#ac947cdd0edfa59b4c28d13f7ffc0b1e4", null ],
+    [ "SetRailFileEnabledOS", "de/dfc/interfacerail_1_1IRailStorageHelper_a75a6631b6d8f0e23997341184e491e42.html#a75a6631b6d8f0e23997341184e491e42", null ],
+    [ "SetSyncFileOption", "de/dfc/interfacerail_1_1IRailStorageHelper_a0b4bb3468c24ce7456cfac010bfb5769.html#a0b4bb3468c24ce7456cfac010bfb5769", null ]
+];

@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1NativeOr64883add16234b4f44c974bce84c0761 =
+[
+    [ "ReaderWriterLockTimedOutException", "df/d2b/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1NativeOr64883add16234b4f44c974bce84c0761_a98f93f9c68b78003d5f4a5a53611442c.html#a98f93f9c68b78003d5f4a5a53611442c", null ]
+];

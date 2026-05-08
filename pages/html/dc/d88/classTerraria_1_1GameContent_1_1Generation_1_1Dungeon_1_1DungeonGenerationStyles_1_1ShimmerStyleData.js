@@ -1,0 +1,5 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1DungeonGenerationStyles_1_1ShimmerStyleData =
+[
+    [ "ShimmerStyleData", "dc/d88/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1DungeonGenerationStyles_1_1ShimmerStyleData_acf24326ef9effab91eabdd4014efad75.html#acf24326ef9effab91eabdd4014efad75", null ],
+    [ "CanGenerateFeatureAt", "dc/d88/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1DungeonGenerationStyles_1_1ShimmerStyleData_a47460b40cb220313f8e3154c0f7e38bc.html#a47460b40cb220313f8e3154c0f7e38bc", null ]
+];

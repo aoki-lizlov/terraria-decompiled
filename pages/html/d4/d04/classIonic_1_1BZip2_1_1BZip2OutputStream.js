@@ -1,0 +1,37 @@
+var classIonic_1_1BZip2_1_1BZip2OutputStream =
+[
+    [ "TraceBits", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ae167431fa840d76c8d3d57b72071ab3c.html#ae167431fa840d76c8d3d57b72071ab3c", [
+      [ "None", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ae167431fa840d76c8d3d57b72071ab3c.html#ae167431fa840d76c8d3d57b72071ab3ca6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "Crc", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ae167431fa840d76c8d3d57b72071ab3c.html#ae167431fa840d76c8d3d57b72071ab3ca55e731c6b6315941e95a1fe250b82e37", null ],
+      [ "Write", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ae167431fa840d76c8d3d57b72071ab3c.html#ae167431fa840d76c8d3d57b72071ab3ca1129c0e4d43f2d121652a7302712cff6", null ],
+      [ "All", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ae167431fa840d76c8d3d57b72071ab3c.html#ae167431fa840d76c8d3d57b72071ab3cab1c94ca2fbc3e78fc30069c8d0f01680", null ]
+    ] ],
+    [ "BZip2OutputStream", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a7bb5066381348e311cb4526f4daeffbd.html#a7bb5066381348e311cb4526f4daeffbd", null ],
+    [ "BZip2OutputStream", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a336b537e428999d343279d83fdab5988.html#a336b537e428999d343279d83fdab5988", null ],
+    [ "BZip2OutputStream", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a16f8ea401664bdf8c371c80370fdd9c4.html#a16f8ea401664bdf8c371c80370fdd9c4", null ],
+    [ "BZip2OutputStream", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a1551fa6efd5aa8ed69c8c29113559b3b.html#a1551fa6efd5aa8ed69c8c29113559b3b", null ],
+    [ "Close", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a97226e697f18e688fbf3307efad383ad.html#a97226e697f18e688fbf3307efad383ad", null ],
+    [ "EmitHeader", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_af29acd2958ce3cb6b9c7b3eae52102b4.html#af29acd2958ce3cb6b9c7b3eae52102b4", null ],
+    [ "EmitTrailer", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a09fe7523e9c117c2117487460e7e98dd.html#a09fe7523e9c117c2117487460e7e98dd", null ],
+    [ "Finish", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a9c2e9b8fdfc30af38d2b4ad898eeb650.html#a9c2e9b8fdfc30af38d2b4ad898eeb650", null ],
+    [ "Flush", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_abbfde6d54647c0655de17ecfa713fff1.html#abbfde6d54647c0655de17ecfa713fff1", null ],
+    [ "Read", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a64f41c6e862014c1d2702f82214aa1c4.html#a64f41c6e862014c1d2702f82214aa1c4", null ],
+    [ "Seek", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a8b4254d7e837fcec084ad9b6f29634ac.html#a8b4254d7e837fcec084ad9b6f29634ac", null ],
+    [ "SetLength", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a931d75a3869c6c633c92d3367f415857.html#a931d75a3869c6c633c92d3367f415857", null ],
+    [ "TraceOutput", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a78d5e8e17ae5c0db467f863c46ff0272.html#a78d5e8e17ae5c0db467f863c46ff0272", null ],
+    [ "Write", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_adb364f931fee52b6708403d5b0293868.html#adb364f931fee52b6708403d5b0293868", null ],
+    [ "blockSize100k", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a99135474d4bfe8bd97634465f8a3000d.html#a99135474d4bfe8bd97634465f8a3000d", null ],
+    [ "bw", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a2b8a6b51b43516325b623560cd06dd7a.html#a2b8a6b51b43516325b623560cd06dd7a", null ],
+    [ "combinedCRC", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ab9d0e6902f67ec212ec88501169e66e5.html#ab9d0e6902f67ec212ec88501169e66e5", null ],
+    [ "compressor", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a4983dd2810b8dd6f8c10d3860521b286.html#a4983dd2810b8dd6f8c10d3860521b286", null ],
+    [ "desiredTrace", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a66d6d10b9561c9c4a3b1ef97bcb6434d.html#a66d6d10b9561c9c4a3b1ef97bcb6434d", null ],
+    [ "leaveOpen", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ac0e7208838fab46179b29e8daf4f9f70.html#ac0e7208838fab46179b29e8daf4f9f70", null ],
+    [ "output", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_aaea9b7a2cbd908ac5f4872c6cbeb2e8f.html#aaea9b7a2cbd908ac5f4872c6cbeb2e8f", null ],
+    [ "totalBytesWrittenIn", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a8f52aa3cf9b4afd8d111095dac717456.html#a8f52aa3cf9b4afd8d111095dac717456", null ],
+    [ "BlockSize", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a2a8ba69615c7c345a6963496c9903459.html#a2a8ba69615c7c345a6963496c9903459", null ],
+    [ "CanRead", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_adfde3fdaa6bbffc64486e999e7bc4c22.html#adfde3fdaa6bbffc64486e999e7bc4c22", null ],
+    [ "CanSeek", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_a0037b7bdcf2eaa2bcdbfac412086f5ad.html#a0037b7bdcf2eaa2bcdbfac412086f5ad", null ],
+    [ "CanWrite", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ae43bbf61f4550109aec4063f99d6ad99.html#ae43bbf61f4550109aec4063f99d6ad99", null ],
+    [ "Length", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_aa2f787c02d00d8c23d07114a0bbd4ad7.html#aa2f787c02d00d8c23d07114a0bbd4ad7", null ],
+    [ "Position", "d4/d04/classIonic_1_1BZip2_1_1BZip2OutputStream_ac61f1f19af0a384c3bb0178651b6db88.html#ac61f1f19af0a384c3bb0178651b6db88", null ]
+];

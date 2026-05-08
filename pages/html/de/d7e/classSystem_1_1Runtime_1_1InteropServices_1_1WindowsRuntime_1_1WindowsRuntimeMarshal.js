@@ -1,0 +1,24 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal =
+[
+    [ "EventRegistrationTokenList", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList.html", "da/d7e/structSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1EventRegistrationTokenList" ],
+    [ "ManagedEventRegistrationImpl", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl.html", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl" ],
+    [ "NativeOrStaticEventRegistrationImpl", "d0/dbb/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1NativeOrStaticEventRegistrationImpl.html", "d0/dbb/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1NativeOrStaticEventRegistrationImpl" ],
+    [ "WindowsRuntimeMarshal", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_ab9e9dfcb40ae42edf5f536d23a613302.html#ab9e9dfcb40ae42edf5f536d23a613302", null ],
+    [ "AddEventHandler< T >", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a266acfcdfb83dfbbb98932d3df0c6e3f.html#a266acfcdfb83dfbbb98932d3df0c6e3f", null ],
+    [ "CallRemoveMethods", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_acd81cd5301e0f0538cbfe231be0721cf.html#acd81cd5301e0f0538cbfe231be0721cf", null ],
+    [ "FreeHString", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a1be5e12cf00f4637799436eac5037d9f.html#a1be5e12cf00f4637799436eac5037d9f", null ],
+    [ "GetActivationFactory", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a304ef05e70c20ec7da6e09633fd9235f.html#a304ef05e70c20ec7da6e09633fd9235f", null ],
+    [ "GetExceptionForHR", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a32dc5eca231c1ea67befb8f6d9516d50.html#a32dc5eca231c1ea67befb8f6d9516d50", null ],
+    [ "GetExceptionForHR", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a2682d73351c0a00c1f11628d59562610.html#a2682d73351c0a00c1f11628d59562610", null ],
+    [ "GetRegistrationTokenCacheSize", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_aaf6b098b99cc4bf9c2b9e1af33222c85.html#aaf6b098b99cc4bf9c2b9e1af33222c85", null ],
+    [ "HStringToString", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_af9604e00004e95c2a306f7f3978e0b84.html#af9604e00004e95c2a306f7f3978e0b84", null ],
+    [ "PtrToStringHString", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a2ab80c6ca3ac1e423ebbdd9333a47f7e.html#a2ab80c6ca3ac1e423ebbdd9333a47f7e", null ],
+    [ "RemoveAllEventHandlers", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_ad84532aaabfad796b9757af3cb2851d2.html#ad84532aaabfad796b9757af3cb2851d2", null ],
+    [ "RemoveEventHandler< T >", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a15803aacfb308cb06fdafb4bf36941ca.html#a15803aacfb308cb06fdafb4bf36941ca", null ],
+    [ "ReportUnhandledError", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_ac943a432053fb5cee52ecc3733818a61.html#ac943a432053fb5cee52ecc3733818a61", null ],
+    [ "RoOriginateLanguageException", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a5928d2bfd90686479ea0eb3303a868af.html#a5928d2bfd90686479ea0eb3303a868af", null ],
+    [ "RoReportUnhandledError", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a4a23b569111708d80dd0c4d7c9a6f0b5.html#a4a23b569111708d80dd0c4d7c9a6f0b5", null ],
+    [ "StringToHString", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a2a23954ee10a736f798ac18a84e621f1.html#a2a23954ee10a736f798ac18a84e621f1", null ],
+    [ "s_haveBlueErrorApis", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a164f63430880191d4e8e70547fe7db2e.html#a164f63430880191d4e8e70547fe7db2e", null ],
+    [ "s_iidIErrorInfo", "de/d7e/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_a14aa1768c994aa3ee5059dae8ee83900.html#a14aa1768c994aa3ee5059dae8ee83900", null ]
+];

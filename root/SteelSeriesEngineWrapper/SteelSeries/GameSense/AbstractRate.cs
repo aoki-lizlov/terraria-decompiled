@@ -1,0 +1,15 @@
+using System;
+using FullSerializer;
+
+namespace SteelSeries.GameSense
+{
+	// Token: 0x02000036 RID: 54
+	[fsObject(Converter = typeof(RateStaticConverter))]
+	public abstract class AbstractRate
+	{
+		// Token: 0x06000170 RID: 368 RVA: 0x00002493 File Offset: 0x00000693
+		protected AbstractRate()
+		{
+		}
+	}
+}

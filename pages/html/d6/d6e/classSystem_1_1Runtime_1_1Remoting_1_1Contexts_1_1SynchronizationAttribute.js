@@ -1,0 +1,26 @@
+var classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute =
+[
+    [ "SynchronizationAttribute", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a30768b83a95e9969f5919d75400d07a7.html#a30768b83a95e9969f5919d75400d07a7", null ],
+    [ "SynchronizationAttribute", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a9d7305f1f9b6711ee9a7624eb23709da.html#a9d7305f1f9b6711ee9a7624eb23709da", null ],
+    [ "SynchronizationAttribute", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a5688f083f2aa4e8baf9183b7d6db9335.html#a5688f083f2aa4e8baf9183b7d6db9335", null ],
+    [ "SynchronizationAttribute", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a784859e5419f8d7a9d3a3d7d47c23078.html#a784859e5419f8d7a9d3a3d7d47c23078", null ],
+    [ "AcquireLock", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a04b259ac467db29969863c8eb9b26acb.html#a04b259ac467db29969863c8eb9b26acb", null ],
+    [ "EnterContext", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_aefc68bef900b7a167ba04b6ef8a25c89.html#aefc68bef900b7a167ba04b6ef8a25c89", null ],
+    [ "ExitContext", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a9cca8fbaa3dce81096b0d7924ce40e98.html#a9cca8fbaa3dce81096b0d7924ce40e98", null ],
+    [ "GetClientContextSink", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a9f2e38b55d525bae59e275fc159751aa.html#a9f2e38b55d525bae59e275fc159751aa", null ],
+    [ "GetPropertiesForNewContext", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a53cc5e616eda7f757630d5b69d08cf76.html#a53cc5e616eda7f757630d5b69d08cf76", null ],
+    [ "GetServerContextSink", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a91d8e1df97329af3e75c19a0eece3f4d.html#a91d8e1df97329af3e75c19a0eece3f4d", null ],
+    [ "IsContextOK", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_ad7b4ae3ae59095113dd805da253099a3.html#ad7b4ae3ae59095113dd805da253099a3", null ],
+    [ "ReleaseLock", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a167afc362e442c289c555bc12bf32272.html#a167afc362e442c289c555bc12bf32272", null ],
+    [ "_bReEntrant", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a7e7685142e96acb939b28134b126b47d.html#a7e7685142e96acb939b28134b126b47d", null ],
+    [ "_flavor", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a1786ccced2da9c49e6fa32e0a0e2a842.html#a1786ccced2da9c49e6fa32e0a0e2a842", null ],
+    [ "_lockCount", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_abb9879c7a28647e2aafb25acf4e03392.html#abb9879c7a28647e2aafb25acf4e03392", null ],
+    [ "_mutex", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a0c333f2a7fb18ffbb3b6e757e6edb7d2.html#a0c333f2a7fb18ffbb3b6e757e6edb7d2", null ],
+    [ "_ownerThread", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_ade79ef04e5c3b6fd498972d53a67188a.html#ade79ef04e5c3b6fd498972d53a67188a", null ],
+    [ "NOT_SUPPORTED", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_ac4fb6450c1a369f6e29c8e141d0f6ce0.html#ac4fb6450c1a369f6e29c8e141d0f6ce0", null ],
+    [ "REQUIRED", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a818947badb69c5823ff699598c413d41.html#a818947badb69c5823ff699598c413d41", null ],
+    [ "REQUIRES_NEW", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_aab6212f206285f511801e3873a2df912.html#aab6212f206285f511801e3873a2df912", null ],
+    [ "SUPPORTED", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a06c7c3e1bb85dec87328d779e9ac3cfe.html#a06c7c3e1bb85dec87328d779e9ac3cfe", null ],
+    [ "IsReEntrant", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_abf8ac0bcf74e3db4ff355cbff5431a75.html#abf8ac0bcf74e3db4ff355cbff5431a75", null ],
+    [ "Locked", "d6/d6e/classSystem_1_1Runtime_1_1Remoting_1_1Contexts_1_1SynchronizationAttribute_a9c0c8aadad225a505051f0fc43e26f81.html#a9c0c8aadad225a505051f0fc43e26f81", null ]
+];

@@ -1,0 +1,14 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute =
+[
+    [ "InterfaceImplementedInVersionAttribute", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a6be0207c5931bf8c234cfa4e44b5a2f4.html#a6be0207c5931bf8c234cfa4e44b5a2f4", null ],
+    [ "m_buildVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_ad4f0e730159c9f2bd0aeef1a7e313d45.html#ad4f0e730159c9f2bd0aeef1a7e313d45", null ],
+    [ "m_interfaceType", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a5ee9c7b74563cdede5f70d47c75d52f3.html#a5ee9c7b74563cdede5f70d47c75d52f3", null ],
+    [ "m_majorVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a64828125bea1fc85c1ee44cb46615ed2.html#a64828125bea1fc85c1ee44cb46615ed2", null ],
+    [ "m_minorVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a350ace7bfc76a633fbd7cab62a95a76b.html#a350ace7bfc76a633fbd7cab62a95a76b", null ],
+    [ "m_revisionVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a76c33237b6945323910e9082bc645000.html#a76c33237b6945323910e9082bc645000", null ],
+    [ "BuildVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a1ff2365a3a79a4f74b1b691873ab2835.html#a1ff2365a3a79a4f74b1b691873ab2835", null ],
+    [ "InterfaceType", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a1265b7f556e3da3c268a8f6787fed21d.html#a1265b7f556e3da3c268a8f6787fed21d", null ],
+    [ "MajorVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_aa702c3144f9cd8613963754cfe890470.html#aa702c3144f9cd8613963754cfe890470", null ],
+    [ "MinorVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a37277a051af12d4ce789c0704146e496.html#a37277a051af12d4ce789c0704146e496", null ],
+    [ "RevisionVersion", "dd/da4/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1InterfaceImplementedInVersionAttribute_a694c76e0ab666730270c47dbc394bb69.html#a694c76e0ab666730270c47dbc394bb69", null ]
+];

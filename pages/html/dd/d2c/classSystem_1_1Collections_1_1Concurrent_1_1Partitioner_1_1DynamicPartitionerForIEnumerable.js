@@ -1,0 +1,11 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable =
+[
+    [ "InternalPartitionEnumerable", "dc/de2/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_1_1InternalPartitionEnumerable.html", "dc/de2/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_1_1InternalPartitionEnumerable" ],
+    [ "InternalPartitionEnumerator", "d2/d35/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_1_1InternalPartitionEnumerator.html", "d2/d35/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_1_1InternalPartitionEnumerator" ],
+    [ "DynamicPartitionerForIEnumerable", "dd/d2c/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_a2a0dc193607ebbcafd243ec6e0a03be2.html#a2a0dc193607ebbcafd243ec6e0a03be2", null ],
+    [ "GetOrderableDynamicPartitions", "dd/d2c/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_a4a4f2f546a67be991e4a0fc85f19548c.html#a4a4f2f546a67be991e4a0fc85f19548c", null ],
+    [ "GetOrderablePartitions", "dd/d2c/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_a072197433de34391a13658f6dcd59d91.html#a072197433de34391a13658f6dcd59d91", null ],
+    [ "_source", "dd/d2c/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_a3285d0ce9fa136a602e0ce703e13134f.html#a3285d0ce9fa136a602e0ce703e13134f", null ],
+    [ "_useSingleChunking", "dd/d2c/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_a00956e4d40ff773bc2cf119a21375cdf.html#a00956e4d40ff773bc2cf119a21375cdf", null ],
+    [ "SupportsDynamicPartitions", "dd/d2c/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIEnumerable_a9f7385a6507481c055bd82ba2ffec75f.html#a9f7385a6507481c055bd82ba2ffec75f", null ]
+];

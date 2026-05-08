@@ -1,0 +1,4 @@
+var interfaceSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1IActivationFactory =
+[
+    [ "ActivateInstance", "d2/da8/interfaceSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1IActivationFactory_abb9f56add3a72dec9ec460f16184d386.html#abb9f56add3a72dec9ec460f16184d386", null ]
+];

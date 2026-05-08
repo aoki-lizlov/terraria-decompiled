@@ -1,0 +1,28 @@
+var classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection =
+[
+    [ "KeyedCollection", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a330a8279f4b37f89f598d9775c27a702.html#a330a8279f4b37f89f598d9775c27a702", null ],
+    [ "KeyedCollection", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a4cbfcb644c5a07eb24a8fe57d70f6885.html#a4cbfcb644c5a07eb24a8fe57d70f6885", null ],
+    [ "KeyedCollection", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_ab366a8429075f17ef7dd03f2701fb1f1.html#ab366a8429075f17ef7dd03f2701fb1f1", null ],
+    [ "AddKey", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a16e4aa877d289ebe7a73c9e2aae39c70.html#a16e4aa877d289ebe7a73c9e2aae39c70", null ],
+    [ "ChangeItemKey", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_ae4b066bcee03fa118060f5b46200674a.html#ae4b066bcee03fa118060f5b46200674a", null ],
+    [ "ClearItems", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_aac5e1a11ce0ed81501e888007a3e79d8.html#aac5e1a11ce0ed81501e888007a3e79d8", null ],
+    [ "Contains", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a6f05ad0f38aed4290bfe74c0f7ed039d.html#a6f05ad0f38aed4290bfe74c0f7ed039d", null ],
+    [ "ContainsItem", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a6c951b7ae1bca0b60bf6efd5cc189d8a.html#a6c951b7ae1bca0b60bf6efd5cc189d8a", null ],
+    [ "CreateDictionary", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a6b923cf7fcb8b1a93adbcb48e6d86cb8.html#a6b923cf7fcb8b1a93adbcb48e6d86cb8", null ],
+    [ "GetKeyForItem", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_ae07653fc65c463fd1c72ba15c3891e36.html#ae07653fc65c463fd1c72ba15c3891e36", null ],
+    [ "InsertItem", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_afb019f9de766b81c63694dcc53948a88.html#afb019f9de766b81c63694dcc53948a88", null ],
+    [ "Remove", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a5520997669b6fbc2f6c607721993daaf.html#a5520997669b6fbc2f6c607721993daaf", null ],
+    [ "RemoveItem", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_ab368a26f988c01e97c451488b726077d.html#ab368a26f988c01e97c451488b726077d", null ],
+    [ "RemoveKey", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a8db627f125b7752da21ff257239a1507.html#a8db627f125b7752da21ff257239a1507", null ],
+    [ "SetItem", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_ac2f494a13380978f28dfa89a468223bd.html#ac2f494a13380978f28dfa89a468223bd", null ],
+    [ "TryGetValue", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a5c82b749594cbc9317e5b38477dcbe6c.html#a5c82b749594cbc9317e5b38477dcbe6c", null ],
+    [ "comparer", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a2626c53d545dff4516c4cb327aa5ce99.html#a2626c53d545dff4516c4cb327aa5ce99", null ],
+    [ "defaultThreshold", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_af778660d726717d5897c71515d7b6e45.html#af778660d726717d5897c71515d7b6e45", null ],
+    [ "dict", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_acb2213efb1aa0ea430b9d26d998fdf55.html#acb2213efb1aa0ea430b9d26d998fdf55", null ],
+    [ "keyCount", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_ad5b18d5498931a81c4e1682a6ff783a2.html#ad5b18d5498931a81c4e1682a6ff783a2", null ],
+    [ "threshold", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a6350099dfc30632dc3fce5f94dc5f542.html#a6350099dfc30632dc3fce5f94dc5f542", null ],
+    [ "Comparer", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a602734a68a47157db485eda501dd400d.html#a602734a68a47157db485eda501dd400d", null ],
+    [ "Dictionary", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_ab9b7fddee1de6d57281454545244bf00.html#ab9b7fddee1de6d57281454545244bf00", null ],
+    [ "Items", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a7b8ab7d1505d0aadb572f49eb89ee4a3.html#a7b8ab7d1505d0aadb572f49eb89ee4a3", null ],
+    [ "this[TKey key]", "d9/d36/classSystem_1_1Collections_1_1ObjectModel_1_1KeyedCollection_a5398a460781d4f657937c6f8d8de910d.html#a5398a460781d4f657937c6f8d8de910d", null ]
+];

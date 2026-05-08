@@ -1,0 +1,27 @@
+var interfaceNVorbis_1_1Contracts_1_1IVorbisReader =
+[
+    [ "FindNextStream", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a1cbe57be44f0a666d1627af8c2cdf3bb.html#a1cbe57be44f0a666d1627af8c2cdf3bb", null ],
+    [ "ReadSamples", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_ab25d1a3ea1f22dad33759f8ccaaeacca.html#ab25d1a3ea1f22dad33759f8ccaaeacca", null ],
+    [ "SeekTo", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_aaa8a4fe01664052f3ca074c22facfa5f.html#aaa8a4fe01664052f3ca074c22facfa5f", null ],
+    [ "SeekTo", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_adc83e625aad2c317609b1c10301ad481.html#adc83e625aad2c317609b1c10301ad481", null ],
+    [ "SwitchStreams", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a52eca0d267539cdc8d50c4ec789d9a19.html#a52eca0d267539cdc8d50c4ec789d9a19", null ],
+    [ "Channels", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a4ec9be1686221f6dd6b576d0e4da90f1.html#a4ec9be1686221f6dd6b576d0e4da90f1", null ],
+    [ "ClipSamples", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_ad4767483b2c737544209ee7d8f10c11c.html#ad4767483b2c737544209ee7d8f10c11c", null ],
+    [ "ContainerOverheadBits", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a9ededb04fc7a74db2f4549187cb79239.html#a9ededb04fc7a74db2f4549187cb79239", null ],
+    [ "ContainerWasteBits", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_aa2fafc7070dd4f0722ee9f1b30489908.html#aa2fafc7070dd4f0722ee9f1b30489908", null ],
+    [ "HasClipped", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a06e2848847dc94bfa734b88714ef241e.html#a06e2848847dc94bfa734b88714ef241e", null ],
+    [ "IsEndOfStream", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_ab1fc69e6fb7bc1ea98ad406747ff23f9.html#ab1fc69e6fb7bc1ea98ad406747ff23f9", null ],
+    [ "LowerBitrate", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_aae4b05f90d870c5540b822b9f1338034.html#aae4b05f90d870c5540b822b9f1338034", null ],
+    [ "NominalBitrate", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a6c879d1a042575145e1478d028d915a2.html#a6c879d1a042575145e1478d028d915a2", null ],
+    [ "SamplePosition", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a142f41599d1705a09bc4038acf98c560.html#a142f41599d1705a09bc4038acf98c560", null ],
+    [ "SampleRate", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_afa3b5f5ffa2569512f0f45b67a06b9df.html#afa3b5f5ffa2569512f0f45b67a06b9df", null ],
+    [ "StreamIndex", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_af02408a257545444ebcf3e7213d3b353.html#af02408a257545444ebcf3e7213d3b353", null ],
+    [ "Streams", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a9865a1cf52dc3aa6f1c2ac6b3bd8463f.html#a9865a1cf52dc3aa6f1c2ac6b3bd8463f", null ],
+    [ "StreamStats", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a3a012c9e1e5cd24fbaec12084208b3ca.html#a3a012c9e1e5cd24fbaec12084208b3ca", null ],
+    [ "Tags", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a3c15f3aad8ce91b1b94a0fc6b88c50fe.html#a3c15f3aad8ce91b1b94a0fc6b88c50fe", null ],
+    [ "TimePosition", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a427f1040312e138ddb77ed753689b9a9.html#a427f1040312e138ddb77ed753689b9a9", null ],
+    [ "TotalSamples", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_acc636dde583c9bbb06f562be65e0fb02.html#acc636dde583c9bbb06f562be65e0fb02", null ],
+    [ "TotalTime", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a8809936a674f4a89e65f478befcbfeaf.html#a8809936a674f4a89e65f478befcbfeaf", null ],
+    [ "UpperBitrate", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_a37601bc8d5bd937fe31a221eb9fb06a0.html#a37601bc8d5bd937fe31a221eb9fb06a0", null ],
+    [ "NewStream", "d8/dc0/interfaceNVorbis_1_1Contracts_1_1IVorbisReader_ae8e903932f0814f10abd5a6195de40cb.html#ae8e903932f0814f10abd5a6195de40cb", null ]
+];

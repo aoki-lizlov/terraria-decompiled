@@ -1,0 +1,25 @@
+var structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState =
+[
+    [ "MouseState", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_ad59a93d77b8f424a977968c13bd04a47.html#ad59a93d77b8f424a977968c13bd04a47", null ],
+    [ "Equals", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a02affb5ffc818dc699842bac8b58c19a.html#a02affb5ffc818dc699842bac8b58c19a", null ],
+    [ "GetHashCode", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a71be5a70bcb8d2270f5d05c5746caa24.html#a71be5a70bcb8d2270f5d05c5746caa24", null ],
+    [ "operator!=", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_aa78fcc57d7908e20cc42eb5d3b4523a5.html#aa78fcc57d7908e20cc42eb5d3b4523a5", null ],
+    [ "operator==", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a01474f3381839885cdeb405b72bd58a0.html#a01474f3381839885cdeb405b72bd58a0", null ],
+    [ "ToString", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a934d4ca0ad1e91bbc29c6755c617ff36.html#a934d4ca0ad1e91bbc29c6755c617ff36", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a8bc311c43fbe83915a315fa1a0283b29.html#a8bc311c43fbe83915a315fa1a0283b29", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a25986eb75131aaa28e798e776844b763.html#a25986eb75131aaa28e798e776844b763", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a5e7a5beda123fdc1f47cd351d2a6002f.html#a5e7a5beda123fdc1f47cd351d2a6002f", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a2e23dc2c7777f66646f76b0faed6a696.html#a2e23dc2c7777f66646f76b0faed6a696", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a9672ffba15aa57ac856d31ec1e78f679.html#a9672ffba15aa57ac856d31ec1e78f679", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a8a225dc61e780744a81e4a1ebc6c032b.html#a8a225dc61e780744a81e4a1ebc6c032b", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a852fd4ce5d399b663c145369c3a911be.html#a852fd4ce5d399b663c145369c3a911be", null ],
+    [ "k__BackingField", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a2f27cdf3dacd83572e318444a485d7bf.html#a2f27cdf3dacd83572e318444a485d7bf", null ],
+    [ "LeftButton", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a81a63963571045826cbc0eff25b9ce28.html#a81a63963571045826cbc0eff25b9ce28", null ],
+    [ "MiddleButton", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a8ef86336251b6b9c8a06d77d97e22f84.html#a8ef86336251b6b9c8a06d77d97e22f84", null ],
+    [ "RightButton", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_ad8648ef8bbb6a0a59e54ae6592d7c6fa.html#ad8648ef8bbb6a0a59e54ae6592d7c6fa", null ],
+    [ "ScrollWheelValue", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a977aa23deae00457277cf562fb21c019.html#a977aa23deae00457277cf562fb21c019", null ],
+    [ "X", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a40608236b19b6280f5d4b20886a352d2.html#a40608236b19b6280f5d4b20886a352d2", null ],
+    [ "XButton1", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a8cc10ba7c97127a3c81eba8113bd9b50.html#a8cc10ba7c97127a3c81eba8113bd9b50", null ],
+    [ "XButton2", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_ace2b55379f2b65eab66a712ed87b44b1.html#ace2b55379f2b65eab66a712ed87b44b1", null ],
+    [ "Y", "d4/dce/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1MouseState_a0f3da79ce609dccc256f7a94cfcf5fb9.html#a0f3da79ce609dccc256f7a94cfcf5fb9", null ]
+];

@@ -1,0 +1,28 @@
+var classSteelSeries_1_1GameSense_1_1ColorHandler =
+[
+    [ "ColorHandler", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_aeaf986e8e5436f15a7620d15c2a61f49.html#aeaf986e8e5436f15a7620d15c2a61f49", null ],
+    [ "_new", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a000e4c7b8e51cb9daa326baecc6500e2.html#a000e4c7b8e51cb9daa326baecc6500e2", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_ac861426547d6c5dee2d01aa367fbfe9b.html#ac861426547d6c5dee2d01aa367fbfe9b", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_ae03a24ad33beaa8d68d858b670a9f00c.html#ae03a24ad33beaa8d68d858b670a9f00c", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_afd3f6436e2c619891795d9be03d477f7.html#afd3f6436e2c619891795d9be03d477f7", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a9d2724190f24444d7439cc83df9317e9.html#a9d2724190f24444d7439cc83df9317e9", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_abbe6e61f56ff126f9fd8503ade1c43e3.html#abbe6e61f56ff126f9fd8503ade1c43e3", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a710dc4767ca2a582f40fb5de2436c44c.html#a710dc4767ca2a582f40fb5de2436c44c", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a2cef6502f3a4de69852e0c791d18c201.html#a2cef6502f3a4de69852e0c791d18c201", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a509a17eb7e3113310af543a170385998.html#a509a17eb7e3113310af543a170385998", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a5a29fd65d68c8e8d864360dd30598691.html#a5a29fd65d68c8e8d864360dd30598691", null ],
+    [ "Create", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a4dc191edef9bbf4e199d26531e10e828.html#a4dc191edef9bbf4e199d26531e10e828", null ],
+    [ "_colorEffect", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_acaddea54fad832ce97b744a955300b82.html#acaddea54fad832ce97b744a955300b82", null ],
+    [ "_rateMode", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a3eecb755c48dc6fe6d9122f0a6ea3aa3.html#a3eecb755c48dc6fe6d9122f0a6ea3aa3", null ],
+    [ "color", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a9e5b0ae6b0d2ebaf6036c3602e7aa9f7.html#a9e5b0ae6b0d2ebaf6036c3602e7aa9f7", null ],
+    [ "deviceZone", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_ae8574cbbdd55c7737faf4f4bae1ea202.html#ae8574cbbdd55c7737faf4f4bae1ea202", null ],
+    [ "mode", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a157c332139e837494b42e7ca50b5287f.html#a157c332139e837494b42e7ca50b5287f", null ],
+    [ "rate", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_af76a77cd43709549673e2745a0bdb9f8.html#af76a77cd43709549673e2745a0bdb9f8", null ],
+    [ "color_gradient", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a56df2ddb2d99a5b73cabb51e447c68b5.html#a56df2ddb2d99a5b73cabb51e447c68b5", null ],
+    [ "color_range", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_ac1aa05129de4a61172d4057f93841547.html#ac1aa05129de4a61172d4057f93841547", null ],
+    [ "color_static", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a0ee2f270da7eaf764f636b582505527a.html#a0ee2f270da7eaf764f636b582505527a", null ],
+    [ "ColorEffect", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_add9f3a6add6cfcbb8b04381b61b1a5cd.html#add9f3a6add6cfcbb8b04381b61b1a5cd", null ],
+    [ "rate_range", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a4a9ba30a32cd8a410e57853f63639e0b.html#a4a9ba30a32cd8a410e57853f63639e0b", null ],
+    [ "rate_static", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a17057ac1afd833ecd0a6f7f9f39bd7ba.html#a17057ac1afd833ecd0a6f7f9f39bd7ba", null ],
+    [ "RateMode", "d1/dba/classSteelSeries_1_1GameSense_1_1ColorHandler_a47ccc933fa4ea8e2e3f9c089b5117591.html#a47ccc933fa4ea8e2e3f9c089b5117591", null ]
+];

@@ -1,0 +1,8 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1DesignerNamespaceResolveEventArgs =
+[
+    [ "DesignerNamespaceResolveEventArgs", "d5/d63/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1DesignerNamespaceResolveEventArgs_a50f8456fb7094663b7d4ed2ab46ae9e2.html#a50f8456fb7094663b7d4ed2ab46ae9e2", null ],
+    [ "k__BackingField", "d5/d63/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1DesignerNamespaceResolveEventArgs_adcbfef82106363895b98ee621dc1b791.html#adcbfef82106363895b98ee621dc1b791", null ],
+    [ "k__BackingField", "d5/d63/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1DesignerNamespaceResolveEventArgs_afe45ffa0029c00a9dcfb2dc67db7066e.html#afe45ffa0029c00a9dcfb2dc67db7066e", null ],
+    [ "NamespaceName", "d5/d63/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1DesignerNamespaceResolveEventArgs_ac0c8e7046916b252c0df50349300e567.html#ac0c8e7046916b252c0df50349300e567", null ],
+    [ "ResolvedAssemblyFiles", "d5/d63/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1DesignerNamespaceResolveEventArgs_a2a14591e41aeb4242245e51732977be2.html#a2a14591e41aeb4242245e51732977be2", null ]
+];

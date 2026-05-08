@@ -1,0 +1,28 @@
+var structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState =
+[
+    [ "KeyboardState", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a9bef34ac10314ef40e13824cb81c0f92.html#a9bef34ac10314ef40e13824cb81c0f92", null ],
+    [ "KeyboardState", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_abda2fe7f4bb217727df4cdda1d6ad094.html#abda2fe7f4bb217727df4cdda1d6ad094", null ],
+    [ "KeyboardState", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a7fef8c6501c2a5c4bacc9da94744e7e7.html#a7fef8c6501c2a5c4bacc9da94744e7e7", null ],
+    [ "AddKeysToArray", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a60638fcac8a408d59e7ffa4ff13c0a31.html#a60638fcac8a408d59e7ffa4ff13c0a31", null ],
+    [ "AddPressedKey", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_ab37c352194150019e0896876204c7f97.html#ab37c352194150019e0896876204c7f97", null ],
+    [ "CountBits", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a17407263055a18fc6f2ad0578ce120ba.html#a17407263055a18fc6f2ad0578ce120ba", null ],
+    [ "Equals", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a7d57fa24849fe95e05970d6735160ab8.html#a7d57fa24849fe95e05970d6735160ab8", null ],
+    [ "GetHashCode", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_aebf72823e44e4501bde5b8e44d138219.html#aebf72823e44e4501bde5b8e44d138219", null ],
+    [ "GetPressedKeys", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_aac0fc341805bbbb0979239156a48e259.html#aac0fc341805bbbb0979239156a48e259", null ],
+    [ "InternalGetKey", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a7748a67ba8df8615a0a8c2a1e6561892.html#a7748a67ba8df8615a0a8c2a1e6561892", null ],
+    [ "IsKeyDown", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a51e239901bb9eaacc9310d3e859c9537.html#a51e239901bb9eaacc9310d3e859c9537", null ],
+    [ "IsKeyUp", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a648596c8593ccdff9e2ae3e22fb95229.html#a648596c8593ccdff9e2ae3e22fb95229", null ],
+    [ "operator!=", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_ab8d2d40135fa2f964793ecf93abef412.html#ab8d2d40135fa2f964793ecf93abef412", null ],
+    [ "operator==", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a41b5149e642838eed433debdb2991969.html#a41b5149e642838eed433debdb2991969", null ],
+    [ "RemovePressedKey", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a9aad11e68f7835fa17453fb0f3aadc17.html#a9aad11e68f7835fa17453fb0f3aadc17", null ],
+    [ "empty", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a16ba74bc6f05c2e21f48b8d6ef400651.html#a16ba74bc6f05c2e21f48b8d6ef400651", null ],
+    [ "keys0", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a33ba810aa4bcbbe150d9e0db99d07a1d.html#a33ba810aa4bcbbe150d9e0db99d07a1d", null ],
+    [ "keys1", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a9c8eae5969164d394c4cfa263ec1af78.html#a9c8eae5969164d394c4cfa263ec1af78", null ],
+    [ "keys2", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_ae8b4c47d1b82a0949dbf43a399bb34c2.html#ae8b4c47d1b82a0949dbf43a399bb34c2", null ],
+    [ "keys3", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_aff6cfab80eaa535173265782db460c3a.html#aff6cfab80eaa535173265782db460c3a", null ],
+    [ "keys4", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_abcd3e8855c4cde2881a20deec2e42a01.html#abcd3e8855c4cde2881a20deec2e42a01", null ],
+    [ "keys5", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a1611d295474a70091dfb312be51f9738.html#a1611d295474a70091dfb312be51f9738", null ],
+    [ "keys6", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_ae5e44a0af904cfe78d4a86e05af1ff9d.html#ae5e44a0af904cfe78d4a86e05af1ff9d", null ],
+    [ "keys7", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a306d647453ff6cadf9d4a26d4d99944c.html#a306d647453ff6cadf9d4a26d4d99944c", null ],
+    [ "this[Keys key]", "d7/d8a/structMicrosoft_1_1Xna_1_1Framework_1_1Input_1_1KeyboardState_a54e7a91579a249fac6373fc83b196635.html#a54e7a91579a249fac6373fc83b196635", null ]
+];

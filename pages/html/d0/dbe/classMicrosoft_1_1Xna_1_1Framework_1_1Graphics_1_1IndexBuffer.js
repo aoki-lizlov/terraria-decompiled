@@ -1,0 +1,25 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer =
+[
+    [ "IndexBuffer", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_aee1b20b5885d7bdbe53a87010a0c786e.html#aee1b20b5885d7bdbe53a87010a0c786e", null ],
+    [ "IndexBuffer", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a8befc7f5de3069c2568c1a93bbc20066.html#a8befc7f5de3069c2568c1a93bbc20066", null ],
+    [ "IndexBuffer", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a09ee8ed1af224b9fef8f6bded67d8ac9.html#a09ee8ed1af224b9fef8f6bded67d8ac9", null ],
+    [ "IndexBuffer", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_ad191ebaf64b588646ba5fc94235189c2.html#ad191ebaf64b588646ba5fc94235189c2", null ],
+    [ "Dispose", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a38ce5314adb84f7adc9bdcc1781d2108.html#a38ce5314adb84f7adc9bdcc1781d2108", null ],
+    [ "ErrorCheck< T >", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_abd6b4e034883725437f9a7a8585d360d.html#abd6b4e034883725437f9a7a8585d360d", null ],
+    [ "GetData< T >", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a3d6c744a3520df6c37e9b2aca7ab7288.html#a3d6c744a3520df6c37e9b2aca7ab7288", null ],
+    [ "GetData< T >", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_ad01a46d7a6c64dfa8065b1fcc54245a7.html#ad01a46d7a6c64dfa8065b1fcc54245a7", null ],
+    [ "GetData< T >", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a8d3567f1e31ceb8da0fc01155457351f.html#a8d3567f1e31ceb8da0fc01155457351f", null ],
+    [ "GraphicsDeviceResetting", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_ab3dcb7b34392e16ffe47d31cbe264e91.html#ab3dcb7b34392e16ffe47d31cbe264e91", null ],
+    [ "SetData< T >", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a01b91d18fd8c6f1b78eae0c97472c38c.html#a01b91d18fd8c6f1b78eae0c97472c38c", null ],
+    [ "SetData< T >", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_ad455eb7dfca33512305b93f2f4d66c69.html#ad455eb7dfca33512305b93f2f4d66c69", null ],
+    [ "SetData< T >", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a6b29c0475064e55c5d883ecf8661aaa5.html#a6b29c0475064e55c5d883ecf8661aaa5", null ],
+    [ "SetDataPointerEXT", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a15e9561faa8dda929f7fe20e7b043cec.html#a15e9561faa8dda929f7fe20e7b043cec", null ],
+    [ "SizeForType", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_ad19c1bbac096bf0e94004e23f49ca1cb.html#ad19c1bbac096bf0e94004e23f49ca1cb", null ],
+    [ "buffer", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_aa32b676d2ff1f361f6858a4461337b04.html#aa32b676d2ff1f361f6858a4461337b04", null ],
+    [ "k__BackingField", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_adfabd371e2349a12f8ab09c40120e101.html#adfabd371e2349a12f8ab09c40120e101", null ],
+    [ "k__BackingField", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_aded3ad4938f28386cce16a74554e2c51.html#aded3ad4938f28386cce16a74554e2c51", null ],
+    [ "k__BackingField", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_ab37aeb78cdf7d8dbb6c5154ba666f8d1.html#ab37aeb78cdf7d8dbb6c5154ba666f8d1", null ],
+    [ "BufferUsage", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a3ff4fcd1257fd34c8c1c52eb49fa0e0c.html#a3ff4fcd1257fd34c8c1c52eb49fa0e0c", null ],
+    [ "IndexCount", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_aef8ce30bf6a196991b12d6ee0eb37e08.html#aef8ce30bf6a196991b12d6ee0eb37e08", null ],
+    [ "IndexElementSize", "d0/dbe/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1IndexBuffer_a9bd992c13138d64abf86bfb258725f85.html#a9bd992c13138d64abf86bfb258725f85", null ]
+];

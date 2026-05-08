@@ -1,0 +1,9 @@
+var ComTypes_2LIBFLAGS_8cs =
+[
+    [ "LIBFLAGS", "d3/d96/ComTypes_2LIBFLAGS_8cs.html#ae2f6a7f18a137955cd4641b2f1056b96", [
+      [ "LIBFLAG_FRESTRICTED", "d3/d96/ComTypes_2LIBFLAGS_8cs.html#ae2f6a7f18a137955cd4641b2f1056b96adc9924f170d9b1bb4bf249d59620ba15", null ],
+      [ "LIBFLAG_FCONTROL", "d3/d96/ComTypes_2LIBFLAGS_8cs.html#ae2f6a7f18a137955cd4641b2f1056b96a273e0ca49303e9a4791f287356d50b06", null ],
+      [ "LIBFLAG_FHIDDEN", "d3/d96/ComTypes_2LIBFLAGS_8cs.html#ae2f6a7f18a137955cd4641b2f1056b96a7c163f56918e43d6e0992d44cc34de4e", null ],
+      [ "LIBFLAG_FHASDISKIMAGE", "d3/d96/ComTypes_2LIBFLAGS_8cs.html#ae2f6a7f18a137955cd4641b2f1056b96a266841efe16953ac578d7330dfe81fe5", null ]
+    ] ]
+];

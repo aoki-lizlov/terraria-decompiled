@@ -1,0 +1,26 @@
+var classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations =
+[
+    [ "errorWorldAdjustment", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a03dc84866f7910351a1510300f9c1eb5.html#a03dc84866f7910351a1510300f9c1eb5", null ],
+    [ "actuallyNoTrapsForRealIMeanIt", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_ad06db67bc28944aa2018ac0225ed8ba4.html#ad06db67bc28944aa2018ac0225ed8ba4", null ],
+    [ "coatEverythingEchoJustSomeThings", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_ad35bc0437c136d060dae7dea1583d35f.html#ad35bc0437c136d060dae7dea1583d35f", null ],
+    [ "coatEverythingIlluminantJustRandomSpots", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_ac1a9abfbb19154181118c5eeb44f405d.html#ac1a9abfbb19154181118c5eeb44f405d", null ],
+    [ "coatEverythingIlluminantJustSomeThings", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a646da87b7869ac28b5b63ad2ee046112.html#a646da87b7869ac28b5b63ad2ee046112", null ],
+    [ "coatEverythingJustInnerBlocks", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a00e3227fba514c02f14f83dfdfa15aba.html#a00e3227fba514c02f14f83dfdfa15aba", null ],
+    [ "errorWorldBalancedChests", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a2b6b8e60ad3eda74f4e220d247541f23.html#a2b6b8e60ad3eda74f4e220d247541f23", null ],
+    [ "extraFloatingIslandsNormalAmount", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a592e163b3fa998d1c56c5224ddfc545b.html#a592e163b3fa998d1c56c5224ddfc545b", null ],
+    [ "extraFloatingIslandsReducedAmount", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_ac2fca164368b8849d6491d8342eee412.html#ac2fca164368b8849d6491d8342eee412", null ],
+    [ "extraLivingTreesReducedAmount", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a6b28f4dec2194210b589068dbd84ecb0.html#a6b28f4dec2194210b589068dbd84ecb0", null ],
+    [ "noSpiderCavesActuallyNoSpiderCaves", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a2aef09ea96acd7d3b75acff694373f94.html#a2aef09ea96acd7d3b75acff694373f94", null ],
+    [ "noSpiderCavesILiedMoreSpiderCaves", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a785a3def926a63f74bd88768ef7a5f37.html#a785a3def926a63f74bd88768ef7a5f37", null ],
+    [ "noSurfaceNoFloatingIslands", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a4a563abd9f0ad696f71a6a40a1e7e6bf.html#a4a563abd9f0ad696f71a6a40a1e7e6bf", null ],
+    [ "noSurfaceNoLivingTrees", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a268ccb56991049988c6e6d61baca83af.html#a268ccb56991049988c6e6d61baca83af", null ],
+    [ "noSurfaceNoPyramids", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_abe795efeec5692622d089a7d9c1a0029.html#abe795efeec5692622d089a7d9c1a0029", null ],
+    [ "noSurfaceNoSwordShrines", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a187e538379139ecb4ffb262c2fecbc68.html#a187e538379139ecb4ffb262c2fecbc68", null ],
+    [ "paintEverythingGrayJustTheSurface", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a7681e45296186444214b857c09e60bdd.html#a7681e45296186444214b857c09e60bdd", null ],
+    [ "paintEverythingGrayJustTreasure", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_ae6afc8a084cdf5f75fc70c121c952054.html#ae6afc8a084cdf5f75fc70c121c952054", null ],
+    [ "paintEverythingGrayUseWhite", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a50d1e9e3fed39da204f3eabe0624f040.html#a50d1e9e3fed39da204f3eabe0624f040", null ],
+    [ "paintEverythingNegativeJustSomeThings", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a23b3a50be1a7a08618962a1809f308d5.html#a23b3a50be1a7a08618962a1809f308d5", null ],
+    [ "paintEverythingNegativeJustUnderground", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a664f77dc1080fe50de02e44d65cebd90.html#a664f77dc1080fe50de02e44d65cebd90", null ],
+    [ "surfaceIsDesertNormalFunction", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a9c1b11b2ba8193f06fe2b5f8e14f20d9.html#a9c1b11b2ba8193f06fe2b5f8e14f20d9", null ],
+    [ "surfaceIsDesertSwapDesertAndSnowBiomes", "d1/dcc/classTerraria_1_1WorldGen_1_1SecretSeed_1_1Variations_a0dceb95ed13b3eb74bc77495d319a6ad.html#a0dceb95ed13b3eb74bc77495d319a6ad", null ]
+];

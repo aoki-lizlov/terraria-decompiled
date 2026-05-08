@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonFeatureSettings =
+[
+    [ "DungeonFeatureSettings", "d8/d7a/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Features_1_1DungeonFeatureSettings_a9a6040dda4b4e5a8cf1451a3299a2e2c.html#a9a6040dda4b4e5a8cf1451a3299a2e2c", null ]
+];

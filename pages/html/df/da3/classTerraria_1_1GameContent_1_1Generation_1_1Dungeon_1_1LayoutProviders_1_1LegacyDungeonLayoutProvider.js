@@ -1,0 +1,6 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1LegacyDungeonLayoutProvider =
+[
+    [ "LegacyDungeonLayoutProvider", "df/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1LegacyDungeonLayoutProvider_aecd8dfaa53da49437c95e67a50332d18.html#aecd8dfaa53da49437c95e67a50332d18", null ],
+    [ "LegacyDungeonLayout", "df/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1LegacyDungeonLayoutProvider_aeb71a3feda1f75668d54af86bf129b3d.html#aeb71a3feda1f75668d54af86bf129b3d", null ],
+    [ "ProvideLayout", "df/da3/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1LayoutProviders_1_1LegacyDungeonLayoutProvider_a6a0303128062e13f2cda3f084d5cf875.html#a6a0303128062e13f2cda3f084d5cf875", null ]
+];

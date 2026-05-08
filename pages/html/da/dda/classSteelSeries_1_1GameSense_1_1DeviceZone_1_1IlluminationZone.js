@@ -1,0 +1,26 @@
+var classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone =
+[
+    [ "IlluminationZone", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a899e3d0faece76c7679556a42f41ae2b.html#a899e3d0faece76c7679556a42f41ae2b", null ],
+    [ "All", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a4ae13079d0f872b3550be91f326569ea.html#a4ae13079d0f872b3550be91f326569ea", null ],
+    [ "AllMacroKeys", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_aaa0c1f529ab8ff9d7cb8abe80ed4d16d.html#aaa0c1f529ab8ff9d7cb8abe80ed4d16d", null ],
+    [ "Arrows", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a9c8293728d0b469c489b7d9cfc7093a5.html#a9c8293728d0b469c489b7d9cfc7093a5", null ],
+    [ "Base", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_ad76485bccee2e5989e98904be818f838.html#ad76485bccee2e5989e98904be818f838", null ],
+    [ "Earcups", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a05c02f64f0ea295564ba4f17a9f0d016.html#a05c02f64f0ea295564ba4f17a9f0d016", null ],
+    [ "Five", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a1d0db316cdf9958b59178a603172c176.html#a1d0db316cdf9958b59178a603172c176", null ],
+    [ "Four", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a280f94f34646e538bb216b260a2fbfc3.html#a280f94f34646e538bb216b260a2fbfc3", null ],
+    [ "FunctionKeys", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_ab10db2dae6b53a4758299b0ec12b6525.html#ab10db2dae6b53a4758299b0ec12b6525", null ],
+    [ "Keypad", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a41729aac58041a91c4d76f1034a48889.html#a41729aac58041a91c4d76f1034a48889", null ],
+    [ "KeypadNumbers", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a3779ee31d3916dc23ebcd3cfaae8f315.html#a3779ee31d3916dc23ebcd3cfaae8f315", null ],
+    [ "Logo", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a6b6e3bbfc2a11b5140d9c0a0d07c65a6.html#a6b6e3bbfc2a11b5140d9c0a0d07c65a6", null ],
+    [ "MacroKeys", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a1e0fce291c13ed1af80b3a02cc09ca59.html#a1e0fce291c13ed1af80b3a02cc09ca59", null ],
+    [ "MainKeyboard", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_aca9e57c72fe2e7e5ee1950fbb868ab1b.html#aca9e57c72fe2e7e5ee1950fbb868ab1b", null ],
+    [ "NavCluster", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_ae11ecb74f56355a6891b1ccc8a7bf844.html#ae11ecb74f56355a6891b1ccc8a7bf844", null ],
+    [ "NumberKeys", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_af8688af39238e1f4941fee3d3f14f789.html#af8688af39238e1f4941fee3d3f14f789", null ],
+    [ "One", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a2bbb6f7e503e3b891c4011e73dcfe872.html#a2bbb6f7e503e3b891c4011e73dcfe872", null ],
+    [ "RowA", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_ae67537ffaf2073d536a584887ec0fda9.html#ae67537ffaf2073d536a584887ec0fda9", null ],
+    [ "RowQ", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a5b3d87af48645acec30ea7f6eb26ea00.html#a5b3d87af48645acec30ea7f6eb26ea00", null ],
+    [ "RowZ", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_acf0709e213f27974039bf58feb3d576b.html#acf0709e213f27974039bf58feb3d576b", null ],
+    [ "Three", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a3df3d7e559474014ca7d532a631fff58.html#a3df3d7e559474014ca7d532a631fff58", null ],
+    [ "Two", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_a718c25883befc421639686a5a75d809b.html#a718c25883befc421639686a5a75d809b", null ],
+    [ "Wheel", "da/dda/classSteelSeries_1_1GameSense_1_1DeviceZone_1_1IlluminationZone_ad492b7ea181278e558bcb8ca029ecca3.html#ad492b7ea181278e558bcb8ca029ecca3", null ]
+];

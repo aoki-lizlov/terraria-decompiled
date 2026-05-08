@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1RGB_1_1CommonConditions_1_1SurfaceBiome_1_1SurfaceCondition =
+[
+    [ "SurfaceCondition", "d3/df3/classTerraria_1_1GameContent_1_1RGB_1_1CommonConditions_1_1SurfaceBiome_1_1SurfaceCondition_a34091482c11ce3b65d4e8453aa6195a4.html#a34091482c11ce3b65d4e8453aa6195a4", null ]
+];

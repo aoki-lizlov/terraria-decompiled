@@ -1,0 +1,4 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1LegacyDungeonEntranceSettings =
+[
+    [ "LegacyDungeonEntranceSettings", "d4/db8/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Entrances_1_1LegacyDungeonEntranceSettings_a49e0c379b03b3b868fd3bac63bf9dff1.html#a49e0c379b03b3b868fd3bac63bf9dff1", null ]
+];

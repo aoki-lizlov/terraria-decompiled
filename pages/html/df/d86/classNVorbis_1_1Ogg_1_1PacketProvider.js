@@ -1,0 +1,25 @@
+var classNVorbis_1_1Ogg_1_1PacketProvider =
+[
+    [ "PacketProvider", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_abe5df3719cc40abec03bb0e0f0ec2ccc.html#abe5df3719cc40abec03bb0e0f0ec2ccc", null ],
+    [ "CreatePacket", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a5d72a758601c6a1b9c15157736ad80ee.html#a5d72a758601c6a1b9c15157736ad80ee", null ],
+    [ "FindPacket", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_ad116f5012047fa0d9e71f88c739996e3.html#ad116f5012047fa0d9e71f88c739996e3", null ],
+    [ "GetGranuleCount", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_aaf98e0eaabca5bf0f28a57d12354d4cf.html#aaf98e0eaabca5bf0f28a57d12354d4cf", null ],
+    [ "GetNextPacket", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_aa80f5a93f85531308cb2efb05e85c71d.html#aa80f5a93f85531308cb2efb05e85c71d", null ],
+    [ "GetNextPacket", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a4823053694b00964b2ddfbe6b5736d31.html#a4823053694b00964b2ddfbe6b5736d31", null ],
+    [ "GetPacketData", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_ac2bebe21f45a8de2adf542989fd3c488.html#ac2bebe21f45a8de2adf542989fd3c488", null ],
+    [ "InvalidatePacketCache", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a46c043c3fa9a0f0c871034293d3e734b.html#a46c043c3fa9a0f0c871034293d3e734b", null ],
+    [ "NormalizePacketIndex", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_ae27f234a009e75766313a938cabf2931.html#ae27f234a009e75766313a938cabf2931", null ],
+    [ "PeekNextPacket", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_afc20af070ad50594f1953af8f66916a1.html#afc20af070ad50594f1953af8f66916a1", null ],
+    [ "SeekTo", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_abc017d135791da98bf03a625ca2f98c3.html#abc017d135791da98bf03a625ca2f98c3", null ],
+    [ "_lastPacket", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a822f426a3e01d522f1fae7185ce32c29.html#a822f426a3e01d522f1fae7185ce32c29", null ],
+    [ "_lastPacketPacketIndex", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a4eb191dc1bbbc397cb45bbe55153f9ab.html#a4eb191dc1bbbc397cb45bbe55153f9ab", null ],
+    [ "_lastPacketPageIndex", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a2ba2118fe5bb5ee132a702b334149357.html#a2ba2118fe5bb5ee132a702b334149357", null ],
+    [ "_nextPacketPacketIndex", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a8bbe437e1ed9ca3a3f9585fc36b137d7.html#a8bbe437e1ed9ca3a3f9585fc36b137d7", null ],
+    [ "_nextPacketPageIndex", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a7ceebb21f025e65d5a1b19001de0a7d8.html#a7ceebb21f025e65d5a1b19001de0a7d8", null ],
+    [ "_packetIndex", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a9f959650f67a764046047c67113cc4a0.html#a9f959650f67a764046047c67113cc4a0", null ],
+    [ "_pageIndex", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a63227c0f426b8c2b8f12e40276252052.html#a63227c0f426b8c2b8f12e40276252052", null ],
+    [ "_reader", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_af32d619eccff53fc1d2ca8975f8a1fac.html#af32d619eccff53fc1d2ca8975f8a1fac", null ],
+    [ "k__BackingField", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_afb49eff15ee890a7f293a9a892d57fab.html#afb49eff15ee890a7f293a9a892d57fab", null ],
+    [ "CanSeek", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a9152dad888edc76bd620632fb7da226c.html#a9152dad888edc76bd620632fb7da226c", null ],
+    [ "StreamSerial", "df/d86/classNVorbis_1_1Ogg_1_1PacketProvider_a37fd8a34361901f89cf66645f029152a.html#a37fd8a34361901f89cf66645f029152a", null ]
+];

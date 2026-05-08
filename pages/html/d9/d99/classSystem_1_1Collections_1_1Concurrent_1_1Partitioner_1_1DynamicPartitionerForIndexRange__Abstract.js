@@ -1,0 +1,9 @@
+var classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIndexRange__Abstract =
+[
+    [ "DynamicPartitionerForIndexRange_Abstract", "d9/d99/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIndexRange__Abstract_a107b0ce0bb6e6a65d64f2a9efccf418a.html#a107b0ce0bb6e6a65d64f2a9efccf418a", null ],
+    [ "GetOrderableDynamicPartitions", "d9/d99/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIndexRange__Abstract_acc914c1e4d43e366f151927a21ee3a61.html#acc914c1e4d43e366f151927a21ee3a61", null ],
+    [ "GetOrderableDynamicPartitions_Factory", "d9/d99/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIndexRange__Abstract_a7acbf41c02217000cb5f06a391e4a8e4.html#a7acbf41c02217000cb5f06a391e4a8e4", null ],
+    [ "GetOrderablePartitions", "d9/d99/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIndexRange__Abstract_a11d38e587865c92521affd93a0e3b49b.html#a11d38e587865c92521affd93a0e3b49b", null ],
+    [ "_data", "d9/d99/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIndexRange__Abstract_adb00e8467b62db65a411ddd177e0f695.html#adb00e8467b62db65a411ddd177e0f695", null ],
+    [ "SupportsDynamicPartitions", "d9/d99/classSystem_1_1Collections_1_1Concurrent_1_1Partitioner_1_1DynamicPartitionerForIndexRange__Abstract_a614b2491360fec29eebd4a73caf9f440.html#a614b2491360fec29eebd4a73caf9f440", null ]
+];

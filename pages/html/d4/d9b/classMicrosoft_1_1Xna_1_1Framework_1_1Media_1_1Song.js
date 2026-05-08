@@ -1,0 +1,26 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song =
+[
+    [ "Song", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_af0f9d767a4f87010e027cb30d1a9a243.html#af0f9d767a4f87010e027cb30d1a9a243", null ],
+    [ "Song", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a3fbce72ec3357b9bc595e2166024889b.html#a3fbce72ec3357b9bc595e2166024889b", null ],
+    [ "~Song", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a5ff8cf41ff60d68b1ebf093717785693.html#a5ff8cf41ff60d68b1ebf093717785693", null ],
+    [ "Dispose", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a11c8cae9b279d536bc84637d36e04596.html#a11c8cae9b279d536bc84637d36e04596", null ],
+    [ "Equals", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a4ea3fc9266f874721d24927ccc087980.html#a4ea3fc9266f874721d24927ccc087980", null ],
+    [ "Equals", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a2daa7d89a6fa5f7ba36ef1291b739166.html#a2daa7d89a6fa5f7ba36ef1291b739166", null ],
+    [ "FromUri", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a2466375f69fc57ebd429fa60d410b98a.html#a2466375f69fc57ebd429fa60d410b98a", null ],
+    [ "GetHashCode", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a36df827b4816078f35a4bad2718f3ae3.html#a36df827b4816078f35a4bad2718f3ae3", null ],
+    [ "operator!=", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_abf4899d87f60594ada79e9cdcb8c90bf.html#abf4899d87f60594ada79e9cdcb8c90bf", null ],
+    [ "operator==", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a10c40b68e6dac8f5ebd8c95a678476f1.html#a10c40b68e6dac8f5ebd8c95a678476f1", null ],
+    [ "handle", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a288deace11ac9a3f9807d3d16cb407dd.html#a288deace11ac9a3f9807d3d16cb407dd", null ],
+    [ "k__BackingField", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a4ffc8457df66acf12577a6101bdeb8f9.html#a4ffc8457df66acf12577a6101bdeb8f9", null ],
+    [ "k__BackingField", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a75489013d6b2d82627f802cbd080391d.html#a75489013d6b2d82627f802cbd080391d", null ],
+    [ "k__BackingField", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a26c5a98b1c60686c5319db99f0f1402d.html#a26c5a98b1c60686c5319db99f0f1402d", null ],
+    [ "k__BackingField", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_aeb479bd251f366ce7e8f99caad51dbde.html#aeb479bd251f366ce7e8f99caad51dbde", null ],
+    [ "Duration", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a39f2195e9db2df738d6bb79a32f37b8e.html#a39f2195e9db2df738d6bb79a32f37b8e", null ],
+    [ "IsDisposed", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a087a1b030c495ff7d6a5686341e1de62.html#a087a1b030c495ff7d6a5686341e1de62", null ],
+    [ "IsProtected", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_afcd401922612cf5b362d5f6a248503cb.html#afcd401922612cf5b362d5f6a248503cb", null ],
+    [ "IsRated", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a830d9dcbdf929b471ef7d3fcc67c013b.html#a830d9dcbdf929b471ef7d3fcc67c013b", null ],
+    [ "Name", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_adfa6aa2fc09397a2a5420bbf69be6900.html#adfa6aa2fc09397a2a5420bbf69be6900", null ],
+    [ "PlayCount", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a1d50df7639665358f13df20fefc318f3.html#a1d50df7639665358f13df20fefc318f3", null ],
+    [ "Rating", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_a4eccc9be24643b7951da369062c7cb4b.html#a4eccc9be24643b7951da369062c7cb4b", null ],
+    [ "TrackNumber", "d4/d9b/classMicrosoft_1_1Xna_1_1Framework_1_1Media_1_1Song_afb2d459e40a13e016bcf3707f6f3f5d1.html#afb2d459e40a13e016bcf3707f6f3f5d1", null ]
+];

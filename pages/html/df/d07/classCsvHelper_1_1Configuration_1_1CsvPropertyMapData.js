@@ -1,0 +1,28 @@
+var classCsvHelper_1_1Configuration_1_1CsvPropertyMapData =
+[
+    [ "CsvPropertyMapData", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a1a1424683bea80f373e3ea80ae6e39c7.html#a1a1424683bea80f373e3ea80ae6e39c7", null ],
+    [ "defaultValue", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a77d34f2e73ad23e07eb38ee5ecceadf8.html#a77d34f2e73ad23e07eb38ee5ecceadf8", null ],
+    [ "index", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a6dfbe771775d4c0d785847b7f0d2299c.html#a6dfbe771775d4c0d785847b7f0d2299c", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a0684e8ec482e4981c63825b67d42b9a3.html#a0684e8ec482e4981c63825b67d42b9a3", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a1a40169a7cb020e9f92484c46e66cbeb.html#a1a40169a7cb020e9f92484c46e66cbeb", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_aa7999d1877910357a9f5f03ca3a235b1.html#aa7999d1877910357a9f5f03ca3a235b1", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a58e5ef67ca3e13cc01a339abe5d96571.html#a58e5ef67ca3e13cc01a339abe5d96571", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a41eeae1f57172c850736dc1a5647c583.html#a41eeae1f57172c850736dc1a5647c583", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a806014f36ff99001711ab6c8da4cc3ad.html#a806014f36ff99001711ab6c8da4cc3ad", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_aec1d1c0815de5219d2f1bc4e612a5763.html#aec1d1c0815de5219d2f1bc4e612a5763", null ],
+    [ "k__BackingField", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a062cc23e1d2293bbf81de26a6eb44f3c.html#a062cc23e1d2293bbf81de26a6eb44f3c", null ],
+    [ "names", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_acb636e590836496473e867897ab79d97.html#acb636e590836496473e867897ab79d97", null ],
+    [ "typeConverterOptions", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a0ca8b71605ad4490ea143c24c8adb1f8.html#a0ca8b71605ad4490ea143c24c8adb1f8", null ],
+    [ "ConvertExpression", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a1ae48223a4f425b7b315c6ae3235b4c1.html#a1ae48223a4f425b7b315c6ae3235b4c1", null ],
+    [ "Default", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a3740c3b2f1e6e74349ac5fdf1ec0fce8.html#a3740c3b2f1e6e74349ac5fdf1ec0fce8", null ],
+    [ "Ignore", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a98ca8f9b7cc478644de267d44c6647b7.html#a98ca8f9b7cc478644de267d44c6647b7", null ],
+    [ "Index", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a14a0ca66dd60cf7685ac511906b04927.html#a14a0ca66dd60cf7685ac511906b04927", null ],
+    [ "IsDefaultSet", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a3b9322c5f0b85df6a3d7662265c75151.html#a3b9322c5f0b85df6a3d7662265c75151", null ],
+    [ "IsIndexSet", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a6af03961e4cab7536aca530902fe4e43.html#a6af03961e4cab7536aca530902fe4e43", null ],
+    [ "IsNameSet", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a4edc08c491e692d4b187c4e436a0a216.html#a4edc08c491e692d4b187c4e436a0a216", null ],
+    [ "NameIndex", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_acf816322908241de17cad1d9a66add43.html#acf816322908241de17cad1d9a66add43", null ],
+    [ "Names", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_ad37a07fbc2781cdb1dce5cb6fcf953d9.html#ad37a07fbc2781cdb1dce5cb6fcf953d9", null ],
+    [ "Property", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_ad8f34e4f5081de744efc703640e3b7d2.html#ad8f34e4f5081de744efc703640e3b7d2", null ],
+    [ "TypeConverter", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_a5d282b88e912b3909072dff40a205f8b.html#a5d282b88e912b3909072dff40a205f8b", null ],
+    [ "TypeConverterOptions", "df/d07/classCsvHelper_1_1Configuration_1_1CsvPropertyMapData_ad0d40cffbecb6c5e43d6aae27c97a214.html#ad0d40cffbecb6c5e43d6aae27c97a214", null ]
+];

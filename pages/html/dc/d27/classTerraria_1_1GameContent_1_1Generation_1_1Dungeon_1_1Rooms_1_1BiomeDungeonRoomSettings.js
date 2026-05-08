@@ -1,0 +1,5 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1BiomeDungeonRoomSettings =
+[
+    [ "BiomeDungeonRoomSettings", "dc/d27/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1BiomeDungeonRoomSettings_a76342b48c1d453b665aa93f739934001.html#a76342b48c1d453b665aa93f739934001", null ],
+    [ "GetBoundingRadius", "dc/d27/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1BiomeDungeonRoomSettings_ae8e8fa225a6c7c6f55dbb5487087dd11.html#ae8e8fa225a6c7c6f55dbb5487087dd11", null ]
+];

@@ -1,0 +1,26 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow =
+[
+    [ "GameWindow", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_ae15a289c9eb52b84859e165748ca833c.html#ae15a289c9eb52b84859e165748ca833c", null ],
+    [ "BeginScreenDeviceChange", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a3213a4dff832acb8a86513a6656d3fde.html#a3213a4dff832acb8a86513a6656d3fde", null ],
+    [ "EndScreenDeviceChange", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a118eaf902e29598af0acae574dfc9aac.html#a118eaf902e29598af0acae574dfc9aac", null ],
+    [ "EndScreenDeviceChange", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a73c8a5e0e55e05a11a9f465c96a1f70a.html#a73c8a5e0e55e05a11a9f465c96a1f70a", null ],
+    [ "OnActivated", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a5ace20283f1ce0b46a7aae050428d6ef.html#a5ace20283f1ce0b46a7aae050428d6ef", null ],
+    [ "OnClientSizeChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_afd22e1105c8eb2652d02a4b25fc51f97.html#afd22e1105c8eb2652d02a4b25fc51f97", null ],
+    [ "OnDeactivated", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a4fd69cfefb9f92348386ae8516bbc518.html#a4fd69cfefb9f92348386ae8516bbc518", null ],
+    [ "OnOrientationChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a286f6d49bb9eec8e127801760f9d8005.html#a286f6d49bb9eec8e127801760f9d8005", null ],
+    [ "OnPaint", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_af8334f21c3a342465b313828471e16c8.html#af8334f21c3a342465b313828471e16c8", null ],
+    [ "OnScreenDeviceNameChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_ab72edbe493c7362da9eb269efe0cdbb6.html#ab72edbe493c7362da9eb269efe0cdbb6", null ],
+    [ "SetSupportedOrientations", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a46912670c43f5e5b1d1918a99342ad6e.html#a46912670c43f5e5b1d1918a99342ad6e", null ],
+    [ "SetTitle", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a904652977a064dc330623adecf28987a.html#a904652977a064dc330623adecf28987a", null ],
+    [ "_title", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a87432ccebc2d2421e1c95fbb540d4cf2.html#a87432ccebc2d2421e1c95fbb540d4cf2", null ],
+    [ "AllowUserResizing", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a3a52c18b42184ddf573ca584be0f6045.html#a3a52c18b42184ddf573ca584be0f6045", null ],
+    [ "ClientBounds", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a144976b4594343da2e9c407edbd61a0a.html#a144976b4594343da2e9c407edbd61a0a", null ],
+    [ "ClientSizeChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a5789e10254dbf9cdbd0d89e2655597fa.html#a5789e10254dbf9cdbd0d89e2655597fa", null ],
+    [ "CurrentOrientation", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a4bef2f10c7f6e9396b9678fd65b00972.html#a4bef2f10c7f6e9396b9678fd65b00972", null ],
+    [ "Handle", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_acdcd2ae98b037d76c3cd1c4dab770ca5.html#acdcd2ae98b037d76c3cd1c4dab770ca5", null ],
+    [ "IsBorderlessEXT", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a2699f56f6f9369595411c872ed6ba1cb.html#a2699f56f6f9369595411c872ed6ba1cb", null ],
+    [ "OrientationChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a6fe2a7461204f8fd3458c82fe9926b3d.html#a6fe2a7461204f8fd3458c82fe9926b3d", null ],
+    [ "ScreenDeviceName", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a6801211569f430798ef910b20611dab2.html#a6801211569f430798ef910b20611dab2", null ],
+    [ "ScreenDeviceNameChanged", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_aca1555e50067fa6c99e4f267f7edb8d6.html#aca1555e50067fa6c99e4f267f7edb8d6", null ],
+    [ "Title", "db/d5a/classMicrosoft_1_1Xna_1_1Framework_1_1GameWindow_a6bc8d6487c96d42c75846b315ed82a70.html#a6bc8d6487c96d42c75846b315ed82a70", null ]
+];

@@ -1,0 +1,25 @@
+var classTerraria_1_1RecipeGroup =
+[
+    [ "RecipeGroup", "d7/d5b/classTerraria_1_1RecipeGroup_a7cc24bf20de199acc37f6e11859016f1.html#a7cc24bf20de199acc37f6e11859016f1", null ],
+    [ "RecipeGroup", "d7/d5b/classTerraria_1_1RecipeGroup_ae20cc1188dd12167c313e00a2d095722.html#ae20cc1188dd12167c313e00a2d095722", null ],
+    [ "RecipeGroup", "d7/d5b/classTerraria_1_1RecipeGroup_a00fe06f6786a7ea431cab83390cb2dc5.html#a00fe06f6786a7ea431cab83390cb2dc5", null ],
+    [ "Add", "d7/d5b/classTerraria_1_1RecipeGroup_ac6c1cceb19381a6d30aae6eb36dd0e4a.html#ac6c1cceb19381a6d30aae6eb36dd0e4a", null ],
+    [ "Contains", "d7/d5b/classTerraria_1_1RecipeGroup_a5d1c0f3c62d7c77611fc9d2aea7470c7.html#a5d1c0f3c62d7c77611fc9d2aea7470c7", null ],
+    [ "CountUsableItems", "d7/d5b/classTerraria_1_1RecipeGroup_a237e481e96827db7a82bd480abd41a51.html#a237e481e96827db7a82bd480abd41a51", null ],
+    [ "GetGroupFakeItemId", "d7/d5b/classTerraria_1_1RecipeGroup_afb7a64bbbb6c16bc65995a3ed13f950d.html#afb7a64bbbb6c16bc65995a3ed13f950d", null ],
+    [ "GetPlaceholderItemType", "d7/d5b/classTerraria_1_1RecipeGroup_add53545c2e7f3d907c516d61d91de5e7.html#add53545c2e7f3d907c516d61d91de5e7", null ],
+    [ "Register", "d7/d5b/classTerraria_1_1RecipeGroup_ad71e9a464b677ced978fc12263e67f45.html#ad71e9a464b677ced978fc12263e67f45", null ],
+    [ "SortDecraftingEntries", "d7/d5b/classTerraria_1_1RecipeGroup_a0bae649ade5c387e6c47f026fcdbf7a5.html#a0bae649ade5c387e6c47f026fcdbf7a5", null ],
+    [ "ToString", "d7/d5b/classTerraria_1_1RecipeGroup_a009fb5917948e357dcc2472799c50175.html#a009fb5917948e357dcc2472799c50175", null ],
+    [ "WithDefaultCombineFormat", "d7/d5b/classTerraria_1_1RecipeGroup_aec48cab9191b462578a3b7fab4c648ba.html#aec48cab9191b462578a3b7fab4c648ba", null ],
+    [ "DecraftItemId", "d7/d5b/classTerraria_1_1RecipeGroup_a8e526d88e7881536045c3924ad03714e.html#a8e526d88e7881536045c3924ad03714e", null ],
+    [ "DefaultCombineFormat", "d7/d5b/classTerraria_1_1RecipeGroup_a94ece0d16c8728a642f84eeadc8cb66d.html#a94ece0d16c8728a642f84eeadc8cb66d", null ],
+    [ "FakeItemIdOffset", "d7/d5b/classTerraria_1_1RecipeGroup_a68cc0cf0f7b011e748c724182a8fdcd6.html#a68cc0cf0f7b011e748c724182a8fdcd6", null ],
+    [ "GetText", "d7/d5b/classTerraria_1_1RecipeGroup_ad721661b0059b3e79f53cc24de040316.html#ad721661b0059b3e79f53cc24de040316", null ],
+    [ "Items", "d7/d5b/classTerraria_1_1RecipeGroup_af8192c0d4fd445168345c601d5c12c18.html#af8192c0d4fd445168345c601d5c12c18", null ],
+    [ "k__BackingField", "d7/d5b/classTerraria_1_1RecipeGroup_a8afa8d877414732508e6c047b5e858be.html#a8afa8d877414732508e6c047b5e858be", null ],
+    [ "nextRecipeGroupIndex", "d7/d5b/classTerraria_1_1RecipeGroup_a0371ff913d4ee51e47191ef017bb181c.html#a0371ff913d4ee51e47191ef017bb181c", null ],
+    [ "recipeGroups", "d7/d5b/classTerraria_1_1RecipeGroup_a9ed39636f30dc0473197fa386ecf036c.html#a9ed39636f30dc0473197fa386ecf036c", null ],
+    [ "ValidItems", "d7/d5b/classTerraria_1_1RecipeGroup_a8337619685e72018b374b381c92da16a.html#a8337619685e72018b374b381c92da16a", null ],
+    [ "RegisteredId", "d7/d5b/classTerraria_1_1RecipeGroup_a5a9d56810eb96ff8a67863e621552193.html#a5a9d56810eb96ff8a67863e621552193", null ]
+];

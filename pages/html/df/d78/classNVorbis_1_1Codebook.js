@@ -1,0 +1,25 @@
+var classNVorbis_1_1Codebook =
+[
+    [ "FastRange", "d8/db3/classNVorbis_1_1Codebook_1_1FastRange.html", "d8/db3/classNVorbis_1_1Codebook_1_1FastRange" ],
+    [ "Codebook", "df/d78/classNVorbis_1_1Codebook_a302ba7c677583f16f9c125f58a68d9b5.html#a302ba7c677583f16f9c125f58a68d9b5", null ],
+    [ "AddEntry", "df/d78/classNVorbis_1_1Codebook_a3cbdea594a45f60fe58dc4b1f62742e9.html#a3cbdea594a45f60fe58dc4b1f62742e9", null ],
+    [ "ComputeCodewords", "df/d78/classNVorbis_1_1Codebook_a72d11de6d7e25f8b091b9d6d4467f85e.html#a72d11de6d7e25f8b091b9d6d4467f85e", null ],
+    [ "DecodeScalar", "df/d78/classNVorbis_1_1Codebook_ad6dfe6523748188cce266c50fa016fe3.html#ad6dfe6523748188cce266c50fa016fe3", null ],
+    [ "Init", "df/d78/classNVorbis_1_1Codebook_af30631f5c20eba837214571255f21a50.html#af30631f5c20eba837214571255f21a50", null ],
+    [ "InitLookupTable", "df/d78/classNVorbis_1_1Codebook_a6f97ab7671c2c9a9c939e3ebeec81781.html#a6f97ab7671c2c9a9c939e3ebeec81781", null ],
+    [ "InitTree", "df/d78/classNVorbis_1_1Codebook_a568d264b425342e8167d8726c33a6d39.html#a568d264b425342e8167d8726c33a6d39", null ],
+    [ "lookup1_values", "df/d78/classNVorbis_1_1Codebook_a25cf970241279d136b4353ad66e91553.html#a25cf970241279d136b4353ad66e91553", null ],
+    [ "_lengths", "df/d78/classNVorbis_1_1Codebook_a03966a33184fabe8b9355b432b77a2b4.html#a03966a33184fabe8b9355b432b77a2b4", null ],
+    [ "_lookupTable", "df/d78/classNVorbis_1_1Codebook_a351f933c1f1ec78975da7d4dc9057f53.html#a351f933c1f1ec78975da7d4dc9057f53", null ],
+    [ "_maxBits", "df/d78/classNVorbis_1_1Codebook_a775d16d4dca86b19db9a871662e8eb0d.html#a775d16d4dca86b19db9a871662e8eb0d", null ],
+    [ "_overflowList", "df/d78/classNVorbis_1_1Codebook_ae7df0a4722a97e2939718caae22ff3ed.html#ae7df0a4722a97e2939718caae22ff3ed", null ],
+    [ "_prefixBitLength", "df/d78/classNVorbis_1_1Codebook_a9700131e409fb84315978db39963b59a.html#a9700131e409fb84315978db39963b59a", null ],
+    [ "_prefixList", "df/d78/classNVorbis_1_1Codebook_a33e32cc833dd1e83bba519101d71c20b.html#a33e32cc833dd1e83bba519101d71c20b", null ],
+    [ "k__BackingField", "df/d78/classNVorbis_1_1Codebook_afd705f1d244534b41f7e64f43502d098.html#afd705f1d244534b41f7e64f43502d098", null ],
+    [ "k__BackingField", "df/d78/classNVorbis_1_1Codebook_afc29a1fb207de1ac560c9e1c2c187f25.html#afc29a1fb207de1ac560c9e1c2c187f25", null ],
+    [ "k__BackingField", "df/d78/classNVorbis_1_1Codebook_afea6560d5a3257798dc0751bf4e18388.html#afea6560d5a3257798dc0751bf4e18388", null ],
+    [ "Dimensions", "df/d78/classNVorbis_1_1Codebook_a81a3bf29fc5d5d08a0bcf2b1e0edab77.html#a81a3bf29fc5d5d08a0bcf2b1e0edab77", null ],
+    [ "Entries", "df/d78/classNVorbis_1_1Codebook_aa201b91c7a70a1576c25610aa9a19de4.html#aa201b91c7a70a1576c25610aa9a19de4", null ],
+    [ "MapType", "df/d78/classNVorbis_1_1Codebook_a76ed7516bb7ee8118b28107d30987abe.html#a76ed7516bb7ee8118b28107d30987abe", null ],
+    [ "this[int entry, int dim]", "df/d78/classNVorbis_1_1Codebook_a9b0faabcef140e1526ea530a2867fedc.html#a9b0faabcef140e1526ea530a2867fedc", null ]
+];

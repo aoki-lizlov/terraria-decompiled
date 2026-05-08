@@ -1,0 +1,7 @@
+var classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1RegularDungeonRoomSettings =
+[
+    [ "RegularDungeonRoomSettings", "d3/df5/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1RegularDungeonRoomSettings_a16f734e23bded042320c99bc33363030.html#a16f734e23bded042320c99bc33363030", null ],
+    [ "GetBoundingRadius", "d3/df5/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1RegularDungeonRoomSettings_ad500ff4fff693f3aa25ae9f8b9c63d03.html#ad500ff4fff693f3aa25ae9f8b9c63d03", null ],
+    [ "OverrideInnerBoundsSize", "d3/df5/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1RegularDungeonRoomSettings_af27bb45b8760f7310da8ab5c77a810ad.html#af27bb45b8760f7310da8ab5c77a810ad", null ],
+    [ "OverrideOuterBoundsSize", "d3/df5/classTerraria_1_1GameContent_1_1Generation_1_1Dungeon_1_1Rooms_1_1RegularDungeonRoomSettings_a75394b2938f936372dc4efe063c9b339.html#a75394b2938f936372dc4efe063c9b339", null ]
+];

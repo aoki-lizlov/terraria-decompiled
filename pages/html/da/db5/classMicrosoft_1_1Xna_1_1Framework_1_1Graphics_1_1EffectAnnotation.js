@@ -1,0 +1,26 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation =
+[
+    [ "EffectAnnotation", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a615f0866fc99d0080224b22cff114ed3.html#a615f0866fc99d0080224b22cff114ed3", null ],
+    [ "GetValueBoolean", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a71ff6ee5161beaa0a3defa114a80f830.html#a71ff6ee5161beaa0a3defa114a80f830", null ],
+    [ "GetValueInt32", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_abd4c6b0330186b2e1ae0b4c6e742d138.html#abd4c6b0330186b2e1ae0b4c6e742d138", null ],
+    [ "GetValueMatrix", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a480de0e1154b74b65cc2294e11ad0b2a.html#a480de0e1154b74b65cc2294e11ad0b2a", null ],
+    [ "GetValueSingle", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a44ac28943f70436ec65233bb4151f1c1.html#a44ac28943f70436ec65233bb4151f1c1", null ],
+    [ "GetValueString", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a47e675f62e974ccf75d77e851bada3c2.html#a47e675f62e974ccf75d77e851bada3c2", null ],
+    [ "GetValueVector2", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a383e6bc071f8ae442b750388ab47fc2f.html#a383e6bc071f8ae442b750388ab47fc2f", null ],
+    [ "GetValueVector3", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a66a41ece0190484a8b1dfc740f8861e6.html#a66a41ece0190484a8b1dfc740f8861e6", null ],
+    [ "GetValueVector4", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a9829e9e579791647a8d7af5929dcdfb1.html#a9829e9e579791647a8d7af5929dcdfb1", null ],
+    [ "cachedString", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_abf440f8a7f130078ed21d5df98f7bdb1.html#abf440f8a7f130078ed21d5df98f7bdb1", null ],
+    [ "k__BackingField", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a06d5986173e65e9112970c3b5df46c9c.html#a06d5986173e65e9112970c3b5df46c9c", null ],
+    [ "k__BackingField", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a20b7a2c170a77fb2431d324a5a6b44b2.html#a20b7a2c170a77fb2431d324a5a6b44b2", null ],
+    [ "k__BackingField", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_aee16e5804cfe7b9fb95ab11b32f88a83.html#aee16e5804cfe7b9fb95ab11b32f88a83", null ],
+    [ "k__BackingField", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a69a2a2d51aafd8dd763414bdc46b06bf.html#a69a2a2d51aafd8dd763414bdc46b06bf", null ],
+    [ "k__BackingField", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_ad8b04c7ae4a46a7afea8c5f518da3854.html#ad8b04c7ae4a46a7afea8c5f518da3854", null ],
+    [ "k__BackingField", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_ac5505097990be56f64f9767fb35d2ce5.html#ac5505097990be56f64f9767fb35d2ce5", null ],
+    [ "values", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a96b165d0fe90a3d7a295e32258e1c19f.html#a96b165d0fe90a3d7a295e32258e1c19f", null ],
+    [ "ColumnCount", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a44ef79915ead1663b492850c3d7889a7.html#a44ef79915ead1663b492850c3d7889a7", null ],
+    [ "Name", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_acf4b1f505c5cfc589d6cbd03989d7add.html#acf4b1f505c5cfc589d6cbd03989d7add", null ],
+    [ "ParameterClass", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a0e180dff931780ef90c17c0c60925c5a.html#a0e180dff931780ef90c17c0c60925c5a", null ],
+    [ "ParameterType", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_ad8f2a00cb8db94779ef23d07be4f5185.html#ad8f2a00cb8db94779ef23d07be4f5185", null ],
+    [ "RowCount", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a19fcfa56b6e545ad920504da2ec85515.html#a19fcfa56b6e545ad920504da2ec85515", null ],
+    [ "Semantic", "da/db5/classMicrosoft_1_1Xna_1_1Framework_1_1Graphics_1_1EffectAnnotation_a64b3154a7cabaa781d45b7c1b89b8025.html#a64b3154a7cabaa781d45b7c1b89b8025", null ]
+];

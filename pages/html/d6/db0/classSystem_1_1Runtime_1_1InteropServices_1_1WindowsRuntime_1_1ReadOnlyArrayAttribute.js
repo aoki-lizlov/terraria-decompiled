@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1ReadOnlyArrayAttribute =
+[
+    [ "ReadOnlyArrayAttribute", "d6/db0/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1ReadOnlyArrayAttribute_a17db1e576de48cdb6441922607f942bd.html#a17db1e576de48cdb6441922607f942bd", null ]
+];

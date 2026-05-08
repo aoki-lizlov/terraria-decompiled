@@ -1,0 +1,25 @@
+var classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel =
+[
+    [ "NPCChatPanel", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_aad623d765680abe61f5296041b2b65bc.html#aad623d765680abe61f5296041b2b65bc", null ],
+    [ "CanHoldConversation", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a4f05726e079c7dc025a618abe21f38d9.html#a4f05726e079c7dc025a618abe21f38d9", null ],
+    [ "ClearNPCChatText", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_aa3b7bee0ca700ba7c3cabb0894971bb8.html#aa3b7bee0ca700ba7c3cabb0894971bb8", null ],
+    [ "Close", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a3e9cadd276bccdd8d5caf42be575ab49.html#a3e9cadd276bccdd8d5caf42be575ab49", null ],
+    [ "Draw", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a436d6ef09cfe21ef677c5c0ae19aded3.html#a436d6ef09cfe21ef677c5c0ae19aded3", null ],
+    [ "DrawButtons", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a7ea2b8dafa4b19c38c60528cd00fc830.html#a7ea2b8dafa4b19c38c60528cd00fc830", null ],
+    [ "DrawText", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a78d30278770c7506e7c6a870e876688b.html#a78d30278770c7506e7c6a870e876688b", null ],
+    [ "OverrideChatTextWithShenanigans", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_aa49259101d3f579c803bb8d486e5a080.html#aa49259101d3f579c803bb8d486e5a080", null ],
+    [ "PrepareInteractions", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a4642115ae5a06926906da2c233e72719.html#a4642115ae5a06926906da2c233e72719", null ],
+    [ "PrepareText", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_ac43670d11504128f55ae34649d50f139.html#ac43670d11504128f55ae34649d50f139", null ],
+    [ "PrepareVirtualKeyboard", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a402be53c2ae97a4c5b64f6299e8899c2.html#a402be53c2ae97a4c5b64f6299e8899c2", null ],
+    [ "_interactions", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_adf731b286a0bc61b2452a38ee649b382.html#adf731b286a0bc61b2452a38ee649b382", null ],
+    [ "_lastHovered", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_abdb5cfab58010983b3808f7a7a3354f5.html#abdb5cfab58010983b3808f7a7a3354f5", null ],
+    [ "_neededInteractionLines", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_ad5610b4572db4b482506476943ba2e17.html#ad5610b4572db4b482506476943ba2e17", null ],
+    [ "_textDisplayCache", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_aca776f5ca9faa7a945701a915989f559.html#aca776f5ca9faa7a945701a915989f559", null ],
+    [ "AllowedInteractionsPerLine", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_ab0c97a2dec6d338afc01438a610351a5.html#ab0c97a2dec6d338afc01438a610351a5", null ],
+    [ "textBlinkerCount", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_ab75705594413cc1830703dce15d8014f.html#ab75705594413cc1830703dce15d8014f", null ],
+    [ "textBlinkerState", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a3f578191cf1b84ce644bc9742a613b50.html#a3f578191cf1b84ce644bc9742a613b50", null ],
+    [ "allowRichText", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a762ba2816305d6856c06515d5e8f5ec9.html#a762ba2816305d6856c06515d5e8f5ec9", null ],
+    [ "InVirtualKeyboard", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_aeb84dfcf069b965055257b26981eb45d.html#aeb84dfcf069b965055257b26981eb45d", null ],
+    [ "LocalPlayer", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_a9edcdbeebb3d49f5ac45adad4c6bb86d.html#a9edcdbeebb3d49f5ac45adad4c6bb86d", null ],
+    [ "mouseTextColor", "d9/de1/classTerraria_1_1GameContent_1_1UI_1_1NPCChatPanel_ae1c70a9f37520fbdac095f8b8db5d971.html#ae1c70a9f37520fbdac095f8b8db5d971", null ]
+];

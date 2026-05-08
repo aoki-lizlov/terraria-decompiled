@@ -1,0 +1,28 @@
+var classSteamworks_1_1SteamHTTP =
+[
+    [ "CreateCookieContainer", "d7/df4/classSteamworks_1_1SteamHTTP_a24f153907e7b4364a4950769466f6d1d.html#a24f153907e7b4364a4950769466f6d1d", null ],
+    [ "CreateHTTPRequest", "d7/df4/classSteamworks_1_1SteamHTTP_ad47cabf841a9a11547e44cca77184b42.html#ad47cabf841a9a11547e44cca77184b42", null ],
+    [ "DeferHTTPRequest", "d7/df4/classSteamworks_1_1SteamHTTP_aedef705dc5ee855036aab797ca38687a.html#aedef705dc5ee855036aab797ca38687a", null ],
+    [ "GetHTTPDownloadProgressPct", "d7/df4/classSteamworks_1_1SteamHTTP_ae547a575f3e83dea687e1dc2c29334e2.html#ae547a575f3e83dea687e1dc2c29334e2", null ],
+    [ "GetHTTPRequestWasTimedOut", "d7/df4/classSteamworks_1_1SteamHTTP_a922ad14fe1c052e100153b3a6a504303.html#a922ad14fe1c052e100153b3a6a504303", null ],
+    [ "GetHTTPResponseBodyData", "d7/df4/classSteamworks_1_1SteamHTTP_acc04a1d44b89263524f987574be7030e.html#acc04a1d44b89263524f987574be7030e", null ],
+    [ "GetHTTPResponseBodySize", "d7/df4/classSteamworks_1_1SteamHTTP_a29acd708e5887fd9a2d42226fea5c899.html#a29acd708e5887fd9a2d42226fea5c899", null ],
+    [ "GetHTTPResponseHeaderSize", "d7/df4/classSteamworks_1_1SteamHTTP_a9af5a5970ae83df850322a95d303d82f.html#a9af5a5970ae83df850322a95d303d82f", null ],
+    [ "GetHTTPResponseHeaderValue", "d7/df4/classSteamworks_1_1SteamHTTP_a34dff4c026c4dbeea62795575e287eca.html#a34dff4c026c4dbeea62795575e287eca", null ],
+    [ "GetHTTPStreamingResponseBodyData", "d7/df4/classSteamworks_1_1SteamHTTP_a52289546d246437d7231e340e9aa5833.html#a52289546d246437d7231e340e9aa5833", null ],
+    [ "PrioritizeHTTPRequest", "d7/df4/classSteamworks_1_1SteamHTTP_aecae366926e4200320d25ed38dc6058e.html#aecae366926e4200320d25ed38dc6058e", null ],
+    [ "ReleaseCookieContainer", "d7/df4/classSteamworks_1_1SteamHTTP_acb9bc135cef2043ba9ad94819f2b26f9.html#acb9bc135cef2043ba9ad94819f2b26f9", null ],
+    [ "ReleaseHTTPRequest", "d7/df4/classSteamworks_1_1SteamHTTP_aa85c5a9be2e2cfa95aa1c0a4804db000.html#aa85c5a9be2e2cfa95aa1c0a4804db000", null ],
+    [ "SendHTTPRequest", "d7/df4/classSteamworks_1_1SteamHTTP_ada18059efcb453d71a31a1c9a1f0eb12.html#ada18059efcb453d71a31a1c9a1f0eb12", null ],
+    [ "SendHTTPRequestAndStreamResponse", "d7/df4/classSteamworks_1_1SteamHTTP_ad88458b82a2a7067c752ccd8960e1eb2.html#ad88458b82a2a7067c752ccd8960e1eb2", null ],
+    [ "SetCookie", "d7/df4/classSteamworks_1_1SteamHTTP_ae19bab8f8725949a2b8258b05aa34c95.html#ae19bab8f8725949a2b8258b05aa34c95", null ],
+    [ "SetHTTPRequestAbsoluteTimeoutMS", "d7/df4/classSteamworks_1_1SteamHTTP_a7fd31ae2239c6498ee27869202e1e105.html#a7fd31ae2239c6498ee27869202e1e105", null ],
+    [ "SetHTTPRequestContextValue", "d7/df4/classSteamworks_1_1SteamHTTP_a7b817801384c82994f0b08fbcff654fb.html#a7b817801384c82994f0b08fbcff654fb", null ],
+    [ "SetHTTPRequestCookieContainer", "d7/df4/classSteamworks_1_1SteamHTTP_a1fa05372d558633bbe2a20a6f5e431ac.html#a1fa05372d558633bbe2a20a6f5e431ac", null ],
+    [ "SetHTTPRequestGetOrPostParameter", "d7/df4/classSteamworks_1_1SteamHTTP_a7688b870ebd2dcf4c833a7e8ac31b22b.html#a7688b870ebd2dcf4c833a7e8ac31b22b", null ],
+    [ "SetHTTPRequestHeaderValue", "d7/df4/classSteamworks_1_1SteamHTTP_a914d9a69b5cbc73c579bf4bdab7a57a9.html#a914d9a69b5cbc73c579bf4bdab7a57a9", null ],
+    [ "SetHTTPRequestNetworkActivityTimeout", "d7/df4/classSteamworks_1_1SteamHTTP_a7f08290725d26b894a9667c8f15a11ba.html#a7f08290725d26b894a9667c8f15a11ba", null ],
+    [ "SetHTTPRequestRawPostBody", "d7/df4/classSteamworks_1_1SteamHTTP_ab6e092a846bb3c22c76107f671caa546.html#ab6e092a846bb3c22c76107f671caa546", null ],
+    [ "SetHTTPRequestRequiresVerifiedCertificate", "d7/df4/classSteamworks_1_1SteamHTTP_acd8e20f996d64eb3f6794f3897c13ee0.html#acd8e20f996d64eb3f6794f3897c13ee0", null ],
+    [ "SetHTTPRequestUserAgentInfo", "d7/df4/classSteamworks_1_1SteamHTTP_ae85df79168d4e0a26c70c48efd7137c1.html#ae85df79168d4e0a26c70c48efd7137c1", null ]
+];

@@ -1,0 +1,9 @@
+var classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl =
+[
+    [ "ManagedEventRegistrationImpl", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl_a2b1fdb6b9a56c3308f3037e2ef39146a.html#a2b1fdb6b9a56c3308f3037e2ef39146a", null ],
+    [ "AddEventHandler< T >", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl_af8f9ce666d2aca5a276c28608485fee9.html#af8f9ce666d2aca5a276c28608485fee9", null ],
+    [ "GetEventRegistrationTokenTable", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl_a5d955c3de088242648e1a94e6037c3fc.html#a5d955c3de088242648e1a94e6037c3fc", null ],
+    [ "RemoveAllEventHandlers", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl_a208cd968233cdb116fedfd4181af06bc.html#a208cd968233cdb116fedfd4181af06bc", null ],
+    [ "RemoveEventHandler< T >", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl_a6f12e9ae0463c4b17b111619578df0c0.html#a6f12e9ae0463c4b17b111619578df0c0", null ],
+    [ "s_eventRegistrations", "de/ddc/classSystem_1_1Runtime_1_1InteropServices_1_1WindowsRuntime_1_1WindowsRuntimeMarshal_1_1ManagedEventRegistrationImpl_a5acf45abe1789e1de0d0fdd47fc28f1f.html#a5acf45abe1789e1de0d0fdd47fc28f1f", null ]
+];

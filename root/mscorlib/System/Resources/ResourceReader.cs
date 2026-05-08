@@ -1,0 +1,1140 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
+using System.Runtime.InteropServices;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Security;
+using System.Text;
+
+namespace System.Resources
+{
+	// Token: 0x0200083C RID: 2108
+	[ComVisible(true)]
+	public sealed class ResourceReader : IResourceReader, IEnumerable, IDisposable
+	{
+		// Token: 0x06004750 RID: 18256 RVA: 0x000E9FB8 File Offset: 0x000E81B8
+		[SecuritySafeCritical]
+		public ResourceReader(string fileName)
+		{
+			this._resCache = new Dictionary<string, ResourceLocator>(FastResourceComparer.Default);
+			this._store = new BinaryReader(new FileStream(fileName, FileMode.Open, FileAccess.Read, FileShare.Read, 4096, FileOptions.RandomAccess, Path.GetFileName(fileName), false, false, false), Encoding.UTF8);
+			try
+			{
+				this.ReadResources();
+			}
+			catch
+			{
+				this._store.Close();
+				throw;
+			}
+		}
+
+		// Token: 0x06004751 RID: 18257 RVA: 0x000EA030 File Offset: 0x000E8230
+		[SecurityCritical]
+		public ResourceReader(Stream stream)
+		{
+			if (stream == null)
+			{
+				throw new ArgumentNullException("stream");
+			}
+			if (!stream.CanRead)
+			{
+				throw new ArgumentException(Environment.GetResourceString("Stream was not readable."));
+			}
+			this._resCache = new Dictionary<string, ResourceLocator>(FastResourceComparer.Default);
+			this._store = new BinaryReader(stream, Encoding.UTF8);
+			this._ums = stream as UnmanagedMemoryStream;
+			this.ReadResources();
+		}
+
+		// Token: 0x06004752 RID: 18258 RVA: 0x000EA09C File Offset: 0x000E829C
+		[SecurityCritical]
+		internal ResourceReader(Stream stream, Dictionary<string, ResourceLocator> resCache)
+		{
+			this._resCache = resCache;
+			this._store = new BinaryReader(stream, Encoding.UTF8);
+			this._ums = stream as UnmanagedMemoryStream;
+			this.ReadResources();
+		}
+
+		// Token: 0x06004753 RID: 18259 RVA: 0x000EA0CE File Offset: 0x000E82CE
+		public void Close()
+		{
+			this.Dispose(true);
+		}
+
+		// Token: 0x06004754 RID: 18260 RVA: 0x000EA0D7 File Offset: 0x000E82D7
+		public void Dispose()
+		{
+			this.Close();
+		}
+
+		// Token: 0x06004755 RID: 18261 RVA: 0x000EA0E0 File Offset: 0x000E82E0
+		[SecuritySafeCritical]
+		private void Dispose(bool disposing)
+		{
+			if (this._store != null)
+			{
+				this._resCache = null;
+				if (disposing)
+				{
+					BinaryReader store = this._store;
+					this._store = null;
+					if (store != null)
+					{
+						store.Close();
+					}
+				}
+				this._store = null;
+				this._namePositions = null;
+				this._nameHashes = null;
+				this._ums = null;
+				this._namePositionsPtr = null;
+				this._nameHashesPtr = null;
+			}
+		}
+
+		// Token: 0x06004756 RID: 18262 RVA: 0x000EA144 File Offset: 0x000E8344
+		[SecurityCritical]
+		internal unsafe static int ReadUnalignedI4(int* p)
+		{
+			return (int)(*(byte*)p) | ((int)((byte*)p)[1] << 8) | ((int)((byte*)p)[2] << 16) | ((int)((byte*)p)[3] << 24);
+		}
+
+		// Token: 0x06004757 RID: 18263 RVA: 0x000EA16C File Offset: 0x000E836C
+		private void SkipInt32()
+		{
+			this._store.BaseStream.Seek(4L, SeekOrigin.Current);
+		}
+
+		// Token: 0x06004758 RID: 18264 RVA: 0x000EA184 File Offset: 0x000E8384
+		private void SkipString()
+		{
+			int num = this._store.Read7BitEncodedInt();
+			if (num < 0)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. String length must be non-negative."));
+			}
+			this._store.BaseStream.Seek((long)num, SeekOrigin.Current);
+		}
+
+		// Token: 0x06004759 RID: 18265 RVA: 0x000EA1C5 File Offset: 0x000E83C5
+		[SecuritySafeCritical]
+		private int GetNameHash(int index)
+		{
+			if (this._ums == null)
+			{
+				return this._nameHashes[index];
+			}
+			return ResourceReader.ReadUnalignedI4(this._nameHashesPtr + index);
+		}
+
+		// Token: 0x0600475A RID: 18266 RVA: 0x000EA1EC File Offset: 0x000E83EC
+		[SecuritySafeCritical]
+		private int GetNamePosition(int index)
+		{
+			int num;
+			if (this._ums == null)
+			{
+				num = this._namePositions[index];
+			}
+			else
+			{
+				num = ResourceReader.ReadUnalignedI4(this._namePositionsPtr + index);
+			}
+			if (num < 0 || (long)num > this._dataSectionOffset - this._nameSectionOffset)
+			{
+				throw new FormatException(Environment.GetResourceString("Corrupt .resources file. Invalid offset '{0}' into name section.", new object[] { num }));
+			}
+			return num;
+		}
+
+		// Token: 0x0600475B RID: 18267 RVA: 0x000EA253 File Offset: 0x000E8453
+		IEnumerator IEnumerable.GetEnumerator()
+		{
+			return this.GetEnumerator();
+		}
+
+		// Token: 0x0600475C RID: 18268 RVA: 0x000EA25B File Offset: 0x000E845B
+		public IDictionaryEnumerator GetEnumerator()
+		{
+			if (this._resCache == null)
+			{
+				throw new InvalidOperationException(Environment.GetResourceString("ResourceReader is closed."));
+			}
+			return new ResourceReader.ResourceEnumerator(this);
+		}
+
+		// Token: 0x0600475D RID: 18269 RVA: 0x000EA27B File Offset: 0x000E847B
+		internal ResourceReader.ResourceEnumerator GetEnumeratorInternal()
+		{
+			return new ResourceReader.ResourceEnumerator(this);
+		}
+
+		// Token: 0x0600475E RID: 18270 RVA: 0x000EA284 File Offset: 0x000E8484
+		internal int FindPosForResource(string name)
+		{
+			int num = FastResourceComparer.HashFunction(name);
+			int i = 0;
+			int num2 = this._numResources - 1;
+			int num3 = -1;
+			bool flag = false;
+			while (i <= num2)
+			{
+				num3 = i + num2 >> 1;
+				int nameHash = this.GetNameHash(num3);
+				int num4;
+				if (nameHash == num)
+				{
+					num4 = 0;
+				}
+				else if (nameHash < num)
+				{
+					num4 = -1;
+				}
+				else
+				{
+					num4 = 1;
+				}
+				if (num4 == 0)
+				{
+					flag = true;
+					break;
+				}
+				if (num4 < 0)
+				{
+					i = num3 + 1;
+				}
+				else
+				{
+					num2 = num3 - 1;
+				}
+			}
+			if (!flag)
+			{
+				return -1;
+			}
+			if (i != num3)
+			{
+				i = num3;
+				while (i > 0 && this.GetNameHash(i - 1) == num)
+				{
+					i--;
+				}
+			}
+			if (num2 != num3)
+			{
+				num2 = num3;
+				while (num2 < this._numResources - 1 && this.GetNameHash(num2 + 1) == num)
+				{
+					num2++;
+				}
+			}
+			lock (this)
+			{
+				int j = i;
+				while (j <= num2)
+				{
+					this._store.BaseStream.Seek(this._nameSectionOffset + (long)this.GetNamePosition(j), SeekOrigin.Begin);
+					if (this.CompareStringEqualsName(name))
+					{
+						int num5 = this._store.ReadInt32();
+						if (num5 < 0 || (long)num5 >= this._store.BaseStream.Length - this._dataSectionOffset)
+						{
+							throw new FormatException(Environment.GetResourceString("Corrupt .resources file. Invalid offset '{0}' into data section.", new object[] { num5 }));
+						}
+						return num5;
+					}
+					else
+					{
+						j++;
+					}
+				}
+			}
+			return -1;
+		}
+
+		// Token: 0x0600475F RID: 18271 RVA: 0x000EA3F8 File Offset: 0x000E85F8
+		[SecuritySafeCritical]
+		private unsafe bool CompareStringEqualsName(string name)
+		{
+			int num = this._store.Read7BitEncodedInt();
+			if (num < 0)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. String length must be non-negative."));
+			}
+			if (this._ums == null)
+			{
+				byte[] array = new byte[num];
+				int num2;
+				for (int i = num; i > 0; i -= num2)
+				{
+					num2 = this._store.Read(array, num - i, i);
+					if (num2 == 0)
+					{
+						throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. A resource name extends past the end of the stream."));
+					}
+				}
+				return FastResourceComparer.CompareOrdinal(array, num / 2, name) == 0;
+			}
+			byte* positionPointer = this._ums.PositionPointer;
+			this._ums.Seek((long)num, SeekOrigin.Current);
+			if (this._ums.Position > this._ums.Length)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Resource name extends past the end of the file."));
+			}
+			return FastResourceComparer.CompareOrdinal(positionPointer, num, name) == 0;
+		}
+
+		// Token: 0x06004760 RID: 18272 RVA: 0x000EA4C0 File Offset: 0x000E86C0
+		[SecurityCritical]
+		private unsafe string AllocateStringForNameIndex(int index, out int dataOffset)
+		{
+			long num = (long)this.GetNamePosition(index);
+			int num2;
+			byte[] array3;
+			lock (this)
+			{
+				this._store.BaseStream.Seek(num + this._nameSectionOffset, SeekOrigin.Begin);
+				num2 = this._store.Read7BitEncodedInt();
+				if (num2 < 0)
+				{
+					throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. String length must be non-negative."));
+				}
+				if (this._ums != null)
+				{
+					if (this._ums.Position > this._ums.Length - (long)num2)
+					{
+						throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. String for name index '{0}' extends past the end of the file.", new object[] { index }));
+					}
+					char* positionPointer = (char*)this._ums.PositionPointer;
+					string text;
+					if (!BitConverter.IsLittleEndian)
+					{
+						byte* ptr = (byte*)positionPointer;
+						byte[] array = new byte[num2];
+						for (int i = 0; i < num2; i += 2)
+						{
+							array[i] = (ptr + i)[1];
+							array[i + 1] = ptr[i];
+						}
+						byte[] array2;
+						byte* ptr2;
+						if ((array2 = array) == null || array2.Length == 0)
+						{
+							ptr2 = null;
+						}
+						else
+						{
+							ptr2 = &array2[0];
+						}
+						text = new string((char*)ptr2, 0, num2 / 2);
+						array2 = null;
+					}
+					else
+					{
+						text = new string(positionPointer, 0, num2 / 2);
+					}
+					this._ums.Position += (long)num2;
+					dataOffset = this._store.ReadInt32();
+					if (dataOffset < 0 || (long)dataOffset >= this._store.BaseStream.Length - this._dataSectionOffset)
+					{
+						throw new FormatException(Environment.GetResourceString("Corrupt .resources file. Invalid offset '{0}' into data section.", new object[] { dataOffset }));
+					}
+					return text;
+				}
+				else
+				{
+					array3 = new byte[num2];
+					int num3;
+					for (int j = num2; j > 0; j -= num3)
+					{
+						num3 = this._store.Read(array3, num2 - j, j);
+						if (num3 == 0)
+						{
+							throw new EndOfStreamException(Environment.GetResourceString("Corrupt .resources file. The resource name for name index {0} extends past the end of the stream.", new object[] { index }));
+						}
+					}
+					dataOffset = this._store.ReadInt32();
+					if (dataOffset < 0 || (long)dataOffset >= this._store.BaseStream.Length - this._dataSectionOffset)
+					{
+						throw new FormatException(Environment.GetResourceString("Corrupt .resources file. Invalid offset '{0}' into data section.", new object[] { dataOffset }));
+					}
+				}
+			}
+			return Encoding.Unicode.GetString(array3, 0, num2);
+		}
+
+		// Token: 0x06004761 RID: 18273 RVA: 0x000EA730 File Offset: 0x000E8930
+		private object GetValueForNameIndex(int index)
+		{
+			long num = (long)this.GetNamePosition(index);
+			object obj;
+			lock (this)
+			{
+				this._store.BaseStream.Seek(num + this._nameSectionOffset, SeekOrigin.Begin);
+				this.SkipString();
+				int num2 = this._store.ReadInt32();
+				if (num2 < 0 || (long)num2 >= this._store.BaseStream.Length - this._dataSectionOffset)
+				{
+					throw new FormatException(Environment.GetResourceString("Corrupt .resources file. Invalid offset '{0}' into data section.", new object[] { num2 }));
+				}
+				if (this._version == 1)
+				{
+					obj = this.LoadObjectV1(num2);
+				}
+				else
+				{
+					ResourceTypeCode resourceTypeCode;
+					obj = this.LoadObjectV2(num2, out resourceTypeCode);
+				}
+			}
+			return obj;
+		}
+
+		// Token: 0x06004762 RID: 18274 RVA: 0x000EA7FC File Offset: 0x000E89FC
+		internal string LoadString(int pos)
+		{
+			this._store.BaseStream.Seek(this._dataSectionOffset + (long)pos, SeekOrigin.Begin);
+			string text = null;
+			int num = this._store.Read7BitEncodedInt();
+			if (this._version == 1)
+			{
+				if (num == -1)
+				{
+					return null;
+				}
+				if (this.FindType(num) != typeof(string))
+				{
+					throw new InvalidOperationException(Environment.GetResourceString("Resource was of type '{0}' instead of String - call GetObject instead.", new object[] { this.FindType(num).FullName }));
+				}
+				text = this._store.ReadString();
+			}
+			else
+			{
+				ResourceTypeCode resourceTypeCode = (ResourceTypeCode)num;
+				if (resourceTypeCode != ResourceTypeCode.String && resourceTypeCode != ResourceTypeCode.Null)
+				{
+					string text2;
+					if (resourceTypeCode < ResourceTypeCode.StartOfUserTypes)
+					{
+						text2 = resourceTypeCode.ToString();
+					}
+					else
+					{
+						text2 = this.FindType(resourceTypeCode - ResourceTypeCode.StartOfUserTypes).FullName;
+					}
+					throw new InvalidOperationException(Environment.GetResourceString("Resource was of type '{0}' instead of String - call GetObject instead.", new object[] { text2 }));
+				}
+				if (resourceTypeCode == ResourceTypeCode.String)
+				{
+					text = this._store.ReadString();
+				}
+			}
+			return text;
+		}
+
+		// Token: 0x06004763 RID: 18275 RVA: 0x000EA8E8 File Offset: 0x000E8AE8
+		internal object LoadObject(int pos)
+		{
+			if (this._version == 1)
+			{
+				return this.LoadObjectV1(pos);
+			}
+			ResourceTypeCode resourceTypeCode;
+			return this.LoadObjectV2(pos, out resourceTypeCode);
+		}
+
+		// Token: 0x06004764 RID: 18276 RVA: 0x000EA910 File Offset: 0x000E8B10
+		internal object LoadObject(int pos, out ResourceTypeCode typeCode)
+		{
+			if (this._version == 1)
+			{
+				object obj = this.LoadObjectV1(pos);
+				typeCode = ((obj is string) ? ResourceTypeCode.String : ResourceTypeCode.StartOfUserTypes);
+				return obj;
+			}
+			return this.LoadObjectV2(pos, out typeCode);
+		}
+
+		// Token: 0x06004765 RID: 18277 RVA: 0x000EA948 File Offset: 0x000E8B48
+		internal object LoadObjectV1(int pos)
+		{
+			object obj;
+			try
+			{
+				obj = this._LoadObjectV1(pos);
+			}
+			catch (EndOfStreamException ex)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified type doesn't match the available data in the stream."), ex);
+			}
+			catch (ArgumentOutOfRangeException ex2)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified type doesn't match the available data in the stream."), ex2);
+			}
+			return obj;
+		}
+
+		// Token: 0x06004766 RID: 18278 RVA: 0x000EA9A0 File Offset: 0x000E8BA0
+		[SecuritySafeCritical]
+		private object _LoadObjectV1(int pos)
+		{
+			this._store.BaseStream.Seek(this._dataSectionOffset + (long)pos, SeekOrigin.Begin);
+			int num = this._store.Read7BitEncodedInt();
+			if (num == -1)
+			{
+				return null;
+			}
+			RuntimeType runtimeType = this.FindType(num);
+			if (runtimeType == typeof(string))
+			{
+				return this._store.ReadString();
+			}
+			if (runtimeType == typeof(int))
+			{
+				return this._store.ReadInt32();
+			}
+			if (runtimeType == typeof(byte))
+			{
+				return this._store.ReadByte();
+			}
+			if (runtimeType == typeof(sbyte))
+			{
+				return this._store.ReadSByte();
+			}
+			if (runtimeType == typeof(short))
+			{
+				return this._store.ReadInt16();
+			}
+			if (runtimeType == typeof(long))
+			{
+				return this._store.ReadInt64();
+			}
+			if (runtimeType == typeof(ushort))
+			{
+				return this._store.ReadUInt16();
+			}
+			if (runtimeType == typeof(uint))
+			{
+				return this._store.ReadUInt32();
+			}
+			if (runtimeType == typeof(ulong))
+			{
+				return this._store.ReadUInt64();
+			}
+			if (runtimeType == typeof(float))
+			{
+				return this._store.ReadSingle();
+			}
+			if (runtimeType == typeof(double))
+			{
+				return this._store.ReadDouble();
+			}
+			if (runtimeType == typeof(DateTime))
+			{
+				return new DateTime(this._store.ReadInt64());
+			}
+			if (runtimeType == typeof(TimeSpan))
+			{
+				return new TimeSpan(this._store.ReadInt64());
+			}
+			if (runtimeType == typeof(decimal))
+			{
+				int[] array = new int[4];
+				for (int i = 0; i < array.Length; i++)
+				{
+					array[i] = this._store.ReadInt32();
+				}
+				return new decimal(array);
+			}
+			return this.DeserializeObject(num);
+		}
+
+		// Token: 0x06004767 RID: 18279 RVA: 0x000EABF8 File Offset: 0x000E8DF8
+		internal object LoadObjectV2(int pos, out ResourceTypeCode typeCode)
+		{
+			object obj;
+			try
+			{
+				obj = this._LoadObjectV2(pos, out typeCode);
+			}
+			catch (EndOfStreamException ex)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified type doesn't match the available data in the stream."), ex);
+			}
+			catch (ArgumentOutOfRangeException ex2)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified type doesn't match the available data in the stream."), ex2);
+			}
+			return obj;
+		}
+
+		// Token: 0x06004768 RID: 18280 RVA: 0x000EAC54 File Offset: 0x000E8E54
+		[SecuritySafeCritical]
+		private object _LoadObjectV2(int pos, out ResourceTypeCode typeCode)
+		{
+			this._store.BaseStream.Seek(this._dataSectionOffset + (long)pos, SeekOrigin.Begin);
+			typeCode = (ResourceTypeCode)this._store.Read7BitEncodedInt();
+			switch (typeCode)
+			{
+			case ResourceTypeCode.Null:
+				return null;
+			case ResourceTypeCode.String:
+				return this._store.ReadString();
+			case ResourceTypeCode.Boolean:
+				return this._store.ReadBoolean();
+			case ResourceTypeCode.Char:
+				return (char)this._store.ReadUInt16();
+			case ResourceTypeCode.Byte:
+				return this._store.ReadByte();
+			case ResourceTypeCode.SByte:
+				return this._store.ReadSByte();
+			case ResourceTypeCode.Int16:
+				return this._store.ReadInt16();
+			case ResourceTypeCode.UInt16:
+				return this._store.ReadUInt16();
+			case ResourceTypeCode.Int32:
+				return this._store.ReadInt32();
+			case ResourceTypeCode.UInt32:
+				return this._store.ReadUInt32();
+			case ResourceTypeCode.Int64:
+				return this._store.ReadInt64();
+			case ResourceTypeCode.UInt64:
+				return this._store.ReadUInt64();
+			case ResourceTypeCode.Single:
+				return this._store.ReadSingle();
+			case ResourceTypeCode.Double:
+				return this._store.ReadDouble();
+			case ResourceTypeCode.Decimal:
+				return this._store.ReadDecimal();
+			case ResourceTypeCode.DateTime:
+				return DateTime.FromBinary(this._store.ReadInt64());
+			case ResourceTypeCode.TimeSpan:
+				return new TimeSpan(this._store.ReadInt64());
+			case ResourceTypeCode.ByteArray:
+			{
+				int num = this._store.ReadInt32();
+				if (num < 0)
+				{
+					throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified data length '{0}' is not a valid position in the stream.", new object[] { num }));
+				}
+				if (this._ums == null)
+				{
+					if ((long)num > this._store.BaseStream.Length)
+					{
+						throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified data length '{0}' is not a valid position in the stream.", new object[] { num }));
+					}
+					return this._store.ReadBytes(num);
+				}
+				else
+				{
+					if ((long)num > this._ums.Length - this._ums.Position)
+					{
+						throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified data length '{0}' is not a valid position in the stream.", new object[] { num }));
+					}
+					byte[] array = new byte[num];
+					this._ums.Read(array, 0, num);
+					return array;
+				}
+				break;
+			}
+			case ResourceTypeCode.Stream:
+			{
+				int num2 = this._store.ReadInt32();
+				if (num2 < 0)
+				{
+					throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified data length '{0}' is not a valid position in the stream.", new object[] { num2 }));
+				}
+				if (this._ums == null)
+				{
+					return new PinnedBufferMemoryStream(this._store.ReadBytes(num2));
+				}
+				if ((long)num2 > this._ums.Length - this._ums.Position)
+				{
+					throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified data length '{0}' is not a valid position in the stream.", new object[] { num2 }));
+				}
+				return new UnmanagedMemoryStream(this._ums.PositionPointer, (long)num2, (long)num2, FileAccess.Read);
+			}
+			}
+			if (typeCode < ResourceTypeCode.StartOfUserTypes)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified type doesn't match the available data in the stream."));
+			}
+			int num3 = typeCode - ResourceTypeCode.StartOfUserTypes;
+			return this.DeserializeObject(num3);
+		}
+
+		// Token: 0x06004769 RID: 18281 RVA: 0x000EAFC4 File Offset: 0x000E91C4
+		[SecurityCritical]
+		private object DeserializeObject(int typeIndex)
+		{
+			RuntimeType runtimeType = this.FindType(typeIndex);
+			object obj = this._objFormatter.Deserialize(this._store.BaseStream);
+			if (obj.GetType() != runtimeType)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("The type serialized in the .resources file was not the same type that the .resources file said it contained. Expected '{0}' but read '{1}'.", new object[]
+				{
+					runtimeType.FullName,
+					obj.GetType().FullName
+				}));
+			}
+			return obj;
+		}
+
+		// Token: 0x0600476A RID: 18282 RVA: 0x000EB02C File Offset: 0x000E922C
+		[SecurityCritical]
+		private void ReadResources()
+		{
+			BinaryFormatter binaryFormatter = new BinaryFormatter(null, new StreamingContext(StreamingContextStates.File | StreamingContextStates.Persistence));
+			this._objFormatter = binaryFormatter;
+			try
+			{
+				this._ReadResources();
+			}
+			catch (EndOfStreamException ex)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."), ex);
+			}
+			catch (IndexOutOfRangeException ex2)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."), ex2);
+			}
+		}
+
+		// Token: 0x0600476B RID: 18283 RVA: 0x000EB098 File Offset: 0x000E9298
+		[SecurityCritical]
+		private unsafe void _ReadResources()
+		{
+			if (this._store.ReadInt32() != ResourceManager.MagicNumber)
+			{
+				throw new ArgumentException(Environment.GetResourceString("Stream is not a valid resource file."));
+			}
+			int num = this._store.ReadInt32();
+			int num2 = this._store.ReadInt32();
+			if (num2 < 0 || num < 0)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+			}
+			if (num > 1)
+			{
+				this._store.BaseStream.Seek((long)num2, SeekOrigin.Current);
+			}
+			else
+			{
+				string text = this._store.ReadString();
+				AssemblyName assemblyName = new AssemblyName(ResourceManager.MscorlibName);
+				if (!ResourceManager.CompareNames(text, ResourceManager.ResReaderTypeName, assemblyName))
+				{
+					throw new NotSupportedException(Environment.GetResourceString("This .resources file should not be read with this reader. The resource reader type is \"{0}\".", new object[] { text }));
+				}
+				this.SkipString();
+			}
+			int num3 = this._store.ReadInt32();
+			if (num3 != 2 && num3 != 1)
+			{
+				throw new ArgumentException(Environment.GetResourceString("The ResourceReader class does not know how to read this version of .resources files. Expected version: {0}  This file: {1}", new object[] { 2, num3 }));
+			}
+			this._version = num3;
+			this._numResources = this._store.ReadInt32();
+			if (this._numResources < 0)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+			}
+			int num4 = this._store.ReadInt32();
+			if (num4 < 0)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+			}
+			this._typeTable = new RuntimeType[num4];
+			this._typeNamePositions = new int[num4];
+			for (int i = 0; i < num4; i++)
+			{
+				this._typeNamePositions[i] = (int)this._store.BaseStream.Position;
+				this.SkipString();
+			}
+			int num5 = (int)this._store.BaseStream.Position & 7;
+			if (num5 != 0)
+			{
+				for (int j = 0; j < 8 - num5; j++)
+				{
+					this._store.ReadByte();
+				}
+			}
+			if (this._ums == null)
+			{
+				this._nameHashes = new int[this._numResources];
+				for (int k = 0; k < this._numResources; k++)
+				{
+					this._nameHashes[k] = this._store.ReadInt32();
+				}
+			}
+			else
+			{
+				if (((long)this._numResources & (long)((ulong)(-536870912))) != 0L)
+				{
+					throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+				}
+				int num6 = 4 * this._numResources;
+				this._nameHashesPtr = (int*)this._ums.PositionPointer;
+				this._ums.Seek((long)num6, SeekOrigin.Current);
+				byte* positionPointer = this._ums.PositionPointer;
+			}
+			if (this._ums == null)
+			{
+				this._namePositions = new int[this._numResources];
+				for (int l = 0; l < this._numResources; l++)
+				{
+					int num7 = this._store.ReadInt32();
+					if (num7 < 0)
+					{
+						throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+					}
+					this._namePositions[l] = num7;
+				}
+			}
+			else
+			{
+				if (((long)this._numResources & (long)((ulong)(-536870912))) != 0L)
+				{
+					throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+				}
+				int num8 = 4 * this._numResources;
+				this._namePositionsPtr = (int*)this._ums.PositionPointer;
+				this._ums.Seek((long)num8, SeekOrigin.Current);
+				byte* positionPointer2 = this._ums.PositionPointer;
+			}
+			this._dataSectionOffset = (long)this._store.ReadInt32();
+			if (this._dataSectionOffset < 0L)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+			}
+			this._nameSectionOffset = this._store.BaseStream.Position;
+			if (this._dataSectionOffset < this._nameSectionOffset)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file. Unable to read resources from this file because of invalid header information. Try regenerating the .resources file."));
+			}
+		}
+
+		// Token: 0x0600476C RID: 18284 RVA: 0x000EB418 File Offset: 0x000E9618
+		private RuntimeType FindType(int typeIndex)
+		{
+			if (typeIndex < 0 || typeIndex >= this._typeTable.Length)
+			{
+				throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified type doesn't exist."));
+			}
+			if (this._typeTable[typeIndex] == null)
+			{
+				long position = this._store.BaseStream.Position;
+				try
+				{
+					this._store.BaseStream.Position = (long)this._typeNamePositions[typeIndex];
+					string text = this._store.ReadString();
+					this._typeTable[typeIndex] = (RuntimeType)Type.GetType(text, true);
+				}
+				finally
+				{
+					this._store.BaseStream.Position = position;
+				}
+			}
+			return this._typeTable[typeIndex];
+		}
+
+		// Token: 0x0600476D RID: 18285 RVA: 0x000EB4CC File Offset: 0x000E96CC
+		public void GetResourceData(string resourceName, out string resourceType, out byte[] resourceData)
+		{
+			if (resourceName == null)
+			{
+				throw new ArgumentNullException("resourceName");
+			}
+			if (this._resCache == null)
+			{
+				throw new InvalidOperationException(Environment.GetResourceString("ResourceReader is closed."));
+			}
+			int[] array = new int[this._numResources];
+			int num = this.FindPosForResource(resourceName);
+			if (num == -1)
+			{
+				throw new ArgumentException(Environment.GetResourceString("The specified resource name \"{0}\" does not exist in the resource file.", new object[] { resourceName }));
+			}
+			lock (this)
+			{
+				for (int i = 0; i < this._numResources; i++)
+				{
+					this._store.BaseStream.Position = this._nameSectionOffset + (long)this.GetNamePosition(i);
+					int num2 = this._store.Read7BitEncodedInt();
+					if (num2 < 0)
+					{
+						throw new FormatException(Environment.GetResourceString("Corrupt .resources file. Invalid offset '{0}' into name section.", new object[] { num2 }));
+					}
+					this._store.BaseStream.Position += (long)num2;
+					int num3 = this._store.ReadInt32();
+					if (num3 < 0 || (long)num3 >= this._store.BaseStream.Length - this._dataSectionOffset)
+					{
+						throw new FormatException(Environment.GetResourceString("Corrupt .resources file. Invalid offset '{0}' into data section.", new object[] { num3 }));
+					}
+					array[i] = num3;
+				}
+				Array.Sort<int>(array);
+				int num4 = Array.BinarySearch<int>(array, num);
+				int num5 = (int)(((num4 < this._numResources - 1) ? ((long)array[num4 + 1] + this._dataSectionOffset) : this._store.BaseStream.Length) - ((long)num + this._dataSectionOffset));
+				this._store.BaseStream.Position = this._dataSectionOffset + (long)num;
+				ResourceTypeCode resourceTypeCode = (ResourceTypeCode)this._store.Read7BitEncodedInt();
+				if (resourceTypeCode < ResourceTypeCode.Null || resourceTypeCode >= ResourceTypeCode.StartOfUserTypes + this._typeTable.Length)
+				{
+					throw new BadImageFormatException(Environment.GetResourceString("Corrupt .resources file.  The specified type doesn't exist."));
+				}
+				resourceType = this.TypeNameFromTypeCode(resourceTypeCode);
+				num5 -= (int)(this._store.BaseStream.Position - (this._dataSectionOffset + (long)num));
+				byte[] array2 = this._store.ReadBytes(num5);
+				if (array2.Length != num5)
+				{
+					throw new FormatException(Environment.GetResourceString("Corrupt .resources file. A resource name extends past the end of the stream."));
+				}
+				resourceData = array2;
+			}
+		}
+
+		// Token: 0x0600476E RID: 18286 RVA: 0x000EB728 File Offset: 0x000E9928
+		private string TypeNameFromTypeCode(ResourceTypeCode typeCode)
+		{
+			if (typeCode < ResourceTypeCode.StartOfUserTypes)
+			{
+				return "ResourceTypeCode." + typeCode.ToString();
+			}
+			int num = typeCode - ResourceTypeCode.StartOfUserTypes;
+			long position = this._store.BaseStream.Position;
+			string text;
+			try
+			{
+				this._store.BaseStream.Position = (long)this._typeNamePositions[num];
+				text = this._store.ReadString();
+			}
+			finally
+			{
+				this._store.BaseStream.Position = position;
+			}
+			return text;
+		}
+
+		// Token: 0x04002D6E RID: 11630
+		private const int DefaultFileStreamBufferSize = 4096;
+
+		// Token: 0x04002D6F RID: 11631
+		private BinaryReader _store;
+
+		// Token: 0x04002D70 RID: 11632
+		internal Dictionary<string, ResourceLocator> _resCache;
+
+		// Token: 0x04002D71 RID: 11633
+		private long _nameSectionOffset;
+
+		// Token: 0x04002D72 RID: 11634
+		private long _dataSectionOffset;
+
+		// Token: 0x04002D73 RID: 11635
+		private int[] _nameHashes;
+
+		// Token: 0x04002D74 RID: 11636
+		[SecurityCritical]
+		private unsafe int* _nameHashesPtr;
+
+		// Token: 0x04002D75 RID: 11637
+		private int[] _namePositions;
+
+		// Token: 0x04002D76 RID: 11638
+		[SecurityCritical]
+		private unsafe int* _namePositionsPtr;
+
+		// Token: 0x04002D77 RID: 11639
+		private RuntimeType[] _typeTable;
+
+		// Token: 0x04002D78 RID: 11640
+		private int[] _typeNamePositions;
+
+		// Token: 0x04002D79 RID: 11641
+		private BinaryFormatter _objFormatter;
+
+		// Token: 0x04002D7A RID: 11642
+		private int _numResources;
+
+		// Token: 0x04002D7B RID: 11643
+		private UnmanagedMemoryStream _ums;
+
+		// Token: 0x04002D7C RID: 11644
+		private int _version;
+
+		// Token: 0x0200083D RID: 2109
+		internal sealed class ResourceEnumerator : IDictionaryEnumerator, IEnumerator
+		{
+			// Token: 0x0600476F RID: 18287 RVA: 0x000EB7B4 File Offset: 0x000E99B4
+			internal ResourceEnumerator(ResourceReader reader)
+			{
+				this._currentName = -1;
+				this._reader = reader;
+				this._dataPosition = -2;
+			}
+
+			// Token: 0x06004770 RID: 18288 RVA: 0x000EB7D4 File Offset: 0x000E99D4
+			public bool MoveNext()
+			{
+				if (this._currentName == this._reader._numResources - 1 || this._currentName == -2147483648)
+				{
+					this._currentIsValid = false;
+					this._currentName = int.MinValue;
+					return false;
+				}
+				this._currentIsValid = true;
+				this._currentName++;
+				return true;
+			}
+
+			// Token: 0x17000AFC RID: 2812
+			// (get) Token: 0x06004771 RID: 18289 RVA: 0x000EB830 File Offset: 0x000E9A30
+			public object Key
+			{
+				[SecuritySafeCritical]
+				get
+				{
+					if (this._currentName == -2147483648)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("Enumeration already finished."));
+					}
+					if (!this._currentIsValid)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("Enumeration has not started. Call MoveNext."));
+					}
+					if (this._reader._resCache == null)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("ResourceReader is closed."));
+					}
+					return this._reader.AllocateStringForNameIndex(this._currentName, out this._dataPosition);
+				}
+			}
+
+			// Token: 0x17000AFD RID: 2813
+			// (get) Token: 0x06004772 RID: 18290 RVA: 0x000EB8A6 File Offset: 0x000E9AA6
+			public object Current
+			{
+				get
+				{
+					return this.Entry;
+				}
+			}
+
+			// Token: 0x17000AFE RID: 2814
+			// (get) Token: 0x06004773 RID: 18291 RVA: 0x000EB8B3 File Offset: 0x000E9AB3
+			internal int DataPosition
+			{
+				get
+				{
+					return this._dataPosition;
+				}
+			}
+
+			// Token: 0x17000AFF RID: 2815
+			// (get) Token: 0x06004774 RID: 18292 RVA: 0x000EB8BC File Offset: 0x000E9ABC
+			public DictionaryEntry Entry
+			{
+				[SecuritySafeCritical]
+				get
+				{
+					if (this._currentName == -2147483648)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("Enumeration already finished."));
+					}
+					if (!this._currentIsValid)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("Enumeration has not started. Call MoveNext."));
+					}
+					if (this._reader._resCache == null)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("ResourceReader is closed."));
+					}
+					object obj = null;
+					ResourceReader reader = this._reader;
+					string text;
+					lock (reader)
+					{
+						Dictionary<string, ResourceLocator> resCache = this._reader._resCache;
+						lock (resCache)
+						{
+							text = this._reader.AllocateStringForNameIndex(this._currentName, out this._dataPosition);
+							ResourceLocator resourceLocator;
+							if (this._reader._resCache.TryGetValue(text, out resourceLocator))
+							{
+								obj = resourceLocator.Value;
+							}
+							if (obj == null)
+							{
+								if (this._dataPosition == -1)
+								{
+									obj = this._reader.GetValueForNameIndex(this._currentName);
+								}
+								else
+								{
+									obj = this._reader.LoadObject(this._dataPosition);
+								}
+							}
+						}
+					}
+					return new DictionaryEntry(text, obj);
+				}
+			}
+
+			// Token: 0x17000B00 RID: 2816
+			// (get) Token: 0x06004775 RID: 18293 RVA: 0x000EB9EC File Offset: 0x000E9BEC
+			public object Value
+			{
+				get
+				{
+					if (this._currentName == -2147483648)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("Enumeration already finished."));
+					}
+					if (!this._currentIsValid)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("Enumeration has not started. Call MoveNext."));
+					}
+					if (this._reader._resCache == null)
+					{
+						throw new InvalidOperationException(Environment.GetResourceString("ResourceReader is closed."));
+					}
+					return this._reader.GetValueForNameIndex(this._currentName);
+				}
+			}
+
+			// Token: 0x06004776 RID: 18294 RVA: 0x000EBA5C File Offset: 0x000E9C5C
+			public void Reset()
+			{
+				if (this._reader._resCache == null)
+				{
+					throw new InvalidOperationException(Environment.GetResourceString("ResourceReader is closed."));
+				}
+				this._currentIsValid = false;
+				this._currentName = -1;
+			}
+
+			// Token: 0x04002D7D RID: 11645
+			private const int ENUM_DONE = -2147483648;
+
+			// Token: 0x04002D7E RID: 11646
+			private const int ENUM_NOT_STARTED = -1;
+
+			// Token: 0x04002D7F RID: 11647
+			private ResourceReader _reader;
+
+			// Token: 0x04002D80 RID: 11648
+			private bool _currentIsValid;
+
+			// Token: 0x04002D81 RID: 11649
+			private int _currentName;
+
+			// Token: 0x04002D82 RID: 11650
+			private int _dataPosition;
+		}
+	}
+}

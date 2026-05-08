@@ -1,0 +1,28 @@
+var classSystem_1_1IO_1_1FileSystem =
+[
+    [ "CopyDanglingSymlink", "d5/de9/classSystem_1_1IO_1_1FileSystem_aa2a0ff60953ee132b5414710aeabbf3a.html#aa2a0ff60953ee132b5414710aeabbf3a", null ],
+    [ "CopyFile", "d5/de9/classSystem_1_1IO_1_1FileSystem_a5e0830f59e20d85668eae13f6725f5b0.html#a5e0830f59e20d85668eae13f6725f5b0", null ],
+    [ "CreateDirectory", "d5/de9/classSystem_1_1IO_1_1FileSystem_a77ff1dd46ca89c2a8c7b59dde6275b3e.html#a77ff1dd46ca89c2a8c7b59dde6275b3e", null ],
+    [ "DeleteFile", "d5/de9/classSystem_1_1IO_1_1FileSystem_a237bf14ce51b643e9a6fd762f43b88f2.html#a237bf14ce51b643e9a6fd762f43b88f2", null ],
+    [ "DirectoryExists", "d5/de9/classSystem_1_1IO_1_1FileSystem_ac2f8f11c061a4d2396dcd39eca0269b5.html#ac2f8f11c061a4d2396dcd39eca0269b5", null ],
+    [ "DirectoryExists", "d5/de9/classSystem_1_1IO_1_1FileSystem_a6a466344fd66567810659739de6f4dd6.html#a6a466344fd66567810659739de6f4dd6", null ],
+    [ "FileExists", "d5/de9/classSystem_1_1IO_1_1FileSystem_a24b7108b4f808cc43da1df7f6e51fec5.html#a24b7108b4f808cc43da1df7f6e51fec5", null ],
+    [ "FileExists", "d5/de9/classSystem_1_1IO_1_1FileSystem_a0ef8d0ee781ccb836a2b01808354c67e.html#a0ef8d0ee781ccb836a2b01808354c67e", null ],
+    [ "GetAttributes", "d5/de9/classSystem_1_1IO_1_1FileSystem_af3be4e573dc8fe02550564edeb4c0255.html#af3be4e573dc8fe02550564edeb4c0255", null ],
+    [ "GetCreationTime", "d5/de9/classSystem_1_1IO_1_1FileSystem_ab9dc5cf152ec05f3bc63db7f9d12964f.html#ab9dc5cf152ec05f3bc63db7f9d12964f", null ],
+    [ "GetLastAccessTime", "d5/de9/classSystem_1_1IO_1_1FileSystem_a1f192fb775b217af7e49540811d90ce5.html#a1f192fb775b217af7e49540811d90ce5", null ],
+    [ "GetLastWriteTime", "d5/de9/classSystem_1_1IO_1_1FileSystem_a443855af47bb18e8b3fbaa0f82d621b0.html#a443855af47bb18e8b3fbaa0f82d621b0", null ],
+    [ "GetLogicalDrives", "d5/de9/classSystem_1_1IO_1_1FileSystem_a77a042099f27c9b875cee74e2aa19cd5.html#a77a042099f27c9b875cee74e2aa19cd5", null ],
+    [ "LinkOrCopyFile", "d5/de9/classSystem_1_1IO_1_1FileSystem_aa114a3f464fb0e788855eb62096eb986.html#aa114a3f464fb0e788855eb62096eb986", null ],
+    [ "MoveDirectory", "d5/de9/classSystem_1_1IO_1_1FileSystem_ae065e40c94d67582e89aa07e75242c91.html#ae065e40c94d67582e89aa07e75242c91", null ],
+    [ "MoveFile", "d5/de9/classSystem_1_1IO_1_1FileSystem_aa35a26133b587e8e6ed83d57945c6774.html#aa35a26133b587e8e6ed83d57945c6774", null ],
+    [ "RemoveDirectory", "d5/de9/classSystem_1_1IO_1_1FileSystem_a9568778fcc8e27898b6bfd19c45641ec.html#a9568778fcc8e27898b6bfd19c45641ec", null ],
+    [ "RemoveDirectoryInternal", "d5/de9/classSystem_1_1IO_1_1FileSystem_af97a969f2568c393badb3825187841a9.html#af97a969f2568c393badb3825187841a9", null ],
+    [ "ReplaceFile", "d5/de9/classSystem_1_1IO_1_1FileSystem_ad12ee97d81fb192fcffdd633375adf2c.html#ad12ee97d81fb192fcffdd633375adf2c", null ],
+    [ "SetAttributes", "d5/de9/classSystem_1_1IO_1_1FileSystem_ac35482ae58f7ca65985b14f4d70092fd.html#ac35482ae58f7ca65985b14f4d70092fd", null ],
+    [ "SetCreationTime", "d5/de9/classSystem_1_1IO_1_1FileSystem_a60cda7f3f36bcd743feca292491ea1f8.html#a60cda7f3f36bcd743feca292491ea1f8", null ],
+    [ "SetLastAccessTime", "d5/de9/classSystem_1_1IO_1_1FileSystem_ad3b9f0134bd37d8b15be8e89ca7bd717.html#ad3b9f0134bd37d8b15be8e89ca7bd717", null ],
+    [ "SetLastWriteTime", "d5/de9/classSystem_1_1IO_1_1FileSystem_ab1178ad2ca8656ad307841f73d60ebb1.html#ab1178ad2ca8656ad307841f73d60ebb1", null ],
+    [ "ShouldIgnoreDirectory", "d5/de9/classSystem_1_1IO_1_1FileSystem_a3eed71d537ae7a5ecd99b8bafcc88188.html#a3eed71d537ae7a5ecd99b8bafcc88188", null ],
+    [ "DefaultBufferSize", "d5/de9/classSystem_1_1IO_1_1FileSystem_a02f55f8fb4b3093bd88d59a6d320c6e2.html#a02f55f8fb4b3093bd88d59a6d320c6e2", null ]
+];

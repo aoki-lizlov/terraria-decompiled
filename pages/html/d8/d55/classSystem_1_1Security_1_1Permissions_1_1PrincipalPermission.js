@@ -1,0 +1,25 @@
+var classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission =
+[
+    [ "PrincipalInfo", "dd/d36/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_1_1PrincipalInfo.html", "dd/d36/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_1_1PrincipalInfo" ],
+    [ "PrincipalPermission", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a2f6ec891ca31cf6f94472f84abe5fb82.html#a2f6ec891ca31cf6f94472f84abe5fb82", null ],
+    [ "PrincipalPermission", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a1c11a3485b66b46699744bae878a2098.html#a1c11a3485b66b46699744bae878a2098", null ],
+    [ "PrincipalPermission", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_abb11e4b1ba243bdebd3fc498cac1c09f.html#abb11e4b1ba243bdebd3fc498cac1c09f", null ],
+    [ "PrincipalPermission", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a2dc6cc787bb26c2ff602720678216e52.html#a2dc6cc787bb26c2ff602720678216e52", null ],
+    [ "Cast", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_ad5a407148dadafaa320b86ccb4e6304f.html#ad5a407148dadafaa320b86ccb4e6304f", null ],
+    [ "CheckSecurityElement", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a8ffb0844a819aa784603abf01cb7c973.html#a8ffb0844a819aa784603abf01cb7c973", null ],
+    [ "Copy", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_ab5313ee52fd9b292ee1870956a9c3675.html#ab5313ee52fd9b292ee1870956a9c3675", null ],
+    [ "Demand", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a92680801b7c32af61ef0f569eac02d09.html#a92680801b7c32af61ef0f569eac02d09", null ],
+    [ "Equals", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_ac0bee547c7beabc1e55f34772d95950e.html#ac0bee547c7beabc1e55f34772d95950e", null ],
+    [ "FromXml", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a1c40d4672f86b86ae4328b954a54850f.html#a1c40d4672f86b86ae4328b954a54850f", null ],
+    [ "GetHashCode", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a2166330dedeaec798712ec01e13fe297.html#a2166330dedeaec798712ec01e13fe297", null ],
+    [ "GetTokenIndex", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a99334279994fbec5686e8334bd5d5030.html#a99334279994fbec5686e8334bd5d5030", null ],
+    [ "Intersect", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a98b88f16cca3df0422cd8bb18b5f347e.html#a98b88f16cca3df0422cd8bb18b5f347e", null ],
+    [ "IsEmpty", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_aa8d11079ce6c9d34730e32b3d64b00fa.html#aa8d11079ce6c9d34730e32b3d64b00fa", null ],
+    [ "IsSubsetOf", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a11bd897eaa00f6ce8c22ee59fff4d331.html#a11bd897eaa00f6ce8c22ee59fff4d331", null ],
+    [ "IsUnrestricted", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_af6ad7565ba14d38440eb0176c2761276.html#af6ad7565ba14d38440eb0176c2761276", null ],
+    [ "ToString", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_ac47704a2a4bf39e642354e23c2676726.html#ac47704a2a4bf39e642354e23c2676726", null ],
+    [ "ToXml", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a3c25114078aadd12756e7f5dc80a3868.html#a3c25114078aadd12756e7f5dc80a3868", null ],
+    [ "Union", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a1747e00ccc9a2892dc9bf46bd37feb5f.html#a1747e00ccc9a2892dc9bf46bd37feb5f", null ],
+    [ "principals", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a86c1b75b03201fdb1190432f8f94770e.html#a86c1b75b03201fdb1190432f8f94770e", null ],
+    [ "version", "d8/d55/classSystem_1_1Security_1_1Permissions_1_1PrincipalPermission_a229221f0d01c0487983c671ac500453c.html#a229221f0d01c0487983c671ac500453c", null ]
+];

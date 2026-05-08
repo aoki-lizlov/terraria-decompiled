@@ -1,0 +1,7 @@
+var classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1NormalizedBackgroundLayerSpaceSkyEntity =
+[
+    [ "NormalizedBackgroundLayerSpaceSkyEntity", "da/d86/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1NormalizedBackgroundLayerSpaceSkyEntity_a554386b7eb99038ff44905a558421ead.html#a554386b7eb99038ff44905a558421ead", null ],
+    [ "GetColor", "da/d86/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1NormalizedBackgroundLayerSpaceSkyEntity_a009452bb787c319a1703d643092269ef.html#a009452bb787c319a1703d643092269ef", null ],
+    [ "GetDrawPosition", "da/d86/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1NormalizedBackgroundLayerSpaceSkyEntity_ac3a740508b2386ce15c5df24879acc1d.html#ac3a740508b2386ce15c5df24879acc1d", null ],
+    [ "Update", "da/d86/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1NormalizedBackgroundLayerSpaceSkyEntity_a75d4137e5fa4716b7ce99469ffe819d6.html#a75d4137e5fa4716b7ce99469ffe819d6", null ]
+];

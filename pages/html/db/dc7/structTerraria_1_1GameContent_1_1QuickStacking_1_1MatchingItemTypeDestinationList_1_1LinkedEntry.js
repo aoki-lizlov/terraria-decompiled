@@ -1,0 +1,5 @@
+var structTerraria_1_1GameContent_1_1QuickStacking_1_1MatchingItemTypeDestinationList_1_1LinkedEntry =
+[
+    [ "next", "db/dc7/structTerraria_1_1GameContent_1_1QuickStacking_1_1MatchingItemTypeDestinationList_1_1LinkedEntry_aeff5ca26fe6fc253c12775ea47844d8a.html#aeff5ca26fe6fc253c12775ea47844d8a", null ],
+    [ "value", "db/dc7/structTerraria_1_1GameContent_1_1QuickStacking_1_1MatchingItemTypeDestinationList_1_1LinkedEntry_aebcd2233fc0cb95a3a595f67d3ed44d2.html#aebcd2233fc0cb95a3a595f67d3ed44d2", null ]
+];

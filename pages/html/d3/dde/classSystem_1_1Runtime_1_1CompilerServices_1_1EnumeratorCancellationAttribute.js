@@ -1,0 +1,4 @@
+var classSystem_1_1Runtime_1_1CompilerServices_1_1EnumeratorCancellationAttribute =
+[
+    [ "EnumeratorCancellationAttribute", "d3/dde/classSystem_1_1Runtime_1_1CompilerServices_1_1EnumeratorCancellationAttribute_a4be0b1cbed188b1d8f5f71e39d16cc1d.html#a4be0b1cbed188b1d8f5f71e39d16cc1d", null ]
+];

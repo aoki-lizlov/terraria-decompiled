@@ -1,0 +1,23 @@
+using System;
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Runtime.Versioning;
+
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyInformationalVersion("2.16.3.0")]
+[assembly: AssemblyTitle("CsvHelper")]
+[assembly: AssemblyDescription("A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Josh Close")]
+[assembly: AssemblyProduct("CsvHelper")]
+[assembly: AssemblyCopyright("Copyright © Josh Close 2009-2016")]
+[assembly: AssemblyTrademark("")]
+[assembly: ComVisible(false)]
+[assembly: Guid("2bff163b-a135-4068-be75-9a9464f3250f")]
+[assembly: AssemblyFileVersion("2.16.3.0")]
+[assembly: InternalsVisibleTo("CsvHelper.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001000db97564beef98ad18a76ba31f769fab92b14341c9c37ed12f8004bb2a1a7fe42ad829b0e285915a816f05a32325c5e0ba83bd69d8f4d26a0785ccf446749842ad038f7325601a99c59a323dfa7ecf210139159da0aad1822b5d9c9be6d914ecbaa8b8c908c4af798a89b8777010971d81975079a49662ced398c742ff186a94")]
+[assembly: InternalsVisibleTo("CsvHelper20.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001000db97564beef98ad18a76ba31f769fab92b14341c9c37ed12f8004bb2a1a7fe42ad829b0e285915a816f05a32325c5e0ba83bd69d8f4d26a0785ccf446749842ad038f7325601a99c59a323dfa7ecf210139159da0aad1822b5d9c9be6d914ecbaa8b8c908c4af798a89b8777010971d81975079a49662ced398c742ff186a94")]
+[assembly: InternalsVisibleTo("CsvHelper35.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001000db97564beef98ad18a76ba31f769fab92b14341c9c37ed12f8004bb2a1a7fe42ad829b0e285915a816f05a32325c5e0ba83bd69d8f4d26a0785ccf446749842ad038f7325601a99c59a323dfa7ecf210139159da0aad1822b5d9c9be6d914ecbaa8b8c908c4af798a89b8777010971d81975079a49662ced398c742ff186a94")]
+[assembly: InternalsVisibleTo("CsvHelperPcl.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001000db97564beef98ad18a76ba31f769fab92b14341c9c37ed12f8004bb2a1a7fe42ad829b0e285915a816f05a32325c5e0ba83bd69d8f4d26a0785ccf446749842ad038f7325601a99c59a323dfa7ecf210139159da0aad1822b5d9c9be6d914ecbaa8b8c908c4af798a89b8777010971d81975079a49662ced398c742ff186a94")]

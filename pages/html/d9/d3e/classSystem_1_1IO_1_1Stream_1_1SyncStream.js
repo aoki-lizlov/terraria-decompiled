@@ -1,0 +1,28 @@
+var classSystem_1_1IO_1_1Stream_1_1SyncStream =
+[
+    [ "SyncStream", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a7efb28dbcbfdcfe4d9ee710bad211d0d.html#a7efb28dbcbfdcfe4d9ee710bad211d0d", null ],
+    [ "BeginRead", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_acb1e56fb77fac092cefb78c764447991.html#acb1e56fb77fac092cefb78c764447991", null ],
+    [ "BeginWrite", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a252c5c25a367ca69935e433dc5b9a8a3.html#a252c5c25a367ca69935e433dc5b9a8a3", null ],
+    [ "Close", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a8a5735fdd85a3fa30a3c41aa00c037d0.html#a8a5735fdd85a3fa30a3c41aa00c037d0", null ],
+    [ "Dispose", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_ab74189f9b70ac1181434609b3665af3a.html#ab74189f9b70ac1181434609b3665af3a", null ],
+    [ "EndRead", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a11dd5695081ed09474c756eaf6046ed6.html#a11dd5695081ed09474c756eaf6046ed6", null ],
+    [ "EndWrite", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a1de640db2ad59bb8da37b5dceba0cc24.html#a1de640db2ad59bb8da37b5dceba0cc24", null ],
+    [ "Flush", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a9b281cfa08472c61bc37eecedffd502f.html#a9b281cfa08472c61bc37eecedffd502f", null ],
+    [ "Read", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_ab55cdfd73483c1f86a6301efbecac0e0.html#ab55cdfd73483c1f86a6301efbecac0e0", null ],
+    [ "Read", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_acb76560bb99fb866e1dbd64fcb71f416.html#acb76560bb99fb866e1dbd64fcb71f416", null ],
+    [ "ReadByte", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a2283c16ce381eed3d9f4f9ea4090a323.html#a2283c16ce381eed3d9f4f9ea4090a323", null ],
+    [ "Seek", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a1c47f030872785a7a855ed6b7e5571ae.html#a1c47f030872785a7a855ed6b7e5571ae", null ],
+    [ "SetLength", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_abe9a64f09aeada7323816f2d0aa0be3f.html#abe9a64f09aeada7323816f2d0aa0be3f", null ],
+    [ "Write", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_ae1814313fef3acd688fdd2805aade4cc.html#ae1814313fef3acd688fdd2805aade4cc", null ],
+    [ "Write", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_ae1c1841490e9135a426bbc46361cabf0.html#ae1c1841490e9135a426bbc46361cabf0", null ],
+    [ "WriteByte", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a7ac1fd40c9ff602a6e455252c5c6893f.html#a7ac1fd40c9ff602a6e455252c5c6893f", null ],
+    [ "_stream", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a4dd5d74122fac53e7c98de152385988d.html#a4dd5d74122fac53e7c98de152385988d", null ],
+    [ "CanRead", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_ad08f39317ac8adccb99c7029dd2ea1d5.html#ad08f39317ac8adccb99c7029dd2ea1d5", null ],
+    [ "CanSeek", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_aef8961f2e8299972ba69905ca41f8f23.html#aef8961f2e8299972ba69905ca41f8f23", null ],
+    [ "CanTimeout", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_ae007f3771b43d8e1ec7383be8013c7ae.html#ae007f3771b43d8e1ec7383be8013c7ae", null ],
+    [ "CanWrite", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a0d029cc60793e2564b30bf8717230239.html#a0d029cc60793e2564b30bf8717230239", null ],
+    [ "Length", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_abf9c61e83e8e45e13483fd93ed51890e.html#abf9c61e83e8e45e13483fd93ed51890e", null ],
+    [ "Position", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a75cd63121d55f01a6e040e978a0dac25.html#a75cd63121d55f01a6e040e978a0dac25", null ],
+    [ "ReadTimeout", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a3d3fddb70cda730409a5c4d53c3598b4.html#a3d3fddb70cda730409a5c4d53c3598b4", null ],
+    [ "WriteTimeout", "d9/d3e/classSystem_1_1IO_1_1Stream_1_1SyncStream_a80963644b0bfa2763aea2bef98878223.html#a80963644b0bfa2763aea2bef98878223", null ]
+];

@@ -1,0 +1,6 @@
+var classMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1ContentSerializerCollectionItemNameAttribute =
+[
+    [ "ContentSerializerCollectionItemNameAttribute", "d3/d0e/classMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1ContentSerializerCollectionItemNameAttribute_a27c2c249052e7fd39786b2f2245246f7.html#a27c2c249052e7fd39786b2f2245246f7", null ],
+    [ "k__BackingField", "d3/d0e/classMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1ContentSerializerCollectionItemNameAttribute_af21891b9fab823e535e1b8a8df558d7e.html#af21891b9fab823e535e1b8a8df558d7e", null ],
+    [ "CollectionItemName", "d3/d0e/classMicrosoft_1_1Xna_1_1Framework_1_1Content_1_1ContentSerializerCollectionItemNameAttribute_a0737cbd5dfe4bcb110cd72113c7082b6.html#a0737cbd5dfe4bcb110cd72113c7082b6", null ]
+];

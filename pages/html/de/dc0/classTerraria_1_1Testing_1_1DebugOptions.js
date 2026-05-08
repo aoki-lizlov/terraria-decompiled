@@ -1,0 +1,26 @@
+var classTerraria_1_1Testing_1_1DebugOptions =
+[
+    [ "DebugOptions", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a3b6a01c3097f5fedb5ea085e044bb5d8.html#a3b6a01c3097f5fedb5ea085e044bb5d8", null ],
+    [ "SyncToJoiningPlayer", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a8ab520d00e0f63cb4f3711727bff011e.html#a8ab520d00e0f63cb4f3711727bff011e", null ],
+    [ "devLightTilesCheat", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a6ed261759588d742df1f46f5e2bee1bd.html#a6ed261759588d742df1f46f5e2bee1bd", null ],
+    [ "DrawLinkPoints", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a99c5ae50a8c8041283bc21d080746731.html#a99c5ae50a8c8041283bc21d080746731", null ],
+    [ "DrawWaitInMs", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a10dc81bbfcde969e25deb0292cdd3cde.html#a10dc81bbfcde969e25deb0292cdd3cde", null ],
+    [ "enableDebugCommands", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a098b9f34c91274618a400c9b3df6e8c2.html#a098b9f34c91274618a400c9b3df6e8c2", null ],
+    [ "FakeNetOffset", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a54058e2f9ffdd0658314bb2a1e0dff26.html#a54058e2f9ffdd0658314bb2a1e0dff26", null ],
+    [ "hideTiles", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a42747074880a5f5c64bb95ffd45ea438.html#a42747074880a5f5c64bb95ffd45ea438", null ],
+    [ "hideTiles2", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a763b8ead9accacfd24018b9a5a98b279.html#a763b8ead9accacfd24018b9a5a98b279", null ],
+    [ "hideWalls", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_aabf0c7d1ac1277c011880add25aa9b80.html#aabf0c7d1ac1277c011880add25aa9b80", null ],
+    [ "hideWater", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_ab17b3eee434001e00c58bc6130fcb47f.html#ab17b3eee434001e00c58bc6130fcb47f", null ],
+    [ "LetProjectilesAimAtTargetDummies", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_ac28b42ca5ff899c0e5bcd61594e2525b.html#ac28b42ca5ff899c0e5bcd61594e2525b", null ],
+    [ "NoDamageVar", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a60982ae8f0382db881002e09476c0399.html#a60982ae8f0382db881002e09476c0399", null ],
+    [ "noLimits", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_aed5b016d96cb08f0fce96d327c063227.html#aed5b016d96cb08f0fce96d327c063227", null ],
+    [ "noPause", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_add10c96cfb979f896b0f9f4fdb191c4c.html#add10c96cfb979f896b0f9f4fdb191c4c", null ],
+    [ "PracticeMode", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a4b1cd400c080022c18789b3f4a0dc1bf.html#a4b1cd400c080022c18789b3f4a0dc1bf", null ],
+    [ "Shared_ReportCommandUsage", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a9822b433c98a1e36de329e66c693edd7.html#a9822b433c98a1e36de329e66c693edd7", null ],
+    [ "Shared_ServerPing", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a9b3a95d2b9550a5cdbe29ee04c88aa06.html#a9b3a95d2b9550a5cdbe29ee04c88aa06", null ],
+    [ "ShowNetOffsetDust", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a3551424f452d8447b637b91ee6d0d922.html#a3551424f452d8447b637b91ee6d0d922", null ],
+    [ "ShowSections", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a1083727b6b12ccaffb4536b8168e469c.html#a1083727b6b12ccaffb4536b8168e469c", null ],
+    [ "ShowUnbreakableWall", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a2ec94aa3a2e0198ecc7a34ddb330053d.html#a2ec94aa3a2e0198ecc7a34ddb330053d", null ],
+    [ "unlockMap", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a31160011ae4b9c7790bb97284a1ce6fd.html#a31160011ae4b9c7790bb97284a1ce6fd", null ],
+    [ "UpdateWaitInMs", "de/dc0/classTerraria_1_1Testing_1_1DebugOptions_a80ed0d504736d030786a07da7765afa1.html#a80ed0d504736d030786a07da7765afa1", null ]
+];

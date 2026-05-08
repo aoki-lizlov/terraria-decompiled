@@ -1,0 +1,26 @@
+var classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter =
+[
+    [ "JumperLeashedCritter", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_af3c0328fb05cc383d5e504024cb6c4b8.html#af3c0328fb05cc383d5e504024cb6c4b8", null ],
+    [ "JumperLeashedCritter", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a363b5435b732613a00779521733910b8.html#a363b5435b732613a00779521733910b8", null ],
+    [ "CopyToDummy", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a520dd0fb8793c1ceb604332c8f1b2f46.html#a520dd0fb8793c1ceb604332c8f1b2f46", null ],
+    [ "GetDrawOffset", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a82f5e99daff9f9658f6254179adf763b.html#a82f5e99daff9f9658f6254179adf763b", null ],
+    [ "Move", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a01ea29b60b41ecd6398255fb539f0012.html#a01ea29b60b41ecd6398255fb539f0012", null ],
+    [ "Move_NoObstruction", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a007c69692114daa1857b92715d8e3690.html#a007c69692114daa1857b92715d8e3690", null ],
+    [ "PickNewTarget", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a0d29efb044adfc56e2b8f2935119a4e6.html#a0d29efb044adfc56e2b8f2935119a4e6", null ],
+    [ "SetJumpCooldown", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a2db625a76c1693793ff23e6d05909774.html#a2db625a76c1693793ff23e6d05909774", null ],
+    [ "Spawn", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a399bfe541f45884102bdfa532c12a38f.html#a399bfe541f45884102bdfa532c12a38f", null ],
+    [ "TryGetReachableTile", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a15fe87eca448238f0ba62f070ce4a430.html#a15fe87eca448238f0ba62f070ce4a430", null ],
+    [ "TryStartJump", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_aa48621f04e26975c9fb8c5a61a1714c4.html#aa48621f04e26975c9fb8c5a61a1714c4", null ],
+    [ "Update", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a7b3d616c4dbae2dd4258a89653ba2134.html#a7b3d616c4dbae2dd4258a89653ba2134", null ],
+    [ "canStandOnWater", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a8f4570cb2f020e6e5c201fd71c54c571.html#a8f4570cb2f020e6e5c201fd71c54c571", null ],
+    [ "jumpCooldown", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a94b06224c4bccfada73f2984b1c6b6b6.html#a94b06224c4bccfada73f2984b1c6b6b6", null ],
+    [ "maxJumpDuration", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a5add820ef6659b5dd66618e99014a811.html#a5add820ef6659b5dd66618e99014a811", null ],
+    [ "maxJumpHeight", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a51dcc781654676380bb00360a227d759.html#a51dcc781654676380bb00360a227d759", null ],
+    [ "maxJumpWidth", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_addbf812d19b3afa6c292ff6de905b9d7.html#addbf812d19b3afa6c292ff6de905b9d7", null ],
+    [ "maxWaitTime", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_abd403c8d45f1174b074691569a0f76f4.html#abd403c8d45f1174b074691569a0f76f4", null ],
+    [ "minJumpWidth", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a67d84da88b2ebadf28b9efe386d38687.html#a67d84da88b2ebadf28b9efe386d38687", null ],
+    [ "minWaitTime", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_a7f19f6fca83abe6b95156d7bde813e43.html#a7f19f6fca83abe6b95156d7bde813e43", null ],
+    [ "Prototype", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_afabfd0c810aa03639487efb48be0bc54.html#afabfd0c810aa03639487efb48be0bc54", null ],
+    [ "State_Normal", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_abbcb630582310d387733a897b32f73a3.html#abbcb630582310d387733a897b32f73a3", null ],
+    [ "State_Recalling", "d2/d84/classTerraria_1_1GameContent_1_1LeashedEntities_1_1JumperLeashedCritter_af80a7ab91ee675d8c99b06fde34b8733.html#af80a7ab91ee675d8c99b06fde34b8733", null ]
+];
